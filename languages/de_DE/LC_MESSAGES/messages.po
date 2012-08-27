@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: 5.6.0 Beta 2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-08-27 17:16+0100\n"
-"PO-Revision-Date: 2012-08-27 20:22+0100\n"
+"PO-Revision-Date: 2012-08-27 20:57+0100\n"
 "Last-Translator: Bernd Matzner <bernd@matznermatzner.de>\n"
 "Language-Team: concrete5-cms.de <info@concrete5-cms.de>\n"
 "Language: de_DE\n"
@@ -1076,7 +1076,7 @@ msgstr "Kommentare erlaubt."
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/guestbook/add.php:34
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/guestbook/edit.php:33
 msgid "Comments require approval."
-msgstr "Benötigen Kommentare die Bestätigung eines Moderators?"
+msgstr "Kommentare müssen von einem Moderator freigeschaltet werden"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/guestbook/add.php:44
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/guestbook/edit.php:42
@@ -1126,7 +1126,7 @@ msgstr "Ablehnen"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/models/workflow/progress/action.php:79
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/versions.php:357
 msgid "Approve"
-msgstr "Genehmigen"
+msgstr "Freischalten"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/guestbook/view.php:29
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/page_types/blog_entry.php:7
@@ -2012,11 +2012,11 @@ msgstr "Inhalt"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/blocks/core_scrapbook_display.php:19
 msgid "Proxy block for blocks pasted through the scrapbook."
-msgstr "Proxy Block für Blöcke aus der Zwischenablage."
+msgstr "Proxy Block für Blöcke aus dem Vorlagenkatalog."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/blocks/core_scrapbook_display.php:23
 msgid "Scrapbook Display (Core)"
-msgstr "Zwischenablage Darstellung (Core)"
+msgstr "Vorlagenkatalog-Darstellung (Core)"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/blocks/core_stack_display.php:20
 msgid "Proxy block for stacks added through the UI."
@@ -2290,7 +2290,7 @@ msgstr "Der Kommentar wurde entfernt."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/blocks/guestbook.php:243
 msgid "The comment has been approved."
-msgstr "Der Kommentar wurde akzeptiert."
+msgstr "Der Kommentar wurde freigeschaltet."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/blocks/guestbook.php:262
 msgid "The comment has been unapproved."
@@ -2773,8 +2773,8 @@ msgid ""
 "You are registered but a site administrator must review your account, you "
 "will not be able to login until your account has been approved."
 msgstr ""
-"Sie sind registriert, aber ein Administrator muss Ihren Account noch "
-"freigeben, damit Sie sich einloggen können."
+"Sie sind registriert, aber ein Administrator muss Ihr Konto noch "
+"freischalten, damit Sie sich anmelden können."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/upgrade.php:38
 msgid ""
@@ -2846,7 +2846,7 @@ msgstr "Berechtigungen erfolgreich geändert."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/blocks/stacks.php:25
 msgid "You must give your stack a name."
-msgstr "Sie müssen dem Vorlagenstapel einen Namen geben."
+msgstr "Bitte geben Sie dem Vorlagenstapel einen Namen."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/blocks/stacks.php:33
 msgid "Stack added successfully"
@@ -4450,7 +4450,7 @@ msgstr "Beim Download der Erweiterung ist ein Fehler aufgetreten."
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/models/package.php:507
 msgid "Concrete was not able to save the package after download."
 msgstr ""
-"Concrete konnte das Erweiterung nach dem herunterladen nicht speichern."
+"concrete5 konnte die Erweiterung nach dem Herunterladen nicht speichern."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/models/package.php:508
 msgid "An error occurred while trying to unzip the package."
@@ -4463,7 +4463,7 @@ msgstr "Beim Installieren der Erweiterung ist ein Fehler aufgetreten."
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/models/package.php:510
 #, php-format
 msgid "Unable to backup old package directory to %s"
-msgstr "Konnte altes Packetverzeichnis nicht nach %s sichern"
+msgstr "Konnte altes Paketverzeichnis nicht nach %s sichern"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/models/package.php:511
 msgid ""
@@ -4496,11 +4496,11 @@ msgstr "Änderungsdatum"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/models/page_theme.php:586
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/helpers/concrete/dashboard.php:241
 msgid "(No Name)"
-msgstr "Datenbank Name"
+msgstr "(Ohne Name)"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/models/page_theme.php:587
 msgid "(No Description)"
-msgstr "Meta Beschreibung"
+msgstr "(Ohne Beschreibung)"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/models/page_theme_archive.php:35
 #, php-format
@@ -4525,7 +4525,7 @@ msgstr "Tabellen werden stellt."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/models/starting_point_package.php:24
 msgid "Adding admin user."
-msgstr "Erstelle Admin Benutzer."
+msgstr "Erstelle Admin-Benutzer."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/models/starting_point_package.php:25
 msgid "Installing permissions & workflow."
@@ -4557,7 +4557,7 @@ msgstr "Verwaltung installiert."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/models/starting_point_package.php:32
 msgid "Installing login and registration pages."
-msgstr "Installiere Login und Registrierungs-Seiten."
+msgstr "Installiere Login- und Registrierungs-Seiten."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/models/starting_point_package.php:33
 msgid "Configuring site."
@@ -4824,25 +4824,25 @@ msgstr ""
 msgid ""
 "\"%s\" has pending changes and needs to be approved. View the page here: %s."
 msgstr ""
-"\"%s\" hat unbestätigte Änderungen und muss genehmigt werden. Betrachten Sie "
-"die Seite hier: %s."
+"\"%s\" hat unbestätigte Änderungen und muss freigeschaltet werden. "
+"Betrachten Sie die Seite hier: %s."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/models/workflow/request/requests/approve_page.php:33
 #, php-format
 msgid "Page <a href=\"%s\">%s</a> submitted for Approval."
-msgstr "Die Seite <a href=\"%s\">%s</a> wurde zur Bestätigung übermittelt."
+msgstr "Die Seite <a href=\"%s\">%s</a> wurde zur Freischaltung übermittelt."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/models/workflow/request/requests/approve_page.php:34
 msgid "Page Submitted for Approval."
-msgstr "Diese Seite wartet darauf, genehmigt zu werden."
+msgstr "Diese Seite wartet darauf, freigeschaltet zu werden."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/models/workflow/request/requests/approve_page.php:35
 msgid "Pending Approval"
-msgstr "Erwartet Genehmigung"
+msgstr "Erwartet Freischaltung"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/models/workflow/request/requests/approve_page.php:52
 msgid "Approve Page"
-msgstr "Seite genehmigen"
+msgstr "Seite freischalten"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/models/workflow/request/requests/approve_page.php:60
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/models/workflow/request/requests/approve_page.php:61
@@ -5005,7 +5005,7 @@ msgstr "Verschieben bestätigen"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/models/workflow/types/basic.php:11
 #, php-format
 msgid "Approved by %s"
-msgstr "Von %s genehmigt"
+msgstr "Von %s freigeschaltet"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/models/workflow/types/basic.php:14
 #, php-format
@@ -5058,7 +5058,7 @@ msgid ""
 "---\n"
 "\n"
 msgstr ""
-"Am %s hat der Benutzer %s die folgende Anfrage genehmigt: \n"
+"Am %s hat der Benutzer %s die folgende Anfrage freigeschaltet: \n"
 "\n"
 "---\n"
 "%s\n"
@@ -5096,7 +5096,7 @@ msgstr "Möchten Sie diesen Block wirklich löschen?"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/block_area_add_scrapbook.php:13
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/scrapbook/view.php:119
 msgid "(All page instances will also be removed)"
-msgstr "(Alle Siteninstanzen werden ebenfalls gelöscht)"
+msgstr "(Alle Seiteninstanzen werden ebenfalls gelöscht)"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/block_area_add_stack.php:145
 msgid "Contents"
@@ -5122,7 +5122,7 @@ msgstr "Vorlagenstapel hinzufügen"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/block_area_add_stack_contents.php:11
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/block_area_add_stack_contents.php:25
 msgid "Add the entire stack to this page."
-msgstr "Gesamten Stapel dieser Seite hinzufügen."
+msgstr "Gesamten Vorlagenstapel dieser Seite hinzufügen."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/block_area_add_stack_contents.php:18
 msgid "Full Stack"
@@ -5257,7 +5257,7 @@ msgstr "Keine Benutzervorlagen verfügbar."
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/scrapbook/view.php:259
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/i18n_js.php:40
 msgid "Custom Template"
-msgstr "Benutzer Vorlage"
+msgstr "Benutzervorlage"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/block_custom_template.php:28
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/block_master_collection_composer.php:36
@@ -5267,7 +5267,7 @@ msgstr "Nichts ausgewählt"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/block_custom_template.php:45
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/block_master_collection_composer.php:23
 msgid "Block Name"
-msgstr "Datenbank Name"
+msgstr "Blockname"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/block_custom_template.php:53
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/block_footer_edit.php:19
@@ -5405,7 +5405,7 @@ msgstr "Datum/Zeit"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/collection_add.php:58
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/collection_metadata.php:84
 msgid "Custom Attributes"
-msgstr "benutzerdefinierte Attribute"
+msgstr "Benutzerdefinierte Attribute"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/collection_add.php:109
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/i18n_js.php:110
@@ -5964,7 +5964,7 @@ msgstr "Feld verfügbar in der Seitensuche der Verwaltung."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/attribute/type_form_required.php:93
 msgid "Content included in file search index."
-msgstr "Inhalt einbezogen in Datei Suchindex."
+msgstr "Inhalt einbezogen in Datei-Suchindex."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/attribute/type_form_required.php:94
 msgid "Field available in File Manager Search."
@@ -6585,7 +6585,7 @@ msgstr "Anzahl der Unterseiten"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/pages/search_form_advanced.php:13
 msgid "Approved Version"
-msgstr "Genehmigte Version"
+msgstr "Freigeschaltete Version"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/pages/search_form_advanced.php:17
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/seo/bulk_seo_tool.php:107
@@ -6595,12 +6595,12 @@ msgstr "Elternseite"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/pages/search_form_advanced.php:59
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/pages/search_form_advanced.php:233
 msgid "Unapproved"
-msgstr "Nicht genehmigt"
+msgstr "Abgelehnt"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/pages/search_form_advanced.php:60
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/pages/search_form_advanced.php:234
 msgid "Approved"
-msgstr "Genehmigt"
+msgstr "Freigeschaltet"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/pages/search_form_advanced.php:70
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/pages/search_form_advanced.php:246
@@ -7506,10 +7506,9 @@ msgid ""
 "use together.  Stacks are like \"mini-pages\", complete with versioning.\\n"
 "\\n Use stacks on your site to update frequently used content from one place."
 msgstr ""
-"Kleine Sammlungen von Blöcken. Mit Vorlagenstapeln können die Reihenfolge, "
-"Inhalt und Berechtigungen mehrerer Blöcke, die (zusammen) mehrfach auf der "
-"Seite genutzt werden sollen ähnlich \"Mini-Seiten\" verwaltet werden (inkl. "
-"Versionierung)."
+"Mit Vorlagenstapeln können die Reihenfolge, Inhalt und Berechtigungen "
+"mehrerer Blöcke, die (zusammen) mehrfach auf der Seite genutzt werden sollen "
+"ähnlich \"Mini-Seiten\" verwaltet werden (inkl. Versionierung)."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/helpers/concrete/interface/help.php:37
 msgid ""
@@ -8081,7 +8080,7 @@ msgstr "Berechtigungen setzen"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/helpers/concrete/upgrade/version_560.php:124
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/blocks/permissions.php:8
 msgid "Block &amp; Stack Permissions"
-msgstr "Berechtigungen für Blöcke &amp; Vorlagenstapel"
+msgstr "Berechtigungen für Blöcke &amp; Stapel"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/helpers/concrete/upgrade/version_560.php:130
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/permissions/advanced.php:5
@@ -8116,12 +8115,12 @@ msgid ""
 "\n"
 "%s\n"
 msgstr ""
-"Liebe(r) %s,\n"
+"Hallo %s,\n"
 "\n"
 "%s\n"
 "\n"
-"Sie können alle offenen Aufgaben auf der folgenden Seite prüfen, bestätigen "
-"oder ablehnen:\n"
+"Sie können alle offenen Aufgaben auf der folgenden Seite prüfen, "
+"freischalten oder ablehnen:\n"
 "\n"
 "%s\n"
 
@@ -8325,7 +8324,7 @@ msgstr ""
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/mail/user_register_approval_required.php:5
 msgid "Registration - Approval Required"
-msgstr "Registrierung - Bestätigung erforderlich"
+msgstr "Registrierung - Freischaltung erforderlich"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/mail/user_register_approval_required.php:6
 #, php-format
@@ -8340,8 +8339,8 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Ein neuer Benutzer hat sich auf Ihre Website angemeldet. Dieses Konto muss "
-"bestätigt werden bevor es aktiviert werden kann.\n"
+"Ein neuer Benutzer hat sich auf Ihre Website registriert. Dieses Konto muss "
+"freigeschaltet werden, bevor es aktiviert werden kann.\n"
 "\n"
 "Benutzername: %s\n"
 "E-Mail-Adresse: %s\n"
@@ -8357,7 +8356,7 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Sie können dieses Konto bestätigen oder entfernen:\n"
+"Sie können dieses Konto freischalten oder entfernen:\n"
 "\n"
 "%s"
 
@@ -8561,7 +8560,7 @@ msgstr "Zurück"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/install.php:15
 msgid "To install concrete5, please fill out the form below."
-msgstr "Bitte Formular ausfüllen um Concrete zu installieren."
+msgstr "Bitte füllen Sie das Formular aus, um concrete5 zu installieren."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/install.php:66
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/install.php:123
@@ -8667,8 +8666,8 @@ msgid ""
 "concrete5 cannot parse the PATH_INFO or ORIG_PATH_INFO information provided "
 "by your server."
 msgstr ""
-"Concrete konnte die Informationen in PATH_INFO bzw. ORIG_PATH_INFO von Ihrem "
-"Webserver nicht verarbeiten."
+"concrete5 konnte die Informationen in PATH_INFO bzw. ORIG_PATH_INFO von "
+"Ihrem Webserver nicht verarbeiten."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/install.php:358
 msgid "Image Manipulation Available"
@@ -8712,7 +8711,7 @@ msgstr "Teste optionale Möglichkeiten"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/install.php:403
 msgid "Remote File Importing Available"
-msgstr "Remote Dateiimport verfügbar"
+msgstr "Remote-Dateiimport verfügbar"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/install.php:405
 msgid ""
@@ -8745,7 +8744,7 @@ msgid ""
 "href=\"%s\">have us host a copy</a> for you."
 msgstr ""
 "Probleme? Lesen Sie <a href=\"%s\">das Hilfeforum für Installationsfragen</"
-"a>, oder <a href=\"%s\">lassen Sie uns Concrete für Sie betreiben</a>."
+"a>, oder <a href=\"%s\">lassen Sie uns concrete5 für Sie betreiben</a>."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/install.php:456
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/login.php:217
@@ -9335,7 +9334,7 @@ msgstr "Derzeit gibt es nichts zu installieren."
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/extend/install.php:312
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/extend/update.php:119
 msgid "Project Page"
-msgstr "Projekt Seite"
+msgstr "Projekt-Seite"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/extend/install.php:313
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/extend/update.php:120
@@ -9343,8 +9342,8 @@ msgid ""
 "Your site is currently connected to the concrete5 community. Your project "
 "page URL is:"
 msgstr ""
-"Ihre Website ist aktuell mit der concrete5 Community verbunden. Ihre "
-"Projektseiten Adresse ist:"
+"Ihre Website ist aktuell mit der concrete5-Community verbunden. Ihre "
+"Projektseiten-Adresse lautet:"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/extend/install.php:325
 msgid ""
@@ -9976,7 +9975,7 @@ msgid ""
 "<strong>Note</strong>: Scrapbooks are preserved for backward compatibility, "
 "but you really should be using <a href=\"%s\">stacks</a> instead."
 msgstr ""
-"<strong>Hinweis</strong>: Vorlagenblöcke werden nur noch aus "
+"<strong>Hinweis</strong>: Vorlagenkataloge werden nur noch aus "
 "Kompatibilitätsgründen unterstützt. Bitte nutzen Sie stattdessen <a href=\"%s"
 "\">Vorlagenstapel</a>."
 
@@ -10005,7 +10004,7 @@ msgstr "&laquo; Zurück zum Vorlagenkatalog"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/scrapbook/view.php:233
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/pile_manager.php:256
 msgid "Add Block to Scrapbook"
-msgstr "Block als Vorlage speichern"
+msgstr "Block einem Vorlagenkatalog hinzufügen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/scrapbook/view.php:240
 msgid "You have no items in this scrapbook."
@@ -10348,7 +10347,7 @@ msgstr "Keine Aktualisierung verfügbar."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/basics/editor.php:1
 msgid "Rich Text Editor"
-msgstr "WYSIWYG Texteditor"
+msgstr "WYSIWYG-Texteditor"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/basics/editor.php:1
 msgid "Control the options available for TinyMCE."
@@ -10368,7 +10367,7 @@ msgstr "Büro"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/basics/editor.php:46
 msgid "Editor Dimensions"
-msgstr "Editor Dimensionen"
+msgstr "Editor-Größen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/basics/editor.php:49
 msgid "Width "
@@ -10380,7 +10379,7 @@ msgstr "Höhe"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/basics/editor.php:91
 msgid "TinyMCE Reference"
-msgstr "TinyMCE Dokumentation"
+msgstr "TinyMCE-Dokumentation"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/basics/icons.php:2
 msgid "Bookmark Icons"
@@ -10547,7 +10546,7 @@ msgstr "POP-Mailserver-Einstellungen"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/mail/importers.php:36
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/mail/method.php:25
 msgid "Mail Server"
-msgstr "Mail Server"
+msgstr "Mailserver"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/mail/importers.php:55
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/mail/method.php:44
@@ -12350,15 +12349,15 @@ msgstr ""
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/page_controls_menu_js.php:303
 msgid "This page is pending approval."
-msgstr "Diese Seite wartet auf Genehmigung."
+msgstr "Diese Seite wartet auf Freischaltung."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/page_controls_menu_js.php:310
 msgid "Submit for Approval"
-msgstr "Zur Bestätigung übermitteln"
+msgstr "Zur Freischaltung übermitteln"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/page_controls_menu_js.php:314
 msgid "Approve Version"
-msgstr "Version genehmigen"
+msgstr "Version freischalten"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/pile_manager.php:187
 msgid "Error: Area not found."
@@ -12375,11 +12374,11 @@ msgstr "Wählen Sie einen Vorlagenkatalog."
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/pile_manager.php:237
 #, php-format
 msgid "%s's Personal Scrapbook"
-msgstr "Persönliche Vorlagen von %s"
+msgstr "Persönlicher Vorlagenkatalog von %s"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/pile_manager.php:250
 msgid "New copy to Scrapbook"
-msgstr "Kopie des Blocks als Vorlage speichern"
+msgstr "Kopie des Blocks im Vorlagenkatalog speichern"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/pile_manager.php:251
 msgid "Alias original to Scrapbook"
@@ -12446,7 +12445,7 @@ msgstr "Ersteller"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/versions.php:350
 msgid "Approver"
-msgstr "Genehmigt von"
+msgstr "Freigeschaltet von"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/versions.php:351
 msgid "Created"
@@ -12525,7 +12524,7 @@ msgid ""
 "approval rights will have to activate the change.\n"
 msgstr ""
 "Sie haben beantragt, die Seite \"%s\" unter \"%s\" zu verschieben. Jemand "
-"mit Genehmigungsrechten muss dies noch bestätigen.\n"
+"mit Freischaltungsrechten muss dies noch bestätigen.\n"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/dashboard/sitemap_drag_request.php:163
 msgid "What do you wish to do?"
@@ -12660,13 +12659,13 @@ msgstr "Zusätzliche Attribute"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/pages/customize_search_columns.php:78
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/users/customize_search_columns.php:82
 msgid "Column Order"
-msgstr "Spalten Reihenfolge"
+msgstr "Spaltensortierung"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/files/customize_search_columns.php:80
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/pages/customize_search_columns.php:80
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/users/customize_search_columns.php:84
 msgid "Click and drag to change column order."
-msgstr "Spaltenordnung per Drag & Drop ändern."
+msgstr "Spaltensortierung per Drag & Drop ändern."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/files/customize_search_columns.php:102
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/pages/customize_search_columns.php:102
@@ -12851,7 +12850,7 @@ msgstr "Speicherort"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/files/properties.php:205
 msgid "File Details"
-msgstr "Datei Details"
+msgstr "Dateiinformationen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/files/properties.php:230
 msgid "Dashboard File Manager"
@@ -12869,7 +12868,7 @@ msgstr "Hinzugefügt von <strong>%s</strong> am %s"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/files/properties.php:289
 #, php-format
 msgid "%s File Properties"
-msgstr "%s Datei Eigenschaften"
+msgstr "%s Dateieigenschaften"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/files/properties.php:340
 msgid "File Versions"
@@ -12902,7 +12901,7 @@ msgstr "Download Zeitpunkt"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/files/properties.php:419
 msgid "File Version ID"
-msgstr "Datei Versions-ID"
+msgstr "Datei-Versions-ID"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/files/replace.php:52
 msgid "Add from Remote URL"
@@ -12985,7 +12984,7 @@ msgstr "Konnte den Namen der Datei nicht finden bei "
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/files/importers/remote.php:135
 msgid "There was an error downloading "
-msgstr "Beim Runterladen ist ein Fehler aufgetreten."
+msgstr "Beim Herunterladen ist ein Fehler aufgetreten."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/marketplace/add-ons.php:9
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/marketplace/details.php:9
