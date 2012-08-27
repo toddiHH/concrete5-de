@@ -1,2 +1,6 @@
 config/site.php
 files/cache/*
+*.DS_Store*
+.DS_Store
+.idea
+.sass-cache
