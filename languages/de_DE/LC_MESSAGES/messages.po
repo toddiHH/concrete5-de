@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: 5.6.0 Beta 2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-08-27 17:16+0100\n"
-"PO-Revision-Date: 2012-08-27 17:19+0100\n"
+"PO-Revision-Date: 2012-08-27 20:00+0100\n"
 "Last-Translator: Bernd Matzner <bernd@matznermatzner.de>\n"
 "Language-Team: concrete5-cms.de <info@concrete5-cms.de>\n"
 "Language: de_DE\n"
@@ -102,31 +102,31 @@ msgstr "Seiten anzeigen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/autonav/form_setup_html.php:40
 msgid "at the top level."
-msgstr "von oberster Ebene."
+msgstr "auf der obersten Ebene."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/autonav/form_setup_html.php:41
 msgid "at the second level."
-msgstr "von zweiter Ebene."
+msgstr "ab der zweiten Ebene."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/autonav/form_setup_html.php:42
 msgid "at the third level."
-msgstr "von dritter Ebene."
+msgstr "ab der dritten Ebene."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/autonav/form_setup_html.php:43
 msgid "at the level above."
-msgstr "von vorheriger Ebene."
+msgstr "auf der darüberliegenden Ebene."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/autonav/form_setup_html.php:44
 msgid "at the current level."
-msgstr "von aktueller Ebene."
+msgstr "auf der aktuellen Ebene."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/autonav/form_setup_html.php:45
 msgid "At the level below."
-msgstr "In der Ebene unterhalb."
+msgstr "auf der darunterliegenden Ebene."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/autonav/form_setup_html.php:46
 msgid "Beneath a particular page"
-msgstr "Unterhalb einer bestimmten Seite"
+msgstr "unterhalb einer bestimmten Seite"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/autonav/form_setup_html.php:57
 msgid "Sub Pages to Display"
@@ -171,7 +171,7 @@ msgstr "Relevante Unterseiten."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/autonav/form_setup_html.php:61
 msgid "Display breadcrumb trail."
-msgstr "Brotkrümel (Breadcrumb)-Pfad anzeigen."
+msgstr "Brotkrümel-Pfad (Breadcrumb) anzeigen."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/autonav/form_setup_html.php:62
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/autonav/form_setup_html.php:70
@@ -180,7 +180,7 @@ msgstr "Alle anzeigen."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/autonav/form_setup_html.php:66
 msgid "Sub-Page Levels"
-msgstr "Unterseiten Ebenen"
+msgstr "Unterseiten-Ebenen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/autonav/form_setup_html.php:68
 msgid "Display sub pages to current."
@@ -286,7 +286,7 @@ msgstr ""
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/dashboard_app_status/view.php:7
 msgid "Learn more and update."
-msgstr "Mehr erfahren und updaten."
+msgstr "Mehr erfahren und aktualisieren."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/dashboard_app_status/view.php:10
 msgid "concrete5"
@@ -377,7 +377,7 @@ msgstr ""
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/dashboard_site_activity/view.php:8
 msgid "More Statistics"
-msgstr "Mehr Statistiken"
+msgstr "Weitere Statistiken"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/date_archive/form.php:7
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/tags/tag_form.php:17
@@ -699,8 +699,8 @@ msgstr "(Mehrere E-Mail-Adressen mit einem Komma trennen)"
 msgid ""
 "Solving a <a href=\"%s\" target=\"_blank\">CAPTCHA</a> Required to Post?"
 msgstr ""
-"Eingabe eines <a href=\"%s\" target=\"_blank\">CAPTCHA</a> erforderlich um "
-"Beitrag zu erstellen?"
+"Soll ein <a href=\"%s\" target=\"_blank\">CAPTCHA</a> ausgefüllt werden "
+"müssen, um einen Beitrag zu erstellen?"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/form/form_setup_html.php:65
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/form/form_setup_html.php:158
@@ -756,7 +756,7 @@ msgstr "Nach erfolgreicher Übermittlung auf eine andere Seite weiterleiten?"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/form/form_setup_html.php:93
 msgid "Add uploaded files to a set?"
-msgstr "Hochgeladene Dateien zu einem Dateialbum hinzufügen?"
+msgstr "Hochgeladene Dateien zu einer Dateisammlung hinzufügen?"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/form/form_setup_html.php:120
 msgid "Add a New Question"
@@ -865,7 +865,7 @@ msgstr "Antwort-Optionen"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/form/form_setup_html.php:174
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/form/form_setup_html.php:288
 msgid "Put each answer options on a new line"
-msgstr "Schreiben Sie jede Antwortmöglichkeit in einer neuen Zeile"
+msgstr "Schreiben Sie jede Antwortoption in eine neue Zeile"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/form/form_setup_html.php:181
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/form/form_setup_html.php:295
@@ -1400,7 +1400,7 @@ msgstr "Seitenumbruch"
 msgid ""
 "Display pagination interface if more items are available than are displayed."
 msgstr ""
-"Eine Seitenumbruchs-Navigation erstellen, wenn mehr Elemente verfügbar sind "
+"Eine Seitenumbruchs-Navigation erstellen, wenn mehr Elemente verfügbar sind, "
 "als angezeigt werden."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/page_list/page_list_form.php:81
@@ -1569,7 +1569,7 @@ msgstr ""
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/slideshow/fileset_row_include.php:4
 msgid "File Set:"
-msgstr "Dateialbum:"
+msgstr "Dateisammlung:"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/slideshow/fileset_row_include.php:5
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/slideshow/image_row_include.php:12
@@ -1603,7 +1603,7 @@ msgstr "Individuelle Slideshow"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/slideshow/form_setup_html.php:24
 msgid "Pictures from File Set"
-msgstr "Bilder aus dem Dateialbum"
+msgstr "Bilder aus der Dateisammlung"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/slideshow/form_setup_html.php:28
 msgid "Playback"
@@ -1616,7 +1616,7 @@ msgstr "Anzeigeordnung"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/slideshow/form_setup_html.php:31
 msgid "Random (But keep sets together)"
-msgstr "Zufällig (aber Alben zusammenhalten)"
+msgstr "Zufällig (aber Sammlungen zusammenhalten)"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/slideshow/form_setup_html.php:32
 msgid "Completely Random"
@@ -1629,7 +1629,7 @@ msgstr "Bild hinzufügen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/slideshow/image_row_include.php:16
 msgid "Set Number"
-msgstr "Dateialben-Nummer"
+msgstr "Sammlungsnummer"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/slideshow/image_row_include.php:18
 msgid "Link URL (optional)"
@@ -2168,7 +2168,7 @@ msgid ""
 "question set id)."
 msgstr ""
 "Hoppla, etwas stimmt mit dem Formular, welches Sie abgesendet haben, nicht "
-"(die Frage-ID ist nicht gesetzt)."
+"(die Frage-ID ist nicht festgelegt)."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/blocks/form.php:254
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/blocks/guestbook.php:109
@@ -2407,7 +2407,7 @@ msgstr "Bitte mindestens 2 Bilder auswählen."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/blocks/slideshow.php:48
 msgid "Please choose a file set."
-msgstr "Bitte wählen Sie ein Dateialbum aus."
+msgstr "Bitte wählen Sie eine Dateisammlung aus."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/blocks/survey.php:27
 msgid "Provide a simple survey, along with results in a pie chart format."
@@ -2655,8 +2655,8 @@ msgid ""
 "An email containing instructions on resetting your password has been sent to "
 "your account address."
 msgstr ""
-"Eine E-Mail mit Instruktionen um ein neues Passwort zu setzen wurde an Ihre "
-"Adresse versendet."
+"Eine E-Mail mit Hinweisen, wie Sie Ihr Passwort zurücksetzen können, wurde "
+"an Ihre Adresse versendet."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/login.php:391
 msgid ""
@@ -3069,19 +3069,19 @@ msgstr "Dateiattribut aktualisiert."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/files/sets.php:26
 msgid "New file set added successfully."
-msgstr "Neues Dateialbum erfolgreich hinzugefügt."
+msgstr "Neue Dateisammlung erfolgreich hinzugefügt."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/files/sets.php:31
 msgid "File set deleted successfully."
-msgstr "Dateialbum erfolgreich entfernt."
+msgstr "Dateisammlung erfolgreich entfernt."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/files/sets.php:52
 msgid "You do not have permission to delete this file set."
-msgstr "Sie haben nicht die Berechtigung, dieses Dateialbum zu löschen."
+msgstr "Sie haben nicht die Berechtigung, diese Dateisammlung zu löschen."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/files/sets.php:63
 msgid "File set updated successfully."
-msgstr "Dateialbum erfolgreich aktualisiert."
+msgstr "Dateisammlung erfolgreich aktualisiert."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/files/sets.php:79
 msgid "Invalid ID"
@@ -3235,44 +3235,44 @@ msgstr "Reihenfolge gespeichert."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/attributes/sets.php:39
 msgid "Attribute set added."
-msgstr "Attribut-Set hinzugefügt."
+msgstr "Attributsammlung hinzugefügt."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/attributes/sets.php:42
 msgid "Attribute set deleted."
-msgstr "Attribut-Set gelöscht."
+msgstr "Attributsammlung gelöscht."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/attributes/sets.php:45
 msgid "Attribute set updated."
-msgstr "Attribut-Set aktualisiert."
+msgstr "Attributsammlung aktualisiert."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/attributes/sets.php:54
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/attributes/sets.php:86
 msgid "Specify a handle for your attribute set."
-msgstr "Handle für das Attribut-Set festlegen."
+msgstr "Bezeichner für die Attributsammlung festlegen."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/attributes/sets.php:58
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/attributes/sets.php:90
 msgid "That handle is in use."
-msgstr "Dieses Handle wird bereits verwendet."
+msgstr "Dieser Bezeichner wird bereits verwendet."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/attributes/sets.php:62
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/attributes/sets.php:94
 msgid "Specify a name for your attribute set."
-msgstr "Name für das Attribut-Set festlegen."
+msgstr "Name für die Attributsammlung festlegen."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/attributes/sets.php:83
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/attributes/sets.php:115
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/attributes/sets.php:143
 msgid "Invalid attribute set."
-msgstr "Ungültiges Attribut-Set."
+msgstr "Ungültige Attributsammlung"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/attributes/sets.php:145
 msgid ""
 "This attribute set is locked. That means it was added by a package and "
 "cannot be manually removed."
 msgstr ""
-"Das Attribut-Set ist geschützt. Es kann nicht manuell entfernt werden, weil "
-"es von einer Erweiterung stammt."
+"Die Attributsammlung ist geschützt. Es kann nicht manuell entfernt werden, "
+"weil es von einer Erweiterung stammt."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/backup_restore/backup.php:58
 #, php-format
@@ -3495,7 +3495,7 @@ msgstr "CAPTCHA-Einstellungen gespeichert."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/permissions/captcha.php:35
 msgid "Invalid captcha library."
-msgstr "Ungültige CAPTCHA Bibliothek."
+msgstr "Ungültige CAPTCHA-Bibliothek."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/permissions/file_types.php:25
 msgid "Allowed file types saved."
@@ -3714,25 +3714,25 @@ msgstr "Benutzer erfolgreich gelöscht."
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/users/group/sets.php:23
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/users/group/sets.php:63
 msgid "Specify a name for your group set."
-msgstr "Bitte geben Sie einen Namen für das Gruppen-Set an."
+msgstr "Bitte geben Sie einen Namen für die Gruppensammlung an."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/users/group/sets.php:44
 msgid "Group set added successfully."
-msgstr "Gruppen-Set erfolgreich hinzugefügt."
+msgstr "Gruppensammlung erfolgreich hinzugefügt."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/users/group/sets.php:48
 msgid "Group set deleted successfully."
-msgstr "Gruppen-Set erfolgreich gelöscht."
+msgstr "Gruppensammlung erfolgreich gelöscht."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/users/group/sets.php:52
 msgid "Group set updated successfully."
-msgstr "Gruppen-Set erfolgreich aktualisiert."
+msgstr "Gruppensammlung erfolgreich aktualisiert."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/users/group/sets.php:60
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/users/group/sets.php:81
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/users/group/sets.php:108
 msgid "Invalid group set."
-msgstr "Ungültiges Gruppen-Set"
+msgstr "Ungültige Gruppensammlung"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/workflow/list.php:13
 msgid "Invalid workflow ID."
@@ -3938,15 +3938,15 @@ msgid ""
 "Unable to complete action: your IP address has been banned. Please contact "
 "the administrator of this site for more information."
 msgstr ""
-"Nicht in der Lage die Aktion auszuführen: Ihre IP Adresse wurde gesperrt. "
-"Bitte kontaktieren Sie einen Administrator dieser Website für mehr "
-"Informationen."
+"Die Aktion konnte nicht ausgeführt werden: Ihre IP Adresse wurde gesperrt. "
+"Bitte kontaktieren Sie einen Administrator dieser Website."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/helpers/validation/token.php:29
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/helpers/validation/token.php:29
 msgid "Invalid form token. Please reload this form and submit again."
 msgstr ""
-"Ungültiges Formulartoken. Bitte Formular neu laden und erneut abschicken."
+"Ungültiger Formularschlüssel. Bitte laden Sie das Formular erneut und senden "
+"Sie es noch einmal ab."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/jobs/generate_sitemap.php:20
 msgid "Generate the sitemap.xml file"
@@ -4093,7 +4093,7 @@ msgid ""
 "or the target directory does not exist."
 msgstr ""
 "Kann das Verzeichnis nicht von %s nach %s kopieren. Möglicherweise sind "
-"Berechtigungen falsch gesetzt oder das Zielverzeichnis existiert nicht."
+"Berechtigungen falsch festgelegt oder das Zielverzeichnis existiert nicht."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/libraries/backup.php:24
 #, php-format
@@ -4170,9 +4170,9 @@ msgid ""
 "request IP address is, and email it to us at <a href=\"mailto:help@concrete5."
 "org\">help@concrete5.org</a>."
 msgstr ""
-"Ein Marketplace-Token konnte nicht generiert werden. Stellen Sie sicher dass "
-"entweder allow_url_fopen oder cURL auf Ihrem Server aktiviert ist. Falls "
-"beide aktiviert sind, ist es möglich, dass Ihre IP-Adresse auf unserem "
+"Ein Marketplace-Schlüssel konnte nicht generiert werden. Stellen Sie sicher "
+"dass entweder allow_url_fopen oder cURL auf Ihrem Server aktiviert ist. "
+"Falls beide aktiviert sind, ist es möglich, dass Ihre IP-Adresse auf unserem "
 "Server in der schwarzen Liste steht. Ermitteln Sie die IP-Adresse Ihre "
 "Website und senden Sie uns eine Anfrage an: <a href=\"mailto:help@concrete5."
 "org\">help@concrete5.org</a>."
@@ -4648,7 +4648,7 @@ msgstr "Sie dürfen nicht mehr als %s Nachrichten in %s Minuten versenden"
 msgid ""
 "User: %s has tried to send more than %s private messages within %s minutes"
 msgstr ""
-"Benutzer: %s hat versucht mehr als %s private Nachrichten innerhalb von %s "
+"Benutzer: %s hat versucht, mehr als %s private Nachrichten innerhalb von %s "
 "Minuten zu versenden"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/models/user_private_message.php:275
@@ -4763,12 +4763,12 @@ msgstr " + "
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/models/permission/access/entity/types/group_set.php:13
 msgid "Add Group Set"
-msgstr "Gruppen-Set hinzufügen"
+msgstr "Gruppensammlung hinzufügen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/models/permission/access/entity/types/group_set.php:13
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/users/search_form_advanced.php:10
 msgid "Group Set"
-msgstr "Gruppen-Set"
+msgstr "Gruppensammlung"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/models/permission/access/entity/types/page_owner.php:33
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/models/permission/access/entity/types/page_owner.php:65
@@ -4802,7 +4802,8 @@ msgstr "Ungültiger Sicherheitscode"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/models/system/captcha/types/securimage/controller.php:32
 msgid "Click the image to see another captcha."
-msgstr "Bild anklicken um ein anderes captcha zu zeigen."
+msgstr ""
+"Bitte klicken Sie das Bild an, um einen neuen Sicherheitscode zu laden."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/models/system/captcha/types/securimage/controller.php:37
 msgid "Please type the letters and numbers shown in the image."
@@ -5066,7 +5067,7 @@ msgstr ""
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/block_area_add_new.php:168
 msgid "Learn more about these block types."
-msgstr "Mehr über diese Blocktypen erfahren."
+msgstr "Weiteres über diese Blocktypen erfahren."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/block_area_add_new.php:206
 msgid "No block types can be added to this area."
@@ -5075,7 +5076,7 @@ msgstr "Zu diesem Bereich können keine Blocktypen hinzugefügt werden."
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/block_area_add_new.php:218
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/blocks/types/view.php:73
 msgid "More Blocks"
-msgstr "Mehr Blöcke"
+msgstr "Weitere Blöcke"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/block_area_add_new.php:219
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/blocks/types/view.php:74
@@ -5085,7 +5086,7 @@ msgstr "Marketplace nach Erweiterungen für Ihre Site durchsuchen!"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/block_area_add_new.php:220
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/blocks/types/view.php:75
 msgid "More Add-ons"
-msgstr "Mehr Erweiterungen"
+msgstr "Weitere Erweiterungen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/block_area_add_scrapbook.php:13
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/scrapbook/view.php:119
@@ -5546,7 +5547,7 @@ msgstr ""
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/collection_metadata.php:147
 msgid "More URLs"
-msgstr "Mehr URLs"
+msgstr "Weitere URLs"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/collection_metadata.php:157
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/collection_metadata_fields.php:254
@@ -5587,8 +5588,8 @@ msgid ""
 "No attributes assigned. Any attributes you set here will automatically be "
 "set on pages when they are created."
 msgstr ""
-"Keine Attribute zugewiesen. Hier gesetzte Attribute werden automatisch beim "
-"Erstellen von neuen Seiten dieses Typs gesetzt."
+"Keine Attribute zugewiesen. Hier festgelegte Attribute werden automatisch "
+"auch neu angelegten Seiten dieses Typs zugewiesen."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/collection_metadata_fields.php:88
 msgid "No attributes assigned."
@@ -5829,7 +5830,7 @@ msgstr "Keine befristeten Berechtigungen eingeräumt"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/custom_style.php:4
 msgid "Custom design options have been disabled."
-msgstr "Benutzerdefinierte Designoptionen wurden deaktiviert."
+msgstr "Benutzerdefinierte Designs wurden deaktiviert."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/custom_style.php:65
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/custom_style/fonts.php:4
@@ -5872,7 +5873,7 @@ msgstr "Diesen Stil als neue Vorlage speichern?"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/custom_style.php:115
 msgid "Reset Styles"
-msgstr "Styles zurücksetzen"
+msgstr "Stile zurücksetzen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/custom_style.php:122
 msgid ""
@@ -5892,7 +5893,7 @@ msgstr "Seitenlink einfügen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/editor_controls.php:21
 msgid "Customize Toolbar"
-msgstr "Toolbar anpassen"
+msgstr "Werkzeugleiste anpassen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/pane_header.php:9
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/helpers/concrete/dashboard.php:169
@@ -5921,7 +5922,7 @@ msgstr "Attribut löschen"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/attribute/type_form_required.php:45
 #, php-format
 msgid "%s: Basic Details"
-msgstr "%s: Basic Details"
+msgstr "%s: Grundeinstellungen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/attribute/type_form_required.php:48
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/pages/types/add.php:29
@@ -5930,11 +5931,11 @@ msgstr "%s: Basic Details"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/attributes/sets.php:23
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/attributes/sets.php:144
 msgid "Handle"
-msgstr "Handle"
+msgstr "Bezeichner"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/attribute/type_form_required.php:65
 msgid "Set"
-msgstr "Dateialbum"
+msgstr "Sammlung"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/attribute/type_form_required.php:68
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/models/attribute/types/select/form.php:108
@@ -5971,7 +5972,7 @@ msgstr "Feld verfügbar in der Dateiverwaltungs-Suche"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/attribute/type_form_required.php:97
 msgid "Content included in user keyword search."
-msgstr "Inhalt einbezogen in Stichwort Suche."
+msgstr "Inhalt einbezogen in der Stichwort-Suche."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/attribute/type_form_required.php:98
 msgid "Field available in Dashboard User Search."
@@ -5979,7 +5980,7 @@ msgstr "Feld verfügbar in der Benutzer-Suche der Verwaltung"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/attribute/categories/user.php:14
 msgid "User Attribute Options"
-msgstr "Benutzerattribute Optionen"
+msgstr "Benutzer-Attributoptionen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/attribute/categories/user.php:16
 msgid "Public Display"
@@ -6048,35 +6049,35 @@ msgstr "kein"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/custom_style/border.php:13
 msgid "solid"
-msgstr "solid"
+msgstr "durchgehend (solid)"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/custom_style/border.php:14
 msgid "dotted"
-msgstr "dotted"
+msgstr "gepunktet (dotted)"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/custom_style/border.php:15
 msgid "dashed"
-msgstr "dashed"
+msgstr "gestrichelt (dashed)"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/custom_style/border.php:16
 msgid "double"
-msgstr "double"
+msgstr "doppelt (double)"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/custom_style/border.php:17
 msgid "groove"
-msgstr "groove"
+msgstr "tiefer gesetzt (groove)"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/custom_style/border.php:18
 msgid "inset"
-msgstr "inset"
+msgstr "eingedrückt (inset)"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/custom_style/border.php:19
 msgid "outset"
-msgstr "outset"
+msgstr "hervorgehoben (outset)"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/custom_style/border.php:20
 msgid "ridge"
-msgstr "ridge"
+msgstr "höher gesetzt (ridge)"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/custom_style/border.php:34
 msgid "Direction"
@@ -6090,7 +6091,7 @@ msgstr "Vollständig"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/custom_style/spacing.php:9
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/custom_style/spacing.php:46
 msgid "Top"
-msgstr "Top"
+msgstr "Oben"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/custom_style/border.php:40
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/custom_style/fonts.php:55
@@ -6103,7 +6104,7 @@ msgstr "Rechts"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/custom_style/spacing.php:25
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/custom_style/spacing.php:62
 msgid "Bottom"
-msgstr "Bottom"
+msgstr "Unten"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/custom_style/border.php:42
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/custom_style/fonts.php:53
@@ -6119,7 +6120,7 @@ msgstr "Farbe"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/custom_style/css.php:7
 msgid "CSS ID"
-msgstr "CSS ID"
+msgstr "CSS-ID"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/custom_style/css.php:10
 msgid ""
@@ -6130,7 +6131,7 @@ msgstr ""
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/custom_style/css.php:14
 msgid "CSS Class Name(s)"
-msgstr "CSS Klassenname(n)"
+msgstr "CSS-Klassenname(n)"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/custom_style/css.php:21
 msgid "Additional CSS"
@@ -6138,7 +6139,7 @@ msgstr "Zusätzliche CSS Anweisungen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/custom_style/fonts.php:8
 msgid "Face"
-msgstr "Face"
+msgstr "Schriftart"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/custom_style/fonts.php:12
 msgid "Inherit"
@@ -6180,7 +6181,7 @@ msgstr "Ansicht"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/dashboard/attributes_table.php:23
 msgid "Grouped by set"
-msgstr "Gruppiert nach Set"
+msgstr "Gruppiert nach Sammlung"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/dashboard/attributes_table.php:24
 msgid "In one list"
@@ -6188,7 +6189,7 @@ msgstr "In einer Liste"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/dashboard/attributes_table.php:30
 msgid "Manage Sets"
-msgstr "Sets verwalten"
+msgstr "Sammlungen verwalten"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/dashboard/attributes_table.php:61
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/dashboard/attributes_table.php:125
@@ -6220,7 +6221,7 @@ msgid ""
 "Unable to connect to your project page. Your database contains a marketplace "
 "token which concrete5.org cannot verify."
 msgstr ""
-"Projektseite konnte nicht verknüpft werden (falsches Marketplace-Token)."
+"Projektseite konnte nicht verknüpft werden (falscher Marketplace-Schlüssel)."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/dashboard/marketplace_connect_failed.php:27
 msgid ""
@@ -6271,7 +6272,7 @@ msgstr ""
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/extend/update.php:130
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/extend/update.php:132
 msgid "Connect to Community"
-msgstr "Mit Community verbinden"
+msgstr "Mit der Community verbinden"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/dashboard/notification_list.php:46
 msgid "Yesterday"
@@ -6280,7 +6281,7 @@ msgstr "Gestern"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/dashboard/notification_list.php:60
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/dashboard/notification_list.php:63
 msgid "Full Release Notes"
-msgstr "Vollständige Release Notizen"
+msgstr "Vollständige Release-Notizen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/dashboard/notification_list.php:61
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/backup_restore/update.php:68
@@ -6299,7 +6300,7 @@ msgstr "Vollständigen Beitrag lesen"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/extend/update.php:55
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/extend/update.php:57
 msgid "More Information"
-msgstr "Mehr Informationen"
+msgstr "Weitere Informationen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/dashboard/notification_update.php:4
 #, php-format
@@ -6322,7 +6323,7 @@ msgstr ""
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/files/add_to_sets.php:175
 msgid "You have not created any file sets yet."
-msgstr "Sie haben noch kein Dateialbum erstellt."
+msgstr "Sie haben noch keine Dateisammlung erstellt."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/files/add_to_sets.php:180
 #, php-format
@@ -6330,17 +6331,17 @@ msgid ""
 "If a file set does not appear above, you either have no access to add files "
 "to it, or it does not accept the file types %s."
 msgstr ""
-"Erscheint weiter oben kein Dateialbum, besteht entweder keine Berechtigung, "
-"diesem Album Dateien hinzuzufügen, oder es werden folgende Dateitypen %s "
-"nicht akzeptiert."
+"Erscheint weiter oben keine Dateisammlung, verfügen Sie entweder nicht über "
+"die Berechtigung, dieser Sammlung Dateien hinzuzufügen, oder es werden "
+"folgende Dateien vom Typ %s nicht akzeptiert."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/files/add_to_sets.php:185
 msgid "Add to New Set"
-msgstr "Neuem Dateialbum hinzufügen"
+msgstr "Zu einer neuen Sammlung hinzufügen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/files/add_to_sets.php:187
 msgid "Make set public"
-msgstr "Gemeinsames Dateialbum"
+msgstr "Gemeinsame Dateisammlung"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/files/search_form_advanced.php:6
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/pages/search_form_advanced.php:5
@@ -6385,7 +6386,7 @@ msgstr "Gespeicherte Suche"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/files/search_form_advanced.php:119
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/files/search_form_sets.php:37
 msgid "Delete File Set"
-msgstr "Dateialbum löschen"
+msgstr "Dateisammlung löschen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/files/search_form_advanced.php:127
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/marketplace/search_form.php:9
@@ -6399,7 +6400,7 @@ msgstr "Stichwörter"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/files/search_form_advanced.php:138
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/files/search_sets_reload.php:20
 msgid "In Set(s)"
-msgstr "In Alben"
+msgstr "In Sammlungen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/files/search_form_advanced.php:141
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/files/search_form_sets.php:14
@@ -6407,11 +6408,11 @@ msgstr "In Alben"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/i18n_js.php:152
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/files/bulk_properties.php:286
 msgid "Sets"
-msgstr "Dateialben"
+msgstr "Sammlungen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/files/search_form_advanced.php:146
 msgid "Files in no sets."
-msgstr "Dateien ohne Albenzugehörigkeit."
+msgstr "Dateien ohne Zugehörigkeit zu einer Sammlung."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/files/search_form_advanced.php:155
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/pages/search_form_advanced.php:147
@@ -6452,7 +6453,7 @@ msgstr "Suche speichern"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/files/search_form_sets.php:45
 msgid "Display files in no sets."
-msgstr "Dateien ohne Albenzugehörigkeit anzeigen."
+msgstr "Dateien ohne Zugehörigkeit zu einer Sammlung anzeigen."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/files/search_results.php:27
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/pages/search_results.php:35
@@ -6543,7 +6544,7 @@ msgstr "Kategorie"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/marketplace/search_form.php:27
 msgid "More Options"
-msgstr "Mehr Optionen"
+msgstr "Weitere Optionen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/marketplace/search_form.php:36
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/files/customize_search_columns.php:90
@@ -6580,7 +6581,7 @@ msgstr "Veröffentlichungsdatum"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/pages/search_form_advanced.php:12
 msgid "# Children"
-msgstr "# Anzahl der Unterseiten"
+msgstr "Anzahl der Unterseiten"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/pages/search_form_advanced.php:13
 msgid "Approved Version"
@@ -6656,7 +6657,7 @@ msgstr "Verschieben/Kopieren"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/i18n_js.php:98
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/page_controls_menu_js.php:190
 msgid "Speed Settings"
-msgstr "Cache"
+msgstr "Geschwindigkeitseinstellungen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/pages/search_results.php:42
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/scrapbook/view.php:98
@@ -6805,7 +6806,7 @@ msgstr "Einstellungen wurden gespeichert."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/permission/message_list.php:13
 msgid "Workflow Options saved."
-msgstr "Die Arbeitsablauf-Optionen wurden gespeichert."
+msgstr "Die Arbeitsablauf-Einstellungen wurden gespeichert."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/permission/message_list.php:15
 msgid "User/Group Removed"
@@ -7095,8 +7096,8 @@ msgid ""
 "Permissions for this file are currently dependent on file sets and global "
 "file permissions."
 msgstr ""
-"Die Berechtigungen für diese Datei sind derzeit von den Berechtigungen des "
-"Dateialbums und den globalen Dateiberechtigungen abhängig."
+"Die Berechtigungen für diese Datei sind derzeit von den Berechtigungen der "
+"Dateisammlung und den globalen Dateiberechtigungen abhängig."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/permission/lists/file.php:23
 msgid ""
@@ -7108,7 +7109,7 @@ msgstr ""
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/permission/lists/file.php:25
 msgid "Revert to File Set and Global Permissions"
-msgstr "Zurücksetzen auf die globalen und Dateialbums-Berechtigungen"
+msgstr "Zurücksetzen auf die globalen und Dateisammlungs-Berechtigungen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/profile/sidebar.php:7
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/profile/friends.php:36
@@ -7345,7 +7346,7 @@ msgstr "Vollständige Verwaltung anzeigen"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/helpers/concrete/dashboard/sitemap.php:369
 #, php-format
 msgid "%s more to display. <a href=\"%s\">View All</a>"
-msgstr "%s mehr zum Anzeigen. <a href=\"%s\">Alle betrachten</a>"
+msgstr "%s mehr vorhanden. <a href=\"%s\">Alle betrachten</a>"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/helpers/concrete/interface/help.php:17
 msgid ""
@@ -7355,7 +7356,7 @@ msgid ""
 msgstr ""
 "Mit dem Composer können Sie Inhalte außerhalb des Seitenkontextes "
 "aufbereiten, ähnlich wie in Blog-Systemen. Um den Composer zu nutzen, muss "
-"ein Seitentyp mindestens einen Default Block haben, der die Eigenschaft "
+"ein Seitentyp mindestens einen Standard-Block haben, der die Eigenschaft "
 "\"Editierbar mit Composer\" hat."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/helpers/concrete/interface/help.php:18
@@ -7416,8 +7417,8 @@ msgid ""
 "File sets are used extensively by concrete5 and its add-ons to categorize "
 "files."
 msgstr ""
-"Alben werden ausgiebig genutzt, um Dateien zu kategorisieren und auf der "
-"Seite einzubinden."
+"Sammlungen werden ausgiebig genutzt, um Dateien zu kategorisieren und auf "
+"der Seite einzubinden."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/helpers/concrete/interface/help.php:25
 msgid ""
@@ -7453,7 +7454,7 @@ msgid ""
 "tracking code in your System & Settings."
 msgstr ""
 "Seiten-Statistiken auf einen Blick. Für erweiterte Statistiken kann unter "
-"System &amp; Einstellungen ein eigener Tracking Code angegeben werden."
+"System &amp; Einstellungen ein eigener Tracking-Code angegeben werden."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/helpers/concrete/interface/help.php:30
 msgid "Responses to any survey blocks on your site are shown here."
@@ -7567,7 +7568,8 @@ msgstr "Welche Attribute sollen auf welcher Seite verfügbar sein?"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/helpers/concrete/interface/help.php:43
 msgid "Group attributes into sets for easier organization and management."
-msgstr "Attribute können zur besseren Verwaltung in Sets gruppiert werden."
+msgstr ""
+"Attribute können zur besseren Verwaltung in Sammlungen gruppiert werden."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/helpers/concrete/interface/help.php:44
 msgid ""
@@ -7621,7 +7623,7 @@ msgstr "Wer kann welche Dateien in der Dateiverwaltung sehen?"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/helpers/concrete/interface/help.php:50
 msgid "Changing the toolbar set changes content block formatting options. "
 msgstr ""
-"Änderungen des Toolbar Sets ändern die Formatierungsoptionen des Content "
+"Änderungen der Werkzeugleiste ändern die Formatierungsoptionen des Content "
 "Blocks"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/helpers/concrete/interface/help.php:51
@@ -7868,7 +7870,7 @@ msgstr "Dateiverwaltung"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/helpers/concrete/upgrade/version_520.php:95
 msgid "All documents and images."
-msgstr "Dateien, Bilder und Alben verwalten."
+msgstr "Dateien, Bilder und Sammlungen verwalten."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/helpers/concrete/upgrade/version_520.php:104
 msgid "Scrapbook"
@@ -8065,7 +8067,7 @@ msgstr "Neuigkeiten"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/helpers/concrete/upgrade/version_560.php:107
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/users/group_sets.php:105
 msgid "Group Sets"
-msgstr "Gruppen-Sets"
+msgstr "Gruppensammlungen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/helpers/concrete/upgrade/version_560.php:113
 msgid "Bulk SEO Updater"
@@ -8439,7 +8441,7 @@ msgstr "Standardland"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/models/attribute/types/boolean/type_form.php:2
 msgid "Checkbox Options"
-msgstr "Checkbox Optionen"
+msgstr "Checkbox-Optionen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/models/attribute/types/boolean/type_form.php:5
 msgid "Default Value"
@@ -8447,11 +8449,11 @@ msgstr "Standardwert"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/models/attribute/types/boolean/type_form.php:8
 msgid "The checkbox will be checked by default."
-msgstr "Checkbox standardmässig aktivieren."
+msgstr "Checkbox standardmäßig aktivieren."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/models/attribute/types/date_time/type_form.php:2
 msgid "Date/Time Options"
-msgstr "Datum/Uhrzeit Optionen"
+msgstr "Datum/Uhrzeit-Optionen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/models/attribute/types/date_time/type_form.php:5
 msgid "Ask User For"
@@ -8475,7 +8477,7 @@ msgstr "Option hinzufügen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/models/attribute/types/select/type_form.php:43
 msgid "Select Options"
-msgstr "Auswahl Optionen"
+msgstr "Auswahl-Optionen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/models/attribute/types/select/type_form.php:46
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/files/bulk_properties.php:154
@@ -8495,7 +8497,7 @@ msgstr "Benutzerbeiträge"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/models/attribute/types/select/type_form.php:64
 msgid "Option Order"
-msgstr "Optionen Reihenfolge"
+msgstr "Reihenfolge der Optionen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/models/attribute/types/select/type_form.php:69
 msgid "Alphabetical"
@@ -8503,7 +8505,7 @@ msgstr "Alphabetisch"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/models/attribute/types/select/type_form.php:70
 msgid "Most Popular First"
-msgstr "Beliebtester Einträge zuerst"
+msgstr "Beliebteste Einträge zuerst"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/models/attribute/types/select/type_form.php:79
 msgid "Values"
@@ -8511,7 +8513,7 @@ msgstr "Werte"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/models/attribute/types/textarea/type_form.php:2
 msgid "Text Area Options"
-msgstr "Textbereich Optionen"
+msgstr "Textbereich-Optionen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/models/attribute/types/textarea/type_form.php:5
 msgid "Input Format"
@@ -8706,11 +8708,11 @@ msgstr "Cookies müssen aktiviert sein, um concrete5 zu installieren."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/install.php:391
 msgid "Testing Optional Items"
-msgstr "Teste Optionale Möglichkeiten"
+msgstr "Teste optionale Möglichkeiten"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/install.php:403
 msgid "Remote File Importing Available"
-msgstr "Remote Datei Import Verfügbar"
+msgstr "Remote Dateiimport verfügbar"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/install.php:405
 msgid ""
@@ -9180,11 +9182,11 @@ msgstr "Sie haben noch keine Seitentypen für Composer konfiguriert."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/extend/add-ons.php:12
 msgid "Browse Add-Ons"
-msgstr "Mehr Erweiterungen"
+msgstr "Weitere Erweiterungen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/extend/add-ons.php:12
 msgid "Get more add-ons from concrete5.org."
-msgstr "Mehr Erweiterungen von concrete5.org"
+msgstr "Weitere Erweiterungen von concrete5.org"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/extend/connect.php:7
 msgid "External marketplace support has been disabled for this website."
@@ -9355,11 +9357,11 @@ msgstr ""
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/extend/themes.php:12
 msgid "Browse Themes"
-msgstr "Mehr Gestaltungsvorlagen"
+msgstr "Weitere Gestaltungsvorlagen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/extend/themes.php:12
 msgid "Get more themes from concrete5.org."
-msgstr "Laden Sie mehr Gestaltungsvorlagen von concrete5.org herunter."
+msgstr "Laden Sie weitere Gestaltungsvorlagen von concrete5.org herunter."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/extend/update.php:35
 msgid ""
@@ -9387,7 +9389,7 @@ msgstr "Herunterladen und installieren"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/extend/update.php:70
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/extend/update.php:102
 msgid "More Details"
-msgstr "Mehr Details"
+msgstr "Weitere Details"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/extend/update.php:78
 msgid "Unable to locate this add-on on concrete5.org"
@@ -9414,7 +9416,7 @@ msgstr ""
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/users/group_sets.php:127
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/users/group_sets.php:151
 msgid "Add Set"
-msgstr "Set hinzufügen"
+msgstr "Sammlung hinzufügen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/files/attributes.php:4
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/pages/attributes.php:3
@@ -9443,15 +9445,15 @@ msgstr "Sie haben nicht die Berechtigung, auf die Dateiverwaltung zuzugreifen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/files/sets.php:6
 msgid "File Set"
-msgstr "Dateialbum"
+msgstr "Dateisammlung"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/files/sets.php:16
 msgid "Files in Set"
-msgstr "Dateien im Dateialbum"
+msgstr "Dateien im Dateisammlung"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/files/sets.php:25
 msgid "Are you sure you want to permanently remove this file set?"
-msgstr "Wollen Sie wirklich dieses Dateialbum unwiderruflich löschen?"
+msgstr "Wollen Sie wirklich diese Dateisammlung unwiderruflich löschen?"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/files/sets.php:53
 msgid "Custom Permissions"
@@ -9459,43 +9461,43 @@ msgstr "Individuelle Berechtigungen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/files/sets.php:55
 msgid "Enable custom permissions for this file set."
-msgstr "Individuelle Berechtigungen für dieses Dateialbum aktivieren."
+msgstr "Individuelle Berechtigungen für diese Dateisammlung aktivieren."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/files/sets.php:88
 msgid ""
 "Click and drag to reorder the files in this set. New files added to this set "
 "will automatically be appended to the end."
 msgstr ""
-"Dateien per Drag & Drop in diesem Dateialbum einordnen. Neue Dateien werden "
-"automatisch ganz am Ende eingeordnet. "
+"Dateien per Drag & Drop in dieser Dateisammlung einordnen. Neue Dateien "
+"werden automatisch ganz am Ende eingeordnet. "
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/files/sets.php:109
 msgid "There are no files in this set."
-msgstr "In diesem Dateialbum gibt es keine Dateien."
+msgstr "In dieser Dateisammlung gibt es keine Dateien."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/files/sets.php:150
 msgid "File Sets"
-msgstr "Dateialben"
+msgstr "Dateisammlungen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/files/sets.php:167
 msgid "Public Sets"
-msgstr "Öffentliche Alben"
+msgstr "Gemeinsame Dateisammlungen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/files/sets.php:168
 msgid "My Sets"
-msgstr "Meine Alben"
+msgstr "Meine Dateisammlungen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/files/sets.php:181
 msgid "Add File Set"
-msgstr "Dateialbum erstellen."
+msgstr "Dateisammlung erstellen."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/files/sets.php:203
 msgid "No file sets found."
-msgstr "Keine Dateienalben gefunden."
+msgstr "Keine Dateiensammlungen gefunden."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/files/sets.php:228
 msgid "Are you sure you want to delete this file set?"
-msgstr "Möchten Sie dieses Dateialbum wirklich löschen?"
+msgstr "Möchten Sie diese Dateisammlung wirklich löschen?"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/pages/attributes.php:17
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/pages/attributes.php:31
@@ -9688,7 +9690,7 @@ msgstr "Suchen Sie weitere Gestaltungsvorlagen?"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/pages/themes/view.php:169
 msgid "You can download themes and add-ons from the concrete5 marketplace."
 msgstr ""
-"Laden Sie mehr Gestaltungsvorlagen aus dem concrete5-Marketplace herunter."
+"Laden Sie weitere Gestaltungsvorlagen aus dem concrete5-Marketplace herunter."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/pages/types/add.php:17
 msgid "Add Page Type"
@@ -9701,8 +9703,8 @@ msgid ""
 "(To add your own page type icons, create a file set named \"%s\" and add "
 "files to that set)"
 msgstr ""
-"(Um eigene Symbole hinzuzufügen, einen Dateialbum mit dem Namen\"%s\" "
-"erstellen und diese Symbole dort speichern)"
+"(Um eigene Icons hinzuzufügen, erstellen Sie eine Dateisammlung mit dem Namen"
+"\"%s\" speichern Sie diese Icons dort.)"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/pages/types/add.php:57
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/pages/types/view.php:122
@@ -9710,7 +9712,7 @@ msgstr ""
 msgid ""
 "(Pulling icons from file set \"%s\". Icons will be displayed at %s x %s.)"
 msgstr ""
-"(Symbole aus dem Dateialbum \"%s\" entnommen. Symbole werden in %s x %s "
+"(Icons aus der Dateisammlung \"%s\" entnommen. Icons werden in %s x %s "
 "angezeigt.)"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/pages/types/add.php:115
@@ -9732,7 +9734,7 @@ msgstr "Ja, diesen Seitentyp mit Composer bearbeiten."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/pages/types/composer.php:46
 msgid "Composer Publishing Settings"
-msgstr "Composer Veröffentlichungs-Einstellungen"
+msgstr "Composer-Veröffentlichungs-Einstellungen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/pages/types/composer.php:55
 msgid "Choose from all pages when publishing."
@@ -9762,7 +9764,7 @@ msgstr "Zurück zu Seiten-Typen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/pages/types/composer.php:242
 msgid "Unable to access composer settings."
-msgstr "Kann nicht auf die Composer EInstellungen zugreifen"
+msgstr "Kann nicht auf die Composer-Einstellungen zugreifen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/pages/types/view.php:70
 msgid "Page Type updated."
@@ -10052,30 +10054,30 @@ msgstr "Sie benötigen Zugriff auf die Verwaltungs-Sitemap um Seiten zu suchen."
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/attributes/sets.php:6
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/users/group_sets.php:7
 msgid "Edit Set"
-msgstr "Dateialbum bearbeiten"
+msgstr "Sammlung bearbeiten"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/attributes/sets.php:11
 msgid "Update Set Details"
-msgstr "Dateialbum-Details bearbeiten"
+msgstr "Sammlungsdetails bearbeiten"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/attributes/sets.php:15
 msgid ""
 "This attribute set is locked. It cannot be deleted, and its handle cannot be "
 "changed."
 msgstr ""
-"Das Attribut-Set ist geschützt. Es kann nicht gelöscht werden und das Handle "
-"kann nicht geändert werden."
+"Die Attributsammlung ist geschützt. Sie kann nicht gelöscht werden, und der "
+"Bezeichner kann nicht geändert werden."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/attributes/sets.php:43
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/users/group_sets.php:31
 msgid "Update Set"
-msgstr "Dateialbum aktualisieren"
+msgstr "Sammlung aktualisieren"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/attributes/sets.php:49
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/attributes/sets.php:56
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/users/group_sets.php:39
 msgid "Delete Set"
-msgstr "Dateialbum löschen"
+msgstr "Sammlung löschen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/attributes/sets.php:50
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/users/group_sets.php:42
@@ -10088,7 +10090,7 @@ msgstr ""
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/attributes/sets.php:63
 msgid "Add Attributes to Set"
-msgstr "Attribut hinzufügen"
+msgstr "Attribut einer Sammlung hinzufügen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/attributes/sets.php:98
 msgid "Update Attributes"
@@ -10100,11 +10102,11 @@ msgstr "Keine Attribute definiert."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/attributes/sets.php:117
 msgid "Attribute Sets"
-msgstr "Attribut-Sets"
+msgstr "Attributsammlungen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/attributes/sets.php:134
 msgid "No attribute sets currently defined."
-msgstr "Keine Attribut-Sets definiert."
+msgstr "Keine Attributsammlungen definiert."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/attributes/sets.php:171
 msgid "Attribute Categories"
@@ -10113,7 +10115,8 @@ msgstr "Attribut-Kategorien"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/attributes/sets.php:172
 msgid "Attribute Categories are used to group different types of sets."
 msgstr ""
-"Attribut-Kategorien dienen der Gruppierung von verschiedenen Attribut-Sets"
+"Attribut-Kategorien dienen der Gruppierung von verschiedenen "
+"Attributsammlungen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/attributes/sets.php:182
 msgid "No attribute categories currently defined."
@@ -10349,11 +10352,11 @@ msgstr "WYSIWYG Texteditor"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/basics/editor.php:1
 msgid "Control the options available for TinyMCE."
-msgstr "TinyMCE Optionen verwalten."
+msgstr "TinyMCE-Optionen verwalten."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/basics/editor.php:11
 msgid "Toolbar Set"
-msgstr "Toolbar Set"
+msgstr "Werkzeugleisten-Konfiguration"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/basics/editor.php:19
 msgid "Simple"
@@ -10501,7 +10504,7 @@ msgstr "Gesendete E-Mails protokollieren"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/environment/proxy.php:5
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/environment/proxy.php:16
 msgid "Proxy Server Settings"
-msgstr "Proxyserver-Einstellungen"
+msgstr "Proxy-Server-Einstellungen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/environment/proxy.php:5
 msgid "Configures proxy server settings for your website"
@@ -10574,11 +10577,11 @@ msgstr ""
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/mail/method.php:10
 msgid "SMTP Method"
-msgstr "SMTP Methode"
+msgstr "E-Mail-Versandmethode"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/mail/method.php:14
 msgid "Send Mail Method"
-msgstr "E-Mail Versandmethode"
+msgstr "E-Mail-Versandmethode"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/mail/method.php:17
 msgid "Default PHP Mail Function"
@@ -10742,7 +10745,7 @@ msgstr "Erweiterte Berechtigungen erlauben"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/permissions/antispam.php:2
 msgid "Spam Control"
-msgstr "Spam Kontrolle"
+msgstr "Spam-Kontrolle"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/permissions/antispam.php:12
 msgid "Active Library"
@@ -10791,11 +10794,11 @@ msgstr "CAPTCHA-Einstellungen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/permissions/captcha.php:11
 msgid "Active Captcha"
-msgstr "Aktives Captcha"
+msgstr "Aktives CAPTCHA"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/permissions/captcha.php:36
 msgid "You have no captcha libraries installed."
-msgstr "Keine Captcha-Bibliotheken installiert."
+msgstr "Keine CAPTCHA-Bibliotheken installiert."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/permissions/file_types.php:1
 msgid "Allowed File Types"
@@ -10979,7 +10982,7 @@ msgstr "Optionen für öffentliche Benutzer-Profile verwalten."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/registration/profiles.php:12
 msgid "Profile Options"
-msgstr "Profil Optionen"
+msgstr "Profil-Optionen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/registration/profiles.php:16
 msgid "Enable public profiles."
@@ -11043,7 +11046,7 @@ msgstr "E-Mail-Adresse"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/registration/public_registration.php:54
 msgid "CAPTCHA required"
-msgstr "CAPTCHA erforderlich"
+msgstr "Sicherheitscode erforderlich"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/registration/public_registration.php:60
 msgid "Enable OpenID"
@@ -11175,7 +11178,7 @@ msgstr "Statistiken über Seitenansichten."
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/seo/tracking_codes.php:9
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/seo/tracking_codes.php:14
 msgid "Tracking Codes"
-msgstr "Tracking Codes"
+msgstr "Tracking-Codes"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/seo/tracking_codes.php:17
 msgid ""
@@ -11191,7 +11194,7 @@ msgstr "Position"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/seo/tracking_codes.php:27
 msgid "Header of the page"
-msgstr "Header der Seite"
+msgstr "Seitenkopf"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/seo/tracking_codes.php:33
 msgid "Footer of the page"
@@ -11199,7 +11202,7 @@ msgstr "Seitenfuss"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/seo/urls.php:5
 msgid "Pretty URLs"
-msgstr "Pretty URLs"
+msgstr "Lesbare URLs"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/seo/urls.php:5
 #, php-format
@@ -11212,7 +11215,7 @@ msgstr ""
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/seo/urls.php:15
 msgid "Enable Pretty URLs"
-msgstr "Pretty URLs einschalten"
+msgstr "Lesbare URLs einschalten"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/seo/urls.php:25
 msgid "Code for your .htaccess file"
@@ -11236,7 +11239,7 @@ msgstr "Registrierungsdaten"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/users/add_group.php:34
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/users/groups.php:166
 msgid "Group Expiration Options"
-msgstr "Gruppen Ablaufoptionen"
+msgstr "Gruppen-Ablaufoptionen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/users/add_group.php:40
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/users/groups.php:172
@@ -11268,7 +11271,7 @@ msgstr "Konten werden deaktiviert nach"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/users/groups.php:278
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/users/groups.php:289
 msgid "Days"
-msgstr "Tage"
+msgstr "Tagen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/users/add_group.php:69
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/users/groups.php:209
@@ -11306,7 +11309,7 @@ msgstr "Benutzer aus Gruppe entfernen und Konto deaktivieren"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/users/group_sets.php:49
 msgid "Delete Group Set"
-msgstr "Gruppen-Set löschen"
+msgstr "Gruppensammlung löschen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/users/group_sets.php:85
 msgid "Update Groups"
@@ -11320,7 +11323,7 @@ msgstr "Keine Gruppen gefunden."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/users/group_sets.php:122
 msgid "You have not added any group sets."
-msgstr "Sie haben noch keine Gruppen-Sets erstellt."
+msgstr "Sie haben noch keine Gruppensammlungen erstellt."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/users/group_sets.php:157
 #, php-format
@@ -11328,7 +11331,7 @@ msgid ""
 "You must enable <a href=\"%s\">advanced permissions</a> to use group sets."
 msgstr ""
 "Bitte aktivieren Sie <a href=\"%s\">Erweiterte Berechtigungen</a>, um "
-"Gruppen-Sets zu benutzen."
+"Gruppensammlungen zu benutzen."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/users/groups.php:118
 msgid ""
@@ -11349,7 +11352,7 @@ msgstr "Möchten Sie diese Gruppe wirklich löschen?"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/users/groups.php:137
 #, php-format
 msgid "You must be logged in as %s to remove groups."
-msgstr "Sie müssen als %s eingeloggt sein um Gruppen zu entfernen."
+msgstr "Sie müssen als %s eingeloggt sein, um Gruppen zu entfernen."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/users/search.php:90
 msgid "Invalid token.  Unable to activate user."
@@ -11357,7 +11360,7 @@ msgstr "Ungültiger Schlüssel. Benutzer kann nicht aktiviert werden."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/users/search.php:100
 msgid "Invalid token.  Unable to deactivate user."
-msgstr "Ungültiger Schlüsse. Benutzer kann nicht deaktiviert werden."
+msgstr "Ungültiger Schlüssel. Benutzer kann nicht deaktiviert werden."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/users/search.php:157
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/users/search.php:351
@@ -12663,7 +12666,7 @@ msgstr "Spalten Reihenfolge"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/pages/customize_search_columns.php:80
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/users/customize_search_columns.php:84
 msgid "Click and drag to change column order."
-msgstr "Spaltenordnung per Drag&Drop ändern."
+msgstr "Spaltenordnung per Drag & Drop ändern."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/files/customize_search_columns.php:102
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/pages/customize_search_columns.php:102
@@ -12691,19 +12694,20 @@ msgstr "Möchten Sie die folgenden Dateien wirklich löschen?"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/files/delete_set.php:13
 msgid "Invalid file set."
-msgstr "Ungültiges Dateialbum."
+msgstr "Ungültige Dateisammlung."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/files/delete_set.php:28
 msgid "You do not have permissions to remove this file set."
-msgstr "Sie haben nicht die Berechtigung, dieses Dateialbum zu entfernen."
+msgstr "Sie haben nicht die Berechtigung, diese Dateisammlung zu entfernen."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/files/delete_set.php:35
 msgid "Are you sure you want to delete the following file set?"
-msgstr "Möchten Sie dieses Dateialbum wirklich löschen?"
+msgstr "Möchten Sie diese Dateisammlung wirklich löschen?"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/files/delete_set.php:37
 msgid "(Note: files within the set will not be removed.)"
-msgstr "(Hinweis: Die Dateien im Dateialbum werden dadurch nicht gelöscht.)"
+msgstr ""
+"(Hinweis: Die Dateien in der Dateisammlung werden dadurch nicht gelöscht.)"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/files/duplicate.php:23
 msgid "Unable to copy one or more files."
@@ -12928,7 +12932,7 @@ msgstr ""
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/files/save_search.php:39
 msgid "Enter a name for this saved search file set."
-msgstr "Geben Sie einen Namen für diese gespeicherte Suche."
+msgstr "Geben Sie einen Namen für diese gespeicherte Suche an."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/files/save_search.php:51
 msgid "You must enter a valid name"
@@ -13199,7 +13203,7 @@ msgstr "Keine Benutzer oder Gruppen hinzugefügt."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/permissions/dialogs/access/entity/types/group_set.php:41
 msgid "No group sets found."
-msgstr "Keine Gruppen-Sets gefunden."
+msgstr "Keine Gruppensammlungen gefunden."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/themes/preview_external.php:17
 msgid "curl must be enabled to preview external themes."
@@ -13339,3 +13343,12 @@ msgstr "Bitte wählen Sie eine Gestaltungsvorlage für mobile Endgeräte aus"
 
 msgid "List"
 msgstr "Liste"
+
+msgid "Page Header"
+msgstr "Seitenkopf"
+
+msgid "Navigation and Indexing"
+msgstr "Navigation und Indizierung"
+
+msgid "File Manager Permissions"
+msgstr "Dateiberechtigungen"
