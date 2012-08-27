@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 5.6.0 Beta 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-27 16:59+0100\n"
-"PO-Revision-Date: 2012-08-27 17:02+0100\n"
+"POT-Creation-Date: 2012-08-27 17:16+0100\n"
+"PO-Revision-Date: 2012-08-27 17:19+0100\n"
 "Last-Translator: Bernd Matzner <bernd@matznermatzner.de>\n"
 "Language-Team: concrete5-cms.de <info@concrete5-cms.de>\n"
 "Language: de_DE\n"
@@ -122,7 +122,7 @@ msgstr "von aktueller Ebene."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/autonav/form_setup_html.php:45
 msgid "At the level below."
-msgstr "An der Ebene unterhalb."
+msgstr "In der Ebene unterhalb."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/autonav/form_setup_html.php:46
 msgid "Beneath a particular page"
@@ -3211,7 +3211,7 @@ msgstr "Name benötigt."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/pages/types/composer.php:42
 msgid "Composer settings updated."
-msgstr "Composer Einstellungen aktualisiert."
+msgstr "Composer-Einstellungen aktualisiert."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/reports/forms.php:117
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/reports/forms.php:149
@@ -3330,7 +3330,7 @@ msgstr ""
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/basics/editor.php:38
 msgid "Content text editor settings saved."
-msgstr "Editor Einstellungen gespeichert."
+msgstr "Editor-Einstellungen gespeichert."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/basics/editor.php:52
 msgid "The editor must be at least 580 pixels wide."
@@ -3362,7 +3362,7 @@ msgstr "Einstellungen erfolgreich gespeichert."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/basics/multilingual.php:31
 msgid "Interface settings saved"
-msgstr "Cache Einstellungen gespeichert."
+msgstr "Cache-Einstellungen gespeichert."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/basics/site_name.php:11
 msgid "Your site's name has been saved."
@@ -3422,7 +3422,7 @@ msgstr "Unmöglich zu bestimmen."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/environment/info.php:129
 msgid "PHP Settings"
-msgstr "PHP Einstellungen"
+msgstr "PHP-Einstellungen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/environment/logging.php:21
 msgid "Logging configuration saved."
@@ -3438,11 +3438,11 @@ msgstr "Importer gespeichert"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/mail/method.php:7
 msgid "Global mail settings saved."
-msgstr "Globale E-Mail Einstellungen wurden gespeichert."
+msgstr "Globale E-Mail-Einstellungen wurden gespeichert."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/optimization/cache.php:33
 msgid "Cache settings saved."
-msgstr "Cache Einstellungen gespeichert."
+msgstr "Cache-Einstellungen gespeichert."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/optimization/clear_cache.php:25
 msgid "Cached files removed."
@@ -3483,7 +3483,7 @@ msgstr "** Nichts Aktiviert"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/permissions/antispam.php:19
 msgid "Anti-spam settings saved."
-msgstr "Anti-Spam Einstellungen gespeichert."
+msgstr "Anti-Spam-Einstellungen gespeichert."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/permissions/antispam.php:37
 msgid "Invalid anti-spam library."
@@ -3491,7 +3491,7 @@ msgstr "Ungültige Anti-Spam Bibliothek"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/permissions/captcha.php:20
 msgid "Captcha settings saved."
-msgstr "CAPTCHA Einstellungen gespeichert."
+msgstr "CAPTCHA-Einstellungen gespeichert."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/permissions/captcha.php:35
 msgid "Invalid captcha library."
@@ -3509,7 +3509,7 @@ msgstr "Nie"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/permissions/ip_blacklist.php:135
 msgid "IP Blacklist settings saved."
-msgstr "IP-Blacklist Einstellungen gespeichert."
+msgstr "IP-Blacklist-Einstellungen gespeichert."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/permissions/maintenance_mode.php:33
 msgid "Maintenance Mode turned on. Your site is now private."
@@ -3541,7 +3541,7 @@ msgstr "Registrierungseinstellungen wurden gespeichert."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/seo/search_index.php:13
 msgid "Search Index Preferences Updated"
-msgstr "Suchindex Einstellungen aktualisiert."
+msgstr "Suchindex-Einstellungen aktualisiert."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/seo/search_index.php:38
 msgid ""
@@ -7453,7 +7453,7 @@ msgid ""
 "tracking code in your System & Settings."
 msgstr ""
 "Seiten-Statistiken auf einen Blick. Für erweiterte Statistiken kann unter "
-"System & Einstellungen ein eigener Tracking Code angegeben werden."
+"System &amp; Einstellungen ein eigener Tracking Code angegeben werden."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/helpers/concrete/interface/help.php:30
 msgid "Responses to any survey blocks on your site are shown here."
@@ -7712,9 +7712,10 @@ msgid ""
 "Sites in development should turn off the cache from Cache & Speed Settings."
 msgstr ""
 "Wenn Sie etwas geändert haben, aber die Ergebnisse nicht im Browser sichtbar "
-"werden, sollten Sie den Cache leeren.\\n\\nWährend der Programmierung bzw. "
-"dem Aufbau einer Seite am besten den Cache in den Cache- & Geschwindigkeits-"
-"Einstellungen deaktivieren."
+"werden, sollten Sie den Cache leeren.\n"
+"\n"
+"Während der Programmierung bzw. dem Aufbau einer Seite am besten den Cache "
+"in den Cache- & Geschwindigkeits-Einstellungen deaktivieren."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/helpers/concrete/interface/help.php:64
 msgid ""
@@ -8246,8 +8247,8 @@ msgstr "Um das Profil von diesem Benutzer zu betrachten bitte besuchen Sie: %s"
 #, php-format
 msgid "To disable any future messages, change your profile preferences at: %s"
 msgstr ""
-"Um zukünftig keine Nachrichten mehr zu erhalten, bitte Einstellungen im "
-"Profil ändern: %s"
+"Um zukünftig keine Nachrichten mehr zu erhalten, ändern Sie bitte die "
+"Einstellungen im Profil: %s"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/mail/private_message_admin_warning.php:4
 #, php-format
@@ -8518,7 +8519,7 @@ msgstr "Eingabeformat"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/models/attribute/types/textarea/type_form.php:10
 msgid "Rich Text - Simple (Default Setting)"
-msgstr "Rich Text - Einfach (Standard Einstellung)"
+msgstr "Rich Text - Einfach (Standard-Einstellung)"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/models/attribute/types/textarea/type_form.php:11
 msgid "Rich Text - Basic Controls"
@@ -9719,7 +9720,7 @@ msgstr "Anzuzeigende Attribute"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/pages/types/composer.php:15
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/i18n_js.php:48
 msgid "Composer Settings"
-msgstr "Composer Einstellungen"
+msgstr "Composer-Einstellungen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/pages/types/composer.php:28
 msgid "Included in Composer?"
@@ -10409,7 +10410,7 @@ msgstr "iPhone Icons müssen 57x57 px große .png Dateien sein."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/basics/interface.php:2
 msgid "Interface Settings"
-msgstr "Oberflächen Einstellungen"
+msgstr "Oberflächen-Einstellungen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/basics/interface.php:16
 msgid "Pull a picture of the day from concrete5.org (Default)"
@@ -10538,7 +10539,7 @@ msgstr "Aktiviert"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/mail/importers.php:34
 msgid "POP Mail Server Authentication Settings"
-msgstr "POP Mail Server Einstellungen"
+msgstr "POP-Mailserver-Einstellungen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/mail/importers.php:36
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/mail/method.php:25
@@ -10589,7 +10590,7 @@ msgstr "Externer SMTP Server"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/mail/method.php:23
 msgid "SMTP Settings"
-msgstr "SMTP Einstellungen"
+msgstr "SMTP-Einstellungen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/optimization/cache.php:2
 msgid "Cache &amp; Speed Settings"
@@ -10725,7 +10726,7 @@ msgstr "Erweiterte Berechtigungen sind aktiviert."
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/permissions/advanced.php:12
 msgid "Advanced permissions are turned off. Enable them below."
 msgstr ""
-"Die erweiterte Berechtigungen sind deaktiviert. Aktivieren Sie diese hier."
+"Die erweiterten Berechtigungen sind deaktiviert. Aktivieren Sie diese hier."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/permissions/advanced.php:14
 msgid ""
@@ -10749,7 +10750,7 @@ msgstr "Aktive Bibliothek"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/permissions/antispam.php:36
 msgid "Log settings"
-msgstr "Protokoll Einstellungen"
+msgstr "Protokoll-Einstellungen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/permissions/antispam.php:39
 msgid "Log entries marked as spam."
@@ -10786,7 +10787,7 @@ msgstr "Zusätzliche Einstellungen speichern"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/permissions/captcha.php:2
 msgid "Captcha Settings"
-msgstr "CAPTCHA Einstellungen"
+msgstr "CAPTCHA-Einstellungen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/permissions/captcha.php:11
 msgid "Active Captcha"
@@ -13271,7 +13272,7 @@ msgid "Stacks & Blocks"
 msgstr "Vorlagenstapel & Blöcke"
 
 msgid "Pages & Themes"
-msgstr "Seiten & Themes"
+msgstr "Seiten & Gestaltungsvorlagen"
 
 msgid "Files"
 msgstr "Dateien"
@@ -13313,7 +13314,7 @@ msgid "SEO & Statistics"
 msgstr "SEO & Statistiken"
 
 msgid "Debug Settings"
-msgstr "Debug Einstellungen"
+msgstr "Debug-Einstellungen"
 
 msgid "Logging Settings"
 msgstr "Protokoll-Einstellungen"
@@ -13322,7 +13323,7 @@ msgid "Email Importers"
 msgstr "E-Mail-Importer"
 
 msgid "System & Settings"
-msgstr "System & Einstellungen"
+msgstr "System &amp; Einstellungen"
 
 msgid "Write"
 msgstr "Verfassen"
@@ -13334,4 +13335,7 @@ msgid "Mobile Options"
 msgstr "Optionen für mobile Endgeräte"
 
 msgid "Select theme for mobile browsing"
-msgstr "Bitte wählen Sie ein Theme für mobile Endgeräte aus"
+msgstr "Bitte wählen Sie eine Gestaltungsvorlage für mobile Endgeräte aus"
+
+msgid "List"
+msgstr "Liste"
