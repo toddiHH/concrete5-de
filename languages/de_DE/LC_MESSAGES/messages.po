@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 5.6.0 Beta 2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-25 17:39+0100\n"
-"PO-Revision-Date: 2012-08-27 15:55+0100\n"
+"POT-Creation-Date: 2012-08-27 16:59+0100\n"
+"PO-Revision-Date: 2012-08-27 17:02+0100\n"
 "Last-Translator: Bernd Matzner <bernd@matznermatzner.de>\n"
 "Language-Team: concrete5-cms.de <info@concrete5-cms.de>\n"
 "Language: de_DE\n"
@@ -756,7 +756,7 @@ msgstr "Nach erfolgreicher Übermittlung auf eine andere Seite weiterleiten?"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/form/form_setup_html.php:93
 msgid "Add uploaded files to a set?"
-msgstr "Hochgeladene Dateien zu einem Album hinzufügen?"
+msgstr "Hochgeladene Dateien zu einem Dateialbum hinzufügen?"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/form/form_setup_html.php:120
 msgid "Add a New Question"
@@ -1603,7 +1603,7 @@ msgstr "Individuelle Slideshow"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/slideshow/form_setup_html.php:24
 msgid "Pictures from File Set"
-msgstr "Bilder aus dem Album"
+msgstr "Bilder aus dem Dateialbum"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/slideshow/form_setup_html.php:28
 msgid "Playback"
@@ -1629,7 +1629,7 @@ msgstr "Bild hinzufügen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/slideshow/image_row_include.php:16
 msgid "Set Number"
-msgstr "Album-Nummer"
+msgstr "Dateialben-Nummer"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/slideshow/image_row_include.php:18
 msgid "Link URL (optional)"
@@ -1888,7 +1888,7 @@ msgstr "TAR Archiv"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/config/file_types.php:48
 msgid "Zip Archive"
-msgstr "ZIP Archiv"
+msgstr "ZIP-Archiv"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/config/file_types.php:49
 msgid "GZip Archive"
@@ -2407,7 +2407,7 @@ msgstr "Bitte mindestens 2 Bilder auswählen."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/blocks/slideshow.php:48
 msgid "Please choose a file set."
-msgstr "Bitte wählen Sie ein Album aus."
+msgstr "Bitte wählen Sie ein Dateialbum aus."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/blocks/survey.php:27
 msgid "Provide a simple survey, along with results in a pie chart format."
@@ -3529,11 +3529,11 @@ msgstr "Anmeldeumleitung gespeichert."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/registration/profiles.php:27
 msgid "Public profiles have been enabled"
-msgstr "öffentliche Profile wurden aktiviert."
+msgstr "Öffentliche Profile wurden aktiviert."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/registration/profiles.php:27
 msgid "Public profiles have been disabled."
-msgstr "öffentliche Profile wurden deaktiviert."
+msgstr "Öffentliche Profile wurden deaktiviert."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/registration/public_registration.php:70
 msgid "Registration settings have been saved."
@@ -5934,7 +5934,7 @@ msgstr "Handle"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/attribute/type_form_required.php:65
 msgid "Set"
-msgstr "Album"
+msgstr "Dateialbum"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/attribute/type_form_required.php:68
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/models/attribute/types/select/form.php:108
@@ -6330,17 +6330,17 @@ msgid ""
 "If a file set does not appear above, you either have no access to add files "
 "to it, or it does not accept the file types %s."
 msgstr ""
-"Erscheint weiter oben kein Dateialbum, besteht entweder keine Berechtigung "
+"Erscheint weiter oben kein Dateialbum, besteht entweder keine Berechtigung, "
 "diesem Album Dateien hinzuzufügen, oder es werden folgende Dateitypen %s "
 "nicht akzeptiert."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/files/add_to_sets.php:185
 msgid "Add to New Set"
-msgstr "Neuem Album hinzufügen"
+msgstr "Neuem Dateialbum hinzufügen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/files/add_to_sets.php:187
 msgid "Make set public"
-msgstr "Gemeinsames Album"
+msgstr "Gemeinsames Dateialbum"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/files/search_form_advanced.php:6
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/pages/search_form_advanced.php:5
@@ -6407,7 +6407,7 @@ msgstr "In Alben"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/i18n_js.php:152
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/files/bulk_properties.php:286
 msgid "Sets"
-msgstr "Alben"
+msgstr "Dateialben"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/files/search_form_advanced.php:146
 msgid "Files in no sets."
@@ -7069,12 +7069,12 @@ msgstr "Berechtigungen der Unterseiten"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/permission/lists/collection.php:29
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/pages/permissions.php:102
 msgid "Inherit page type default permissions."
-msgstr "übernehme Standardberechtigungen des Seitentyps."
+msgstr "Übernehme Standardberechtigungen des Seitentyps."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/permission/lists/collection.php:30
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/pages/permissions.php:103
 msgid "Inherit the permissions of this page."
-msgstr "übernehme Berechtigungen dieser Seite."
+msgstr "Übernehme Berechtigungen dieser Seite."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/permission/lists/collection.php:42
 msgid "This page inherits its permissions from:"
@@ -7096,7 +7096,7 @@ msgid ""
 "file permissions."
 msgstr ""
 "Die Berechtigungen für diese Datei sind derzeit von den Berechtigungen des "
-"Albums und den globalen Dateiberechtigungen abhängig."
+"Dateialbums und den globalen Dateiberechtigungen abhängig."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/permission/lists/file.php:23
 msgid ""
@@ -7108,7 +7108,7 @@ msgstr ""
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/permission/lists/file.php:25
 msgid "Revert to File Set and Global Permissions"
-msgstr "Zurücksetzen auf die globalen und Albums-Berechtigungen"
+msgstr "Zurücksetzen auf die globalen und Dateialbums-Berechtigungen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/profile/sidebar.php:7
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/profile/friends.php:36
@@ -7263,7 +7263,7 @@ msgstr "Kürzlich benutzt"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/helpers/concrete/dashboard.php:317
 msgid "View All"
-msgstr "Alle  betrachten"
+msgstr "Alle betrachten"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/helpers/concrete/dashboard.php:349
 msgid "Dashboard Home"
@@ -9446,11 +9446,11 @@ msgstr "Dateialbum"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/files/sets.php:16
 msgid "Files in Set"
-msgstr "Dateien im Album"
+msgstr "Dateien im Dateialbum"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/files/sets.php:25
 msgid "Are you sure you want to permanently remove this file set?"
-msgstr "Wollen Sie wirklich dieses Album unwiderruflich löschen?"
+msgstr "Wollen Sie wirklich dieses Dateialbum unwiderruflich löschen?"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/files/sets.php:53
 msgid "Custom Permissions"
@@ -9458,19 +9458,19 @@ msgstr "Individuelle Berechtigungen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/files/sets.php:55
 msgid "Enable custom permissions for this file set."
-msgstr "Individuelle Berechtigungen für dieses Album aktivieren."
+msgstr "Individuelle Berechtigungen für dieses Dateialbum aktivieren."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/files/sets.php:88
 msgid ""
 "Click and drag to reorder the files in this set. New files added to this set "
 "will automatically be appended to the end."
 msgstr ""
-"Dateien per Drag & Drop in diesem Album einordnen. Neue Dateien werden "
+"Dateien per Drag & Drop in diesem Dateialbum einordnen. Neue Dateien werden "
 "automatisch ganz am Ende eingeordnet. "
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/files/sets.php:109
 msgid "There are no files in this set."
-msgstr "In diesem Album gibt es keine Dateien."
+msgstr "In diesem Dateialbum gibt es keine Dateien."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/files/sets.php:150
 msgid "File Sets"
@@ -10051,11 +10051,11 @@ msgstr "Sie benötigen Zugriff auf die Verwaltungs-Sitemap um Seiten zu suchen."
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/attributes/sets.php:6
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/users/group_sets.php:7
 msgid "Edit Set"
-msgstr "Album bearbeiten"
+msgstr "Dateialbum bearbeiten"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/attributes/sets.php:11
 msgid "Update Set Details"
-msgstr "Albumdetails bearbeiten"
+msgstr "Dateialbum-Details bearbeiten"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/attributes/sets.php:15
 msgid ""
@@ -10068,13 +10068,13 @@ msgstr ""
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/attributes/sets.php:43
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/users/group_sets.php:31
 msgid "Update Set"
-msgstr "Album aktualisieren"
+msgstr "Dateialbum aktualisieren"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/attributes/sets.php:49
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/attributes/sets.php:56
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/users/group_sets.php:39
 msgid "Delete Set"
-msgstr "Album löschen"
+msgstr "Dateialbum löschen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/attributes/sets.php:50
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/users/group_sets.php:42
@@ -11305,7 +11305,7 @@ msgstr "Benutzer aus Gruppe entfernen und Konto deaktivieren"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/users/group_sets.php:49
 msgid "Delete Group Set"
-msgstr "Album löschen"
+msgstr "Gruppen-Set löschen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/users/group_sets.php:85
 msgid "Update Groups"
@@ -12702,7 +12702,7 @@ msgstr "Möchten Sie dieses Dateialbum wirklich löschen?"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/files/delete_set.php:37
 msgid "(Note: files within the set will not be removed.)"
-msgstr "(Hinweis: Die Dateien im Album werden dadurch nicht gelöscht.)"
+msgstr "(Hinweis: Die Dateien im Dateialbum werden dadurch nicht gelöscht.)"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/files/duplicate.php:23
 msgid "Unable to copy one or more files."
@@ -13266,3 +13266,72 @@ msgstr "Veröffentlichte Version"
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/workflow/dialogs/approve_page_preview.php:23
 msgid "Most Recent Version"
 msgstr "Aktuellste Version"
+
+msgid "Stacks & Blocks"
+msgstr "Vorlagenstapel & Blöcke"
+
+msgid "Pages & Themes"
+msgstr "Seiten & Themes"
+
+msgid "Files"
+msgstr "Dateien"
+
+msgid "Attributes"
+msgstr "Attribute"
+
+msgid "User Groups"
+msgstr "Benutzergruppen"
+
+msgid "Zoom Image"
+msgstr "Zoom Bild"
+
+msgid "Add Event"
+msgstr "Termin"
+
+msgid "Event List"
+msgstr "Terminliste"
+
+msgid "Simple Image Gallery"
+msgstr "Bildergalerie (Simple Image Gallery)"
+
+msgid "Permissions & Access"
+msgstr "Berechtigungen & Spam"
+
+msgid "Optimization"
+msgstr "Optimierung"
+
+msgid "Basics"
+msgstr "Grundlagen"
+
+msgid "Languages"
+msgstr "Sprachen"
+
+msgid "Cache & Speed Settings"
+msgstr "Cache & Geschwindigkeit"
+
+msgid "SEO & Statistics"
+msgstr "SEO & Statistiken"
+
+msgid "Debug Settings"
+msgstr "Debug Einstellungen"
+
+msgid "Logging Settings"
+msgstr "Protokoll-Einstellungen"
+
+msgid "Email Importers"
+msgstr "E-Mail-Importer"
+
+msgid "System & Settings"
+msgstr "System & Einstellungen"
+
+msgid "Write"
+msgstr "Verfassen"
+
+msgid "Mobile"
+msgstr "Mobile Endgeräte"
+
+msgid "Mobile Options"
+msgstr "Optionen für mobile Endgeräte"
+
+msgid "Select theme for mobile browsing"
+msgstr "Bitte wählen Sie ein Theme für mobile Endgeräte aus"
