@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: 5.6.0 Beta 2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-08-27 17:16+0100\n"
-"PO-Revision-Date: 2012-08-27 20:00+0100\n"
+"PO-Revision-Date: 2012-08-27 20:22+0100\n"
 "Last-Translator: Bernd Matzner <bernd@matznermatzner.de>\n"
 "Language-Team: concrete5-cms.de <info@concrete5-cms.de>\n"
 "Language: de_DE\n"
@@ -1691,11 +1691,11 @@ msgstr "Erweitert"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/tags/tag_form.php:27
 msgid "Display Tags for the current page"
-msgstr "Tags für die aktuelle Seite anzeigen"
+msgstr "Schlagworte der aktuellen Seite anzeigen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/tags/tag_form.php:28
 msgid "Display available tags"
-msgstr "Alle verfügbaren Länder"
+msgstr "Alle verfügbaren Schlagworte anzeigen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/tags/tag_form.php:44
 msgid "Number to Display"
@@ -1703,7 +1703,7 @@ msgstr "Anzahl der zu zeigenden Einträge"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/tags/tag_form.php:54
 msgid "Link Tags to Page"
-msgstr "Schlagworte mit Seite verlinken."
+msgstr "Seite verschlagworten"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/video/add.php:9
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/blocks/video/edit.php:11
@@ -1884,7 +1884,7 @@ msgstr "MS Powerpoint"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/config/file_types.php:47
 msgid "TAR Archive"
-msgstr "TAR Archiv"
+msgstr "TAR-Archiv"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/config/file_types.php:48
 msgid "Zip Archive"
@@ -1892,7 +1892,7 @@ msgstr "ZIP-Archiv"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/config/file_types.php:49
 msgid "GZip Archive"
-msgstr "GZip Archiv"
+msgstr "GZip-Archiv"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/config/localization.php:41
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/profile/messages.php:87
@@ -1969,8 +1969,8 @@ msgid ""
 "Creates a concrete5-powered blog, complete with composer integration, "
 "integrated date navigation and tag-based searching, and a custom blog theme."
 msgstr ""
-"Erstellt einen Blog inklusive Composer-Integration, Datums-Navigation, Tag-"
-"Basierter Suche und eigener Blog-Gestaltungsvorlage."
+"Erstellt einen Blog inklusive Composer-Integration, Datumsnavigation, "
+"Stichwortsuche und eigener Blog-Gestaltungsvorlage."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/config/install/disabled/standard/controller.php:8
 msgid "Standard Website"
@@ -2152,7 +2152,7 @@ msgstr "Das Formular muss einen Namen besitzen."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/blocks/form.php:42
 msgid "Please complete all required fields."
-msgstr "Bitte füllen Sie alle benötigten Felder aus."
+msgstr "Bitte füllen Sie alle Pflichtfelder aus."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/blocks/form.php:43
 msgid "AJAX Error."
@@ -2181,7 +2181,7 @@ msgstr "Bitte geben Sie eine gültige E-Mail-Adresse angeben"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/blocks/form.php:291
 msgid "Complete required fields *"
-msgstr "Benötigte Felder ausfüllen *"
+msgstr "Pflichtfelder ausfüllen *"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/blocks/form.php:312
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/system/basics/icons.php:43
@@ -2298,7 +2298,7 @@ msgstr "Der Kommentar wurde abgelehnt."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/blocks/html.php:27
 msgid "For adding HTML by hand."
-msgstr "HTML Code manuell hinzufügen."
+msgstr "HTML-Code manuell hinzufügen."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/blocks/image.php:32
 msgid "Adds images and onstates from the library to pages."
@@ -2319,7 +2319,7 @@ msgstr "Durch benachbarte Seiten navigieren."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/blocks/next_previous.php:27
 msgid "Next & Previous Nav"
-msgstr "Vor & Zurück Navigation"
+msgstr "Vor & Zurück-Navigation"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/blocks/page_list.php:27
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/blocks/tags.php:36
@@ -2428,7 +2428,7 @@ msgstr "Noch keine Daten verfügbar."
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/files/bulk_properties.php:321
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/files/properties.php:274
 msgid "Tags"
-msgstr "Tags"
+msgstr "Schlagworte"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/blocks/video.php:35
 msgid ""
@@ -3199,7 +3199,7 @@ msgstr "Die Dateien in der Gestaltungsvorlage wurden erfolgreich aktiviert."
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/libraries/attribute/controller.php:168
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/pages/types/view.php:41
 msgid "Handle required."
-msgstr "Handle benötigt."
+msgstr "Bitte geben Sie einen Bezeichner an."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/pages/types/add.php:21
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/users/add_group.php:29
@@ -3207,7 +3207,7 @@ msgstr "Handle benötigt."
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/libraries/attribute/controller.php:169
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/pages/types/view.php:44
 msgid "Name required."
-msgstr "Name benötigt."
+msgstr "Bitte geben Sie einen Namen an."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/controllers/single_pages/dashboard/pages/types/composer.php:42
 msgid "Composer settings updated."
@@ -4234,7 +4234,7 @@ msgstr ""
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/libraries/attribute/controller.php:170
 msgid "Type required."
-msgstr "Typ benötigt."
+msgstr "Bitte geben Sie den Typ an."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/core/libraries/attribute/controller.php:179
 msgid ""
@@ -5774,7 +5774,7 @@ msgid ""
 "This page is a single page, which means it doesn't have a page type "
 "associated with it."
 msgstr ""
-"Diese Seite ein ist eine alleinstehende Seite. Dies bedeutet, dass kein "
+"Diese Seite ist eine alleinstehende Seite. Dies bedeutet, dass kein "
 "Seitentyp zugeordnet wurde."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/collection_theme.php:99
@@ -5948,7 +5948,7 @@ msgstr "Durchsuchbar"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/attribute/type_form_required.php:85
 msgid "Content included in \"Keyword Search\"."
-msgstr "Inhalt einbezogen in \"Stichwort Suche\"."
+msgstr "Inhalt einbezogen in \"Stichwortsuche\"."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/attribute/type_form_required.php:86
 msgid "Field available in \"Advanced Search\"."
@@ -5972,7 +5972,7 @@ msgstr "Feld verfügbar in der Dateiverwaltungs-Suche"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/attribute/type_form_required.php:97
 msgid "Content included in user keyword search."
-msgstr "Inhalt einbezogen in der Stichwort-Suche."
+msgstr "Inhalt einbezogen in der Stichwortsuche."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/attribute/type_form_required.php:98
 msgid "Field available in Dashboard User Search."
@@ -6229,7 +6229,7 @@ msgid ""
 "curl and other required libraries are enabled."
 msgstr ""
 " Fehler beim Verbindungsaufbau zur concrete5 Community. Bitte stellen Sie "
-"sicher das Curl und weitere benötigte Bibliotheken aktiviert sind."
+"sicher, dass curl und weitere benötigte Bibliotheken aktiviert sind."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/elements/dashboard/marketplace_connect_failed.php:36
 msgid ""
@@ -7495,9 +7495,9 @@ msgid ""
 "happen in only one place.  Most configuration pages are single pages, for "
 "example."
 msgstr ""
-"Single Pages werden für Situationen genutzt, in denen eine Aktion nur einmal "
-"auf der Seite benötigt wird, beispielsweise Konfigurationsseiten oder die "
-"Login-Seite."
+"Alleinstehende Seiten werden für Situationen genutzt, in denen eine Aktion "
+"nur einmal auf der Seite benötigt wird, beispielsweise Konfigurationsseiten "
+"oder die Login-Seite."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/helpers/concrete/interface/help.php:36
 msgid ""
@@ -7860,7 +7860,7 @@ msgstr "Was in Ihre Website einfließt."
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/helpers/concrete/upgrade/version_510.php:90
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/pages/single.php:5
 msgid "Single Pages"
-msgstr "Einzelne Seiten"
+msgstr "Alleinstehende Seiten"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/helpers/concrete/upgrade/version_520.php:95
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/files/search.php:1
@@ -8549,7 +8549,7 @@ msgstr "Ungültige Datei."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/download_file.php:21
 msgid "This file requires a password to download."
-msgstr "Diese Datei benötigt ein Passwort für den Download."
+msgstr "Um die Datei herunterzuladen, ist ein Passwort erforderlich."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/download_file.php:38
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/install.php:101
@@ -8676,7 +8676,7 @@ msgstr "Bildmanipulation verfügbar"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/install.php:360
 msgid "concrete5 requires GD library 2.0.1 or greater"
-msgstr "Concrete benötigt die GD Bibliothek der Version 2.0.1 oder höher."
+msgstr "concrete5 benötigt die GD-Bibliothek der Version 2.0.1 oder höher."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/install.php:364
 msgid "XML Support"
@@ -8684,7 +8684,7 @@ msgstr "XML Unterstützung"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/install.php:366
 msgid "concrete5 requires PHP XML Parser and SimpleXML extensions"
-msgstr "Concrete benötigt PHP XML Parser und SimpleXML Erweiterungen."
+msgstr "concrete5 benötigt PHP XML-Parser und SimpleXML-Erweiterungen."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/install.php:370
 msgid "Writable Files and Configuration Directories"
@@ -9506,7 +9506,7 @@ msgstr "Seitenattribute"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/pages/single.php:7
 msgid "Add Single Page"
-msgstr "Einzelne Seite hinzufügen"
+msgstr "Alleinstehende Seite hinzufügen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/pages/single.php:16
 msgid "The page you want to add is available at:"
@@ -10384,7 +10384,7 @@ msgstr "TinyMCE Dokumentation"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/basics/icons.php:2
 msgid "Bookmark Icons"
-msgstr "Lesezeichen Icons"
+msgstr "Lesezeichen-Icons"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/basics/icons.php:11
 msgid "Favicon"
@@ -10417,7 +10417,7 @@ msgstr "Oberflächen-Einstellungen"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/basics/interface.php:16
 msgid "Pull a picture of the day from concrete5.org (Default)"
-msgstr "Ein Bild des Tages von concrete5.org laden (Default)"
+msgstr "Ein Bild des Tages von concrete5.org laden (Standardeinstellung)"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/basics/interface.php:18
 msgid "Specify Custom Image"
@@ -11090,7 +11090,7 @@ msgstr " Keine Meta-Stichwörter vorhanden"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/seo/bulk_seo_tool.php:153
 msgid "Single Page"
-msgstr "Einzelne Seite"
+msgstr "Alleinstehende Seite"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/single_pages/dashboard/system/seo/bulk_seo_tool.php:158
 msgid "Modified"
@@ -12154,7 +12154,7 @@ msgstr "Seitenreihenfolge ändern"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/i18n_js.php:113
 msgid "Move or reorder pages by dragging their icons."
-msgstr "Seitenreihenfolge durch ziehen der Icons verändern."
+msgstr "Seitenreihenfolge durch Ziehen der Icons verändern."
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/i18n_js.php:114
 msgid "Choose a new parent page from the sitemap."
@@ -12194,7 +12194,7 @@ msgstr "max"
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/i18n_js.php:128
 msgid "Unable to load sitemap data. Response received: "
-msgstr "Sitemap Daten konnten nicht geladen werden. Empfangene Antwort: "
+msgstr "Sitemap-Daten konnten nicht geladen werden. Empfangene Antwort: "
 
 #: /Volumes/HDD/Setup/CMS/concrete5/5.6.0/concrete/tools/i18n_js.php:129
 msgid "Unable to load sitemap data."
