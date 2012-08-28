@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 5.6.0 Beta 3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-28 10:20+0100\n"
-"PO-Revision-Date: 2012-08-28 10:56+0100\n"
+"POT-Creation-Date: 2012-08-28 18:11+0100\n"
+"PO-Revision-Date: 2012-08-28 18:12+0100\n"
 "Last-Translator: Bernd Matzner <bernd@matznermatzner.de>\n"
 "Language-Team: concrete5-cms.de <info@concrete5-cms.de>\n"
 "Language: de_DE\n"
@@ -69,11 +69,11 @@ msgstr "wie in der Sitemap"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/blocks/autonav/form_setup_html.php:27
 msgid "with the most recent first."
-msgstr "neuester Eintrag zuerst"
+msgstr "mit dem neuesten Eintrag zuerst"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/blocks/autonav/form_setup_html.php:28
 msgid "with the earliest first."
-msgstr "ältester Eintrag zuerst"
+msgstr "mit dem ältesten Eintrag zuerst"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/blocks/autonav/form_setup_html.php:29
 msgid "in alphabetical order."
@@ -338,7 +338,8 @@ msgstr "Weiterlesen"
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/blocks/dashboard_featured_addon/view.php:12
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/blocks/dashboard_featured_theme/view.php:12
 msgid "Cannot retrieve data from the concrete5 marketplace."
-msgstr "Keine Daten vom concrete5-Marketplace."
+msgstr ""
+"Es konnten keine Daten vom concrete5-Marketplace heruntergeladen werden."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/blocks/dashboard_featured_theme/view.php:2
 msgid "Featured Theme"
@@ -576,12 +577,12 @@ msgstr "Datei auswählen"
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/blocks/file/add.php:10
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/blocks/file/edit.php:13
 msgid "Link Text"
-msgstr "Link Text"
+msgstr "Link-Text"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/blocks/flash_content/add.php:8
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/blocks/flash_content/edit.php:12
 msgid "Flash File"
-msgstr "Flash Datei"
+msgstr "Flash-Datei"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/blocks/flash_content/add.php:16
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/blocks/flash_content/edit.php:20
@@ -865,17 +866,17 @@ msgstr "Antwort-Optionen"
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/blocks/form/form_setup_html.php:174
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/blocks/form/form_setup_html.php:288
 msgid "Put each answer options on a new line"
-msgstr "Schreiben Sie jede Antwortoption in eine neue Zeile"
+msgstr "Schreiben Sie jede Antwortoption in eine neue Zeile."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/blocks/form/form_setup_html.php:181
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/blocks/form/form_setup_html.php:295
 msgid "Text Area Width"
-msgstr "Textfeld Breite"
+msgstr "Textfeld-Breite"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/blocks/form/form_setup_html.php:187
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/blocks/form/form_setup_html.php:301
 msgid "Text Area Height"
-msgstr "Textfeld Höhe"
+msgstr "Textfeld-Höhe"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/blocks/form/form_setup_html.php:195
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/blocks/form/form_setup_html.php:309
@@ -909,7 +910,7 @@ msgstr "Frage bearbeiten"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/blocks/form/form_setup_html.php:329
 msgid "Reply to this email address"
-msgstr "E-Mail-Antwortadresse."
+msgstr "E-Mail-Antwortadresse"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/blocks/form/form_setup_html.php:339
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/models/workflow/progress/action.php:70
@@ -1930,7 +1931,7 @@ msgstr "d.m.Y_H:i_"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/config/localization.php:115
 msgid "This block is no longer available."
-msgstr "Dieser Block ist nicht mehr verfügbar"
+msgstr "Dieser Block ist nicht mehr verfügbar."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/config/localization.php:116
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/models/starting_point_package.php:136
@@ -1951,14 +1952,14 @@ msgstr "Administrator"
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/config/install/disabled/blank/controller.php:8
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/config/install/packages/blank/controller.php:8
 msgid "Empty Site"
-msgstr "Leere Site"
+msgstr "Leere Website"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/config/install/disabled/blank/controller.php:12
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/config/install/packages/blank/controller.php:12
 msgid ""
 "Install only items required for concrete5 to run. This will create a blank "
 "site."
-msgstr "Nur erforderliche Daten installieren. Erzeugt eine leere Seite."
+msgstr "Nur erforderliche Daten installieren. Erzeugt eine leere Website."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/config/install/disabled/blog/controller.php:8
 msgid "Blog"
@@ -1992,11 +1993,11 @@ msgstr "Beispielinhalte mit Blog"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/config/install/packages/standard/controller.php:12
 msgid "A great starting point for an attractive website with a blog."
-msgstr "Ein guter Anfang für eine tolle Webseite mit einem Blog."
+msgstr "Ein guter Anfang für eine tolle Webseite mit einem Blog"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/blocks/autonav.php:29
 msgid "Creates navigation trees and sitemaps."
-msgstr "Erstellt Navigations-Bäume und Sitemaps."
+msgstr "Erstellt Navigations-Bäume und Sitemaps"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/blocks/autonav.php:33
 msgid "Auto-Nav"
@@ -2004,7 +2005,7 @@ msgstr "Auto-Nav"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/blocks/content.php:25
 msgid "HTML/WYSIWYG Editor Content."
-msgstr "HTML/WYSIWYG Editor-Inhalt."
+msgstr "HTML/WYSIWYG-Editor-Inhalt"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/blocks/content.php:29
 msgid "Content"
@@ -2082,11 +2083,11 @@ msgstr "Monats-Archiv für Seiten anzeigen"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/blocks/date_archive.php:29
 msgid "Blog Date Archive"
-msgstr "Blog Archiv"
+msgstr "Blog-Archiv"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/blocks/date_nav.php:27
 msgid "A collapsible date based navigation tree"
-msgstr "Ein zusammenklappbarer Datumbasierter Navigationsbaum"
+msgstr "Ein zusammenklappbarer, datumbasierter Navigationsbaum"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/blocks/date_nav.php:31
 msgid "Date Navigation"
@@ -2130,7 +2131,7 @@ msgstr "Bettet SWF-Dateien ein und prüft die Flash-Version"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/blocks/flash_content.php:33
 msgid "Flash Content"
-msgstr "Flash Inhalt"
+msgstr "Flash-Inhalt"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/blocks/form.php:31
 msgid "Build simple forms and surveys."
@@ -2176,7 +2177,7 @@ msgstr "Ungültiger Sicherheitscode"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/blocks/form.php:274
 msgid "You must enter a valid email address."
-msgstr "Bitte geben Sie eine gültige E-Mail-Adresse angeben"
+msgstr "Bitte geben Sie eine gültige E-Mail-Adresse an."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/blocks/form.php:291
 msgid "Complete required fields *"
@@ -2335,7 +2336,7 @@ msgstr "Bitte Namen für den RSS-Feed angeben."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/blocks/rss_displayer.php:34
 msgid "Fetch, parse and display the contents of an RSS or Atom feed."
-msgstr "Laden, verarbeiten und anzeigen eines RSS- oder Atom-Feeds."
+msgstr "Laden, Verarbeiten und Anzeigen eines RSS- oder Atom-Feeds"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/blocks/rss_displayer.php:38
 msgid "RSS Displayer"
@@ -2443,7 +2444,7 @@ msgstr "Bitte eine gültige FLV-Datei wählen."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/blocks/youtube.php:34
 msgid "Embeds a YouTube Video in your web page."
-msgstr "Fügt ein Youtube Video in Ihre Website ein."
+msgstr "Fügt ein Youtube Video in Ihre Website ein"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/blocks/youtube.php:38
 msgid "YouTube Video"
@@ -2520,19 +2521,19 @@ msgstr ""
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/install.php:247
 msgid "Please specify your site's name"
-msgstr "Bitte geben Sie den Namen Ihrer Website an"
+msgstr "Bitte geben Sie den Namen Ihrer Website an."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/install.php:248
 msgid "Please specify a valid email address"
-msgstr "Bitte geben Sie eine gültige E-Mail-Adresse ein"
+msgstr "Bitte geben Sie eine gültige E-Mail-Adresse ein."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/install.php:249
 msgid "You must specify a valid database name"
-msgstr "Sie müssen einen gültigen Datenbanknamen angeben"
+msgstr "Sie müssen einen gültigen Datenbanknamen angeben."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/install.php:250
 msgid "You must specify a valid database server"
-msgstr "Sie müssen einen gültigen Datenbankserver angeben"
+msgstr "Sie müssen einen gültigen Datenbankserver angeben."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/install.php:261
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/login.php:400
@@ -2579,7 +2580,7 @@ msgstr "** Standard"
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/users/search.php:74
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/profile/edit.php:47
 msgid "Invalid email address provided."
-msgstr "Ungültige E-Mail-Adresse angegeben."
+msgstr "Ungültige E-Mail-Adresse angegeben"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/login.php:63
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/register.php:68
@@ -2740,7 +2741,7 @@ msgstr "Ungültiger Benutzername"
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/register.php:167
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/register.php:171
 msgid "Website Registration Notification"
-msgstr "Website Registrierungsmeldung"
+msgstr "Benachrichtigung über eine Benutzerregistrierung"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/register.php:203
 msgid "Validate Email Address"
@@ -2787,13 +2788,13 @@ msgstr ""
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/upgrade.php:70
 #, php-format
 msgid "Upgrading from <b>%s</b>"
-msgstr "Upgrade von <b>%s</b>"
+msgstr "Aktualisierung von <b>%s</b>"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/upgrade.php:41
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/upgrade.php:71
 #, php-format
 msgid "Upgrading to <b>%s</b>"
-msgstr "Upgrade auf <b>%s</b>"
+msgstr "Aktualisierung auf <b>%s</b>"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/upgrade.php:42
 msgid ""
@@ -2834,7 +2835,7 @@ msgstr "Ein unerwarteter Fehler ist während des Upgrades aufgetreten: %s"
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/upgrade.php:257
 #, php-format
 msgid "Upgrade to <b>%s</b> complete!"
-msgstr "Upgrade auf <b>%s</b> abgeschlossen!"
+msgstr "Aktualisierung auf <b>%s</b> abgeschlossen!"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/blocks/permissions.php:31
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/permissions/files.php:32
@@ -2899,11 +2900,11 @@ msgstr "Dieser Blocktyp wurde entfernt."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/composer/drafts.php:13
 msgid "Draft deleted."
-msgstr "Entwurf gelöscht."
+msgstr "Entwurf gelöscht"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/composer/write.php:15
 msgid "Invalid page."
-msgstr "Ungültige Seite."
+msgstr "Ungültige Seite"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/composer/write.php:29
 msgid "You must provide a name for your page before you can publish it."
@@ -2925,11 +2926,11 @@ msgstr ""
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/composer/write.php:113
 msgid "Draft saved successfully."
-msgstr "Entwurf erfolgreich gespeichert."
+msgstr "Entwurf erfolgreich gespeichert"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/composer/write.php:170
 msgid "Invalid composer draft."
-msgstr "Ungültiger Composer Entwurf."
+msgstr "Ungültiger Composer Entwurf"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/composer/write.php:189
 #, php-format
@@ -2968,7 +2969,7 @@ msgstr "Kürzlich hinzugefügt"
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/extend/addons.php:33
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/extend/themes.php:33
 msgid "Highest Rated"
-msgstr "Am besten Bewertet"
+msgstr "Am besten bewertet"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/extend/addons.php:34
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/extend/themes.php:34
@@ -3088,19 +3089,19 @@ msgstr "Ungültige ID"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/pages/attributes.php:18
 msgid "Page Attribute Updated."
-msgstr "Seitenattribut aktualisiert."
+msgstr "Seitenattribut aktualisiert"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/pages/attributes.php:22
 msgid "Page Attribute Created."
-msgstr "Seitenattribut erstellt."
+msgstr "Seitenattribut erstellt"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/pages/attributes.php:26
 msgid "Page Attribute Deleted."
-msgstr "Seitenattribut gelöscht."
+msgstr "Seitenattribut gelöscht"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/pages/single.php:23
 msgid "Page Successfully Added."
-msgstr "Seite erfolgreich hinzugefügt."
+msgstr "Seite erfolgreich hinzugefügt"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/pages/single.php:25
 msgid "That page has already been added."
@@ -3124,15 +3125,15 @@ msgstr "Seite konnte nicht aktualisiert werden."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/pages/themes.php:35
 msgid "Mobile theme saved."
-msgstr "Mobiles Vorlagenpaket gespeichert."
+msgstr "Mobiles Vorlagenpaket gespeichert"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/pages/themes.php:52
 msgid "Invalid theme."
-msgstr "Ungültiges Vorlagenpaket."
+msgstr "Ungültiges Vorlagenpaket"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/pages/themes.php:76
 msgid "Theme uninstalled."
-msgstr "Vorlagenpaket deinstalliert."
+msgstr "Vorlagenpaket deinstalliert"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/pages/themes.php:111
 msgid "That theme has already been installed."
@@ -3289,7 +3290,7 @@ msgstr "Haupt Datenbankdateien und installierte Blöcke neu geladen."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/backup_restore/database.php:38
 msgid "Local database file refreshed."
-msgstr "Lokale Datenbankdatei aktualisiert."
+msgstr "Lokale Datenbankdatei aktualisiert"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/backup_restore/update.php:81
 #, php-format
@@ -3330,7 +3331,7 @@ msgstr ""
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/basics/editor.php:38
 msgid "Content text editor settings saved."
-msgstr "Editor-Einstellungen gespeichert."
+msgstr "Editor-Einstellungen gespeichert"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/basics/editor.php:52
 msgid "The editor must be at least 580 pixels wide."
@@ -3342,27 +3343,27 @@ msgstr "Der Editor muss mind. 100px hoch sein."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/basics/icons.php:11
 msgid "Icons updated successfully."
-msgstr "Icons erfolgreich aktualisiert."
+msgstr "Icons erfolgreich aktualisiert"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/basics/icons.php:16
 msgid "Icon removed successfully."
-msgstr "Icon erfolgreich entfernt."
+msgstr "Icon erfolgreich entfernt"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/basics/icons.php:21
 msgid "iPhone icon updated successfully."
-msgstr "iPhone icon aktualisiert."
+msgstr "iPhone-Icon aktualisiert"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/basics/icons.php:26
 msgid "iPhone icon removed successfully."
-msgstr "iPhone Icon entfernt."
+msgstr "iPhone-Icon entfernt"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/basics/interface.php:22
 msgid "concrete5 interface settings saved successfully."
-msgstr "Einstellungen erfolgreich gespeichert."
+msgstr "Einstellungen erfolgreich gespeichert"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/basics/multilingual.php:31
 msgid "Interface settings saved"
-msgstr "Cache-Einstellungen gespeichert."
+msgstr "Cache-Einstellungen gespeichert"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/basics/site_name.php:11
 msgid "Your site's name has been saved."
@@ -3370,7 +3371,7 @@ msgstr "Der Name Ihrer Website wurde gespeichert."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/basics/timezone.php:12
 msgid "User time zones have been saved."
-msgstr "Benutzer Zeitzonen gespeichert."
+msgstr "Benutzer-Zeitzonen gespeichert"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/basics/timezone.php:20
 msgid "User time zones have been enabled"
@@ -3382,11 +3383,11 @@ msgstr "Benutzer Zeitzonen wurden deaktiviert"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/environment/debug.php:25
 msgid "Debug configuration saved."
-msgstr "Debugkonfiguration gespeichert."
+msgstr "Debugkonfiguration gespeichert"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/environment/file_storage_locations.php:19
 msgid "File storage locations saved."
-msgstr "Dateiablage Pfad gespeichert."
+msgstr "Dateiablage-Pfad gespeichert"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/environment/info.php:10
 msgid "concrete5 Version"
@@ -3402,19 +3403,19 @@ msgstr "concrete5-Ersetzungen"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/environment/info.php:101
 msgid "Server Software"
-msgstr "Server Software"
+msgstr "Server-Software"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/environment/info.php:102
 msgid "Server API"
-msgstr "Server API"
+msgstr "Server-API"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/environment/info.php:103
 msgid "PHP Version"
-msgstr "PHP Version"
+msgstr "PHP-Version"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/environment/info.php:104
 msgid "PHP Extensions"
-msgstr "PHP Erweiterungen"
+msgstr "PHP-Erweiterungen"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/environment/info.php:111
 msgid "Unable to determine."
@@ -3479,7 +3480,7 @@ msgstr "Erweiterte Berechtigungen aktiviert."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/permissions/antispam.php:9
 msgid "** None Activated"
-msgstr "** Nichts Aktiviert"
+msgstr "** Nichts aktiviert"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/permissions/antispam.php:19
 msgid "Anti-spam settings saved."
@@ -3561,14 +3562,15 @@ msgstr "Tracking-Code gespeichert."
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/seo/urls.php:58
 msgid "URL rewriting enabled. You need to update .htaccess by hand."
 msgstr ""
-"URL-Rewriting eingeschaltet. .htaccess Datei muss manuell aktualisiert "
+"URL-Umschreibung eingeschaltet. .htaccess Datei muss manuell aktualisiert "
 "werden."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/seo/urls.php:60
 msgid ""
 "URL rewriting enabled. We were able to automatically update .htaccess file."
 msgstr ""
-"URL-Rewriting eingeschaltet. .htaccess Datei wurde automatisch aktualisiert."
+"URL-Umschreibung eingeschaltet. .htaccess Datei wurde automatisch "
+"aktualisiert."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/seo/urls.php:62
 msgid "URL rewriting disabled."
@@ -3897,7 +3899,7 @@ msgstr "Benutzer auswählen"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/helpers/form/user_selector.php:110
 msgid "No users selected."
-msgstr "Keine Benutzer ausgewählt."
+msgstr "Keine Benutzer ausgewählt"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/helpers/validation/antispam.php:39
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/validation/antispam.php:39
@@ -4477,7 +4479,7 @@ msgstr ""
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/models/user_private_message.php:147
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/profile/friends.php:23
 msgid "Unknown User"
-msgstr "Ermittle Benutzer"
+msgstr "Unbekannter Benutzer"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/core/models/page_list.php:448
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/dashboard/reports/forms.php:116
@@ -5370,7 +5372,7 @@ msgstr "Block im Composer mit einbeziehen"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/elements/block_master_collection_composer.php:33
 msgid "Custom Composer Template"
-msgstr "Eigene Composer Vorlage"
+msgstr "Eigene Composer-Vorlage"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/elements/block_master_collection_composer.php:58
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/elements/files/add_to_sets.php:194
@@ -6194,7 +6196,7 @@ msgstr "Sammlungen verwalten"
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/elements/dashboard/attributes_table.php:61
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/elements/dashboard/attributes_table.php:125
 msgid "No attributes defined."
-msgstr "Keine Attribute definiert."
+msgstr "Keine Attribute definiert"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/elements/dashboard/marketplace_connect_failed.php:5
 msgid "Marketplace integration disabled in configuration file."
@@ -6359,7 +6361,7 @@ msgstr "Hinzugefügt zwischen"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/elements/files/search_form_advanced.php:11
 msgid "Added to Page"
-msgstr "Zu Seite hinzugefügt."
+msgstr "Zu Seite hinzugefügt"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/elements/files/search_form_advanced.php:84
 #, php-format
@@ -6369,11 +6371,11 @@ msgstr "Nur %s Dateien anzeigen"
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/elements/files/search_form_advanced.php:86
 #, php-format
 msgid "Only displaying files with extension .%s."
-msgstr "Nur Dateien mit folgender Erweiterung anzeigen .%s."
+msgstr "Nur Dateien mit folgender Erweiterung anzeigen .%s"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/elements/files/search_form_advanced.php:105
 msgid "** Select a saved search."
-msgstr "** Gespeicherte Suche auswählen."
+msgstr "** Gespeicherte Suche auswählen"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/elements/files/search_form_advanced.php:107
 msgid "** None (Exit Saved Search)"
@@ -6413,7 +6415,7 @@ msgstr "Sammlungen"
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/elements/files/search_form_advanced.php:146
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/tools/files/search_sets_reload.php:27
 msgid "Files in no sets."
-msgstr "Dateien ohne Zugehörigkeit zu einer Sammlung."
+msgstr "Dateien ohne Zugehörigkeit zu einer Sammlung"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/elements/files/search_form_advanced.php:155
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/elements/pages/search_form_advanced.php:147
@@ -6454,7 +6456,7 @@ msgstr "Suche speichern"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/elements/files/search_form_sets.php:45
 msgid "Display files in no sets."
-msgstr "Dateien ohne Zugehörigkeit zu einer Sammlung anzeigen."
+msgstr "Dateien ohne Zugehörigkeit zu einer Sammlung anzeigen"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/elements/files/search_results.php:27
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/elements/pages/search_results.php:35
@@ -6502,7 +6504,7 @@ msgstr "Vorschaubild"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/elements/files/search_results.php:110
 msgid "No files found."
-msgstr "Keine Dateien gefunden."
+msgstr "Keine Dateien gefunden"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/elements/files/upload_single.php:7
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/elements/files/upload_single.php:29
@@ -7176,7 +7178,7 @@ msgstr "Zur Gruppe hinzufügen"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/elements/users/search_results.php:47
 msgid "Remove from Group"
-msgstr "Aus der Gruppen entfernen."
+msgstr "Aus der Gruppen entfernen"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/elements/users/search_results.php:53
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/tools/i18n_js.php:145
@@ -7186,7 +7188,7 @@ msgstr "Auswählen"
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/elements/users/search_results.php:115
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/members.php:15
 msgid "No users found."
-msgstr "Keine Benutzer gefunden."
+msgstr "Keine Benutzer gefunden"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/elements/users/search_results.php:123
 msgid "Export"
@@ -7315,7 +7317,7 @@ msgstr "System &amp; Einstellungen"
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/dashboard.php:473
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/dashboard/view.php:69
 msgid "Secure and setup your site."
-msgstr "Setup und Sicherung der Site."
+msgstr "Website konfigurieren und absichern"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/dashboard.php:477
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/dashboard/view.php:76
@@ -7358,6 +7360,13 @@ msgid ""
 "selects the level of the Sitemap where you'd like the menu to begin. Options "
 "for displaying sub-pages for each item are also available."
 msgstr ""
+"Erstellt ein Navigationsmenü, das die Struktur Ihrer Sitemap darstellt. "
+"Wählen Sie zunächst die Reihenfolge, in der die Seiten dargestellt werden "
+"sollen, aus. Die Berechtigungen legen fest, ob die Darstellung abhängig von "
+"der Benutzergruppe eines Benutzers ist. Mit der Seitenanzeige legen Sie "
+"fest, welchen Teil des Seitenbaums die Navigation darstellen soll. "
+"Schließlich kann die Darstellung der Unterseiten jedes Menüeintrages "
+"definiert werden."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:8
 msgid ""
@@ -7365,28 +7374,40 @@ msgid ""
 "links to pages, files and other site assets by using the upper concrete5 "
 "toolbar."
 msgstr ""
+"Fügt Textinhalte hinzu und erlaubt, diese mit einem WYSIWYG-Editor zu "
+"gestalten. Inhalte können darin mit anderen Seiten, Dateien oder Medien über "
+"die concrete5-Werkzeugleiste ganz oben verknüpft werden."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:9
 msgid ""
 "Display a list of pages created during a certain month, or months. Pages "
 "will be sorted by month."
 msgstr ""
+"Stellt in einer Liste all die Seiten dar, die während eines bestimmten "
+"Zeitraums erstellt wurde. Die Seiten werden chronologisch sortiert."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:10
 msgid ""
 "Display a list of pages that use a certain page type. Return pages that "
 "exist throughout your site, or under only one specific section."
 msgstr ""
+"Listet alle Seiten auf, die einen bestimmten Seitentyp nutzen - bezogen auf "
+"die gesamte Website oder in einem bestimmten Teil."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:11
 msgid "Select a custom-coded form to display as a block on your page."
 msgstr ""
+"Erlaubt es, ein manuell zusammengestelltes Formular auszuwählen, das als "
+"Block in Ihren Seiten verwendet werden kann."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:12
 msgid ""
 "Choose a file from the File Manager and the File block will create a "
 "hyperlink to it using the link text you specify."
 msgstr ""
+"Wenn Sie eine Datei aus der Dateiverwaltung auswählen, erstellt der Datei-"
+"Block einen Link zu dieser Datei unter Verwendung des von Ihnen angegebenen "
+"Textes."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:13
 msgid ""
@@ -7394,6 +7415,9 @@ msgid ""
 "options for quality desired and minimum version of Flash required for a "
 "browser to display the movie."
 msgstr ""
+"Wählen Sie eine Flash-Datei in der Dateiverwaltung aus und legen Sie die "
+"Optionen für die gewünschte Qualitätsstufe und Mindestversion von Flash, die "
+"zur Darstellung benötigt wird."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:14
 msgid ""
@@ -7402,6 +7426,9 @@ msgid ""
 "is required when submitting the form. Click Add, then repeat for subsequent "
 "questions."
 msgstr ""
+"Um ein Formular zu erstellen, formulieren Sie eine Frage im Textfeld, wählen "
+"Sie den Antworttyp aus und ob es sich hierbei um ein Pflichtfeld handeln "
+"soll. Fügen Sie weitere Fragen nach Bedarf hinzu. "
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:15
 msgid ""
@@ -7409,6 +7436,8 @@ msgid ""
 "display on your map. Finally, specify the zoom level of the map to render. "
 "Google will try to locate the address automatically when you add the block."
 msgstr ""
+"Tragen Sie einen Titel für die Karte ein, geben Sie die Adresse des "
+"darzustellenden Ortes an und legen Sie die Zoom-Stufe der Karte fest."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:16
 msgid ""
@@ -7416,12 +7445,18 @@ msgid ""
 "Choose whether or not to enable comments, moderation and CAPTCHA. Enter an "
 "email address if you'd like to be notified of each new guestbook submission."
 msgstr ""
+"Für das Gästebuch können Titel, Datumsformat, die Kommentarmöglichkeit, "
+"Moderationsvorgaben und Einbindung eines Sicherheitscodes konfiguriert "
+"werden. Sofern Sie eine E-Mail-Adresse angeben, wird bei jedem neuen Eintrag "
+"eine Benachrichtigung dorthin geschickt."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:17
 msgid ""
 "Paste your HTML code into this field, and it will be rendered by your web "
 "browser."
 msgstr ""
+"Kopieren Sie Ihren HTML-Code in dieses Feld, um es im Browser darstellen zu "
+"lassen."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:18
 msgid ""
@@ -7430,6 +7465,11 @@ msgid ""
 "Constrain Image Dimensions to force the image to be displayed at a different "
 "size than the actual image file."
 msgstr ""
+"Wählen Sie eine Datei in der Dateiverwaltung und legen Sie nach Bedarf ein "
+"Mouseover-Bild fest. Wählen Sie ggf. aus, worauf das Bild verweisen soll und "
+"geben Sie einen Alternativtext an. Sie haben die Möglichkeit, eine "
+"Verzerrung des Bildes durch das Festlegen des Seitenverhältnisses zu "
+"unterbinden."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:19
 msgid ""
@@ -7438,6 +7478,10 @@ msgid ""
 "whether or not to display arrows. The Loop option will display the first "
 "page again when a user reaches the last page in the nav."
 msgstr ""
+"Dieser Block verknüpft Seiten auf einer Ebene im Strukturbaum in ihrer "
+"Abfolge miteinander. Ein Text für jeden Link, sowie Pfeile können festgelegt "
+"werden. Wenn die letzte Seite der Ebene erreicht wird, kann über die "
+"Schleifen-Option zur ersten Seite weitergesprungen werden."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:20
 msgid ""
@@ -7447,6 +7491,10 @@ msgid ""
 "Truncate Summaries will shorted Page Description text to a specified number "
 "of characters."
 msgstr ""
+"Die Seitenliste erstellt ein Navigationsmenü, das eine Ebene des "
+"Seitenbaumes darstellt. Der Ort innerhalb der Sitemap und die "
+"Sortierreihenfolge müssen hierfür festgelegt werden. Lange Seitennamen "
+"können auf eine bestimmte Anzahl von Zeichen gekürzt werden."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:21
 msgid ""
@@ -7455,6 +7503,9 @@ msgid ""
 "items to display at once and choose whether to show or hide article "
 "summaries."
 msgstr ""
+"Erlaubt die Darstellung der Inhalte eines externen RSS-Feeds von einer "
+"anderen Website. Die Datumsformatierung, Feed-Titel, Anzahl und Umfang der "
+"anzuzeigenden Inhalte können konfiguriert werden."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:22
 msgid ""
@@ -7463,6 +7514,12 @@ msgid ""
 "form to another page, choose another page from the Sitemap. Place a second "
 "Search block on this page and the results will appear here."
 msgstr ""
+"Erlaubt die Einbindung einer Volltextsuche in Ihre Website, wobei der Titel, "
+"Suchknopf-Text und Umfang des Suchbereiches festgelegt werden können. "
+"Suchformular und Ergebnisseite können voneinander getrennt werden, indem als "
+"Ziel des Suchformulars eine andere Seite ausgewählt wird. Ein zweiter "
+"Suchblock auf der Zielseite bewirkt, dass die Ergebnisse dort dargestellt "
+"werden."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:23
 msgid ""
@@ -7470,6 +7527,9 @@ msgid ""
 "file set. Playback options allow you to display images in order or randomly. "
 "concrete5 will render the images as an animated slideshow."
 msgstr ""
+"Erlaubt die Auswahl einzelner Bilder über die Dateiverwaltung oder die "
+"Festlegung einer Dateisammlung als Quelle. Die Wiedergabe kann sortiert oder "
+"zufällig erfolgen."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:24
 msgid ""
@@ -7477,6 +7537,9 @@ msgid ""
 "to submit responses. Enter each response as its own option under Add Option. "
 "Results can be viewed by visiting Dashboard > Reports > Surveys. "
 msgstr ""
+"Fügen Sie Fragen hinzu und legen Sie fest, ob unregistrierte Benutzer "
+"Antworten einsenden können sollen. Die eingesandten Antworten können in der "
+"Verwaltung unter Berichte > Umfragen eingesehen werden."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:25
 msgid ""
@@ -7486,6 +7549,10 @@ msgid ""
 "tags to a specific page by clicking the Advanced tab and using the page "
 "picker to select a page."
 msgstr ""
+"Erstellt eine Schlagwortwolke (Tag Cloud), die alle Schlagwort-Attribute "
+"dieser oder aller Seiten der Website darstellt. Schlagworte können mit "
+"Seiten verknüpft werden, indem Sie unter \"Erweitert\" mit Hilfe der "
+"Seitenauswahl die Zielseite festlegen."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:26
 msgid ""
@@ -7493,6 +7560,9 @@ msgid ""
 "which to display it on your page. AVI, WMV, Quicktime/MPEG4 and FLV formats "
 "are supported."
 msgstr ""
+"Erlaubt die Auswahl von Videos aus der Dateiverwaltung und diese in den "
+"Formaten AVI, WMV, Quicktime/MPEG4 und FLV mit einer definierten Breite und "
+"Höhe in Seiten einzubetten."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:27
 msgid ""
@@ -7501,6 +7571,9 @@ msgid ""
 "recommended for best results, especially when displaying pages on mobile "
 "devices."
 msgstr ""
+"Erlaubt die Einbettung eines YouTube-Videos durch Eingabe der langen oder "
+"kurze YouTube-URL in das Link-Feld. Es empfiehlt sich, die iFrame-Option zu "
+"nutzen, insbesondere um mobile Endgeräte zu unterstützen."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:35
 msgid ""
@@ -7509,10 +7582,15 @@ msgid ""
 "Composer, and at least one block needs to be included in Composer via Page "
 "Type Defaults."
 msgstr ""
+"Mit dem Composer können Seiten direkt aus der Verwaltung heraus erstellt und "
+"veröffentlicht werden. Zumindest ein Seitentyp und ein Block muss über die "
+"Seitentyp-Einstellungen für den Composer freigegeben sein."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:36
 msgid "View content created using Composer, but have not yet published. "
 msgstr ""
+"Zeigt Inhalte an, die mit dem Composer erstellt, aber noch nicht "
+"veröffentlicht wurden."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:37
 msgid ""
@@ -7520,12 +7598,19 @@ msgid ""
 "actions; from this menu, you can control access to or delete a page. Click "
 "and drag a page to move it to a different place in your site."
 msgstr ""
+"Erlaubt das Betrachten und Ändern der Websitestruktur. Klicken Sie eine "
+"Seite an, um die Bearbeitungsoptionen zu betrachten. Aus diesem Menü können "
+"der Zugriff auf eine Seite bearbeitet und die Seite gelöscht werden. Klicken "
+"und ziehen Sie die Seite innerhalb des Baumes an einen anderen Ort, um sie "
+"zu verschieben."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:38
 msgid ""
 "View a single branch of your Sitemap. Useful for working with large sites "
 "and complex tree structures."
 msgstr ""
+"Stellt einen einzelnen Zweig der Sitemap da - hilfreich bei umfangreichen "
+"Websites oder komplexen Baumstrukturen."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:39
 msgid ""
@@ -7534,6 +7619,9 @@ msgid ""
 "the action on, then selecting the action you want to perform from the drop-"
 "down menu."
 msgstr ""
+"Erlaubt die Suche nach Seiten anhand von Name oder Typ. Kicken Sie die "
+"Kontrollkästchen neben den Seiten an, um mehrere Seiten gleichzeitig zu "
+"bearbeiten und wählen Sie dann die gewünschte Aktion in der Liste aus."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:40
 msgid ""
@@ -7548,11 +7636,15 @@ msgid ""
 "Categorize file attributes into sets to give greater organizational context "
 "to editors and enhance ease of use."
 msgstr ""
+"Erlaubt es, Dateiattribute in Sammlungen zu gruppieren, um die Bearbeitung "
+"zu erleichtern."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:42
 msgid ""
 "File sets provide a flexible way to organize and group your site's assets."
 msgstr ""
+"Dateisammlungen erlauben eine flexible Gruppierung und Strukturierung von "
+"Dateien."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:43
 msgid ""
@@ -7561,6 +7653,10 @@ msgid ""
 "perform the action on, then selecting the action you want to perform from "
 "the drop-down menu."
 msgstr ""
+"Erlaubt die Suche nach Benutzern anhand von Name, E-Mail und "
+"Gruppenzugehörigkeit. Kicken Sie die Kontrollkästchen neben den Benutzern "
+"an, um mehrere Benutzer gleichzeitig zu bearbeiten und wählen Sie dann die "
+"gewünschte Aktion in der Liste aus."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:44
 msgid ""
@@ -7576,29 +7672,35 @@ msgid ""
 "Create a new group to organize and classify users. Choose an expiration date "
 "to remove users automatically."
 msgstr ""
+"Erlaubt es, Gruppen zu erstellen und diesen Benutzer zuzuweisen und "
+"zeitgesteuerte Gruppenzugehörigkeiten festzulegen."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:46
 msgid ""
 "View responses to your site's forms. Submitted form data is collected here."
-msgstr ""
+msgstr "Zeigt die Daten von durch Besucher abgeschickte Formulare an."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:47
 msgid ""
 "View graphs showing recent site traffic, registration, page creation and "
 "downloaded files."
 msgstr ""
+"Stellt die Seitenaktivitäten, Benutzerregistrierungen, Seitenerstellungen "
+"und heruntergeladene Dateien grafisch dar."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:48
 msgid ""
 "The results of completed survey blocks are logged here. Find out what your "
 "users have submitted."
-msgstr ""
+msgstr "Stellt die Ergebnisse abgeschlossener Umfragen dar."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:49
 msgid ""
 "View a record of errors your site has encountered, and a log of outgoing "
 "email messages sent by your site."
 msgstr ""
+"Zeigt das Fehlerprotokoll der Website und listet die vom System versendeten "
+"E-Mails auf."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:50
 msgid ""
@@ -7608,6 +7710,12 @@ msgid ""
 "Types a theme uses. Customize allows you to change certain properties of "
 "your theme's styles, if allowed."
 msgstr ""
+"Vorlagen ändern das Erscheinungsbild der Seiten Ihrer Website. Sobald ein "
+"Vorlagenpaket ausgewählt ist, wird es auf jede Seite in der Website "
+"angewendet. Die Vorschau erlaubt es, die Änderungen des Erscheinungsbild "
+"vorab zu prüfen. Klicken Sie auf Untersuchen, um die Seitentypen des "
+"Vorlagenpaketes zu betrachten. Klicken Sie auf Anpassen, um veränderbare "
+"Eigenschaften der in der Vorlage verwendeten Stile anzupassen."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:51
 msgid ""
@@ -7616,12 +7724,18 @@ msgid ""
 "correspond to specific themes. concrete5 will look for the specified page "
 "type in your active theme."
 msgstr ""
+"Seitentypen stellen Inhaltsblöcke einer Seite unterschiedlich dar, indem die "
+"Vorlagen z.B. eine linke Seitenspalte, volle Breite etc. vorsehen. "
+"Seitentypen gehören zu Vorlagenpaketen. concrete5 sucht innerhalb des "
+"aktiven Vorlagenpaketes nach passenden Seitentypen."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:52
 msgid ""
 "Control the types of information that can be saved about each page in your "
 "site."
 msgstr ""
+"Legt fest, welche Inhaltstypen zu jeder Seite Ihrer Website gespeichert "
+"werden können."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:53
 msgid ""
@@ -7631,6 +7745,12 @@ msgid ""
 "location corresponds to a PHP file placed in your single_pages/ override "
 "directory. Below is a list of Single Pages currently installed."
 msgstr ""
+"Alleinstehende Seiten werden verwendet, um besonderen Code innerhalb von "
+"concrete5 auszuführen. Jede alleinstehende Seite ist an nur einem Ort "
+"innerhalb des Seitenbaumes vorhanden, der in der Verwaltung registriert "
+"werden muss. Dieser Ort entspricht einer PHP-Datei, die im Verzeichnis "
+"single_pages im Wurzelverzeichnis Ihrer Website liegt. Folgende "
+"alleinstehende Seiten sind bereits registriert."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:54
 msgid ""
@@ -7640,6 +7760,12 @@ msgid ""
 "Defaults. Block content and display order can be controlled, as well as the "
 "ability to roll-back to previous versions of the stack."
 msgstr ""
+"Stapel sind zusammengehörige Blöcke, die es erleichtern, Inhalte an mehreren "
+"Stellen innerhalb der Website wiederzuverwenden. Stapel werden in der "
+"Verwaltung bearbeitet und dann auf einzelne Seiten platziert oder über die "
+"Seitentyp-Standards den Seitenvorlagen zugeordnet. Der Inhalt der Blöcke und "
+"die Darstellungsreihenfolge können festgelegt werden, und Sie können zu "
+"früheren Versionen eines Stapels zurückkehren."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:55
 msgid ""
@@ -7648,12 +7774,18 @@ msgid ""
 "install them. Click any block to find information about usage and refreshing "
 "a block's database tables."
 msgstr ""
+"Alle installierten Blöcke werden hier angezeigt. Selbst angelegte Blocktypen "
+"werden hier unter Wartet auf Installation angezeigt, bis Sie diese "
+"installiert haben. Klicken Sie auf einen Block, um anzuzeigen, wo dieser "
+"verwendet wird und um seine Datenbanktabelle zu aktualisieren."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:56
 msgid ""
 "View emails your site sends, as well as error messages PHP and MysSQL erros "
 "returned as your site runs."
 msgstr ""
+"Zeigt die von der Site versendeten E-Mails und Fehlermeldungen des Systems "
+"an."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:57
 msgid ""
@@ -7662,30 +7794,42 @@ msgid ""
 "visitors by saving them in your log (as you might want to do if your site is "
 "active)."
 msgstr ""
+"Wählen Sie, ob Fehlermeldungen auf der Seite angezeigt werden sollen (dies "
+"kann bei der Entwicklung praktisch sein) oder ob im Produktivmodus die "
+"Fehler lediglich protokolliert werden."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:58
 msgid ""
 "Export your site's structure and content to an XML document that you can use "
 "to develop custom sites with our Starting Points add-on."
 msgstr ""
+"Exportiert die Websitestruktur und deren Inhalt in ein XML-Dokument, das zur "
+"Erstellung einer neuen Site mit Hilfe der Starting Point-Erweiterung dienen "
+"kann."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:59
 msgid ""
 "View information about your concrete5 site's configuration, as well as "
 "details about the hosting environment you're using."
 msgstr ""
+"Zeigt Informationen zur Konfiguration Ihrer concrete5-Website und zur "
+"Serverumgebung an."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:60
 msgid ""
 "Select which types of attributes to make available to pages, users, and "
 "files."
 msgstr ""
+"Erlaubt die Auswahl der in Seiten, Benutzern und Dateien zur Verfügung "
+"stehenden Attributtypen."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:61
 msgid ""
 "Attributes are available to pages (aka Collections), users and files. If you "
 "want to add a new attribute to any of these objects, start here."
 msgstr ""
+"Attribute können auf Seiten, Benutzer und Dateien angewendet werden. Zuvor "
+"müssen diese hier konfiguriert werden."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:62
 msgid ""
@@ -7702,54 +7846,73 @@ msgid ""
 "Set concrete5 to use an external SMTP server, instead of the default PHP "
 "Mail function, for sending email."
 msgstr ""
+"Legt fest, ob concrete5 einen externen SMTP-Server statt der in PHP "
+"eingebauten Mail-Funktion zum Versand von E-Mails nutzen soll."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:64
 msgid ""
 "Block users at specific IP addresses from logging into your site. Blocked "
 "users can still view pages that are visible to guests."
 msgstr ""
+"Blockiert die Anmeldung von Benutzern von bestimmten IP-Adressen aus - "
+"blockierte Benutzer können jedoch die öffentlich zugängliche Website nach "
+"wie vor betrachten."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:65
 msgid ""
 "Control users' ability to do perform specific tasks, such as install "
 "packages, alter permissions, etc."
 msgstr ""
+"Legt die Berechtigungen einzelner Benutzer zum Zugriff auf Aufgaben wie das "
+"Installieren von Paketen, Ändern von Berechtigungen etc. fest."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:66
 msgid ""
 "View and change which file types you permit users to upload to your File "
 "Manager."
 msgstr ""
+"Erlaubt es, die Dateitypen, die Benutzer über die Dateiverwaltung hochladen "
+"dürfen, festzulegen."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:67
 msgid ""
 "Control how users interact with your site's File Manager, allowing or "
 "disallowing actions like search, upload, replace and more."
 msgstr ""
+"Legt fest, wie Benutzer mit der Dateiverwaltung arbeiten können und steuert "
+"die Zugriffsrechte auf Suche, Hochladen, Ersetzen von Dateien etc."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:68
 msgid ""
 "Control which set of tools the content-editor toolbar includes (e.g., "
 "Simple, Advanced, Office), and the toolbar's spatial dimensions."
 msgstr ""
+"Legt die Konfiguration der Werkzeugleiste des Inhaltseditors sowie dessen "
+"Breite und Höhe fest."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:69
 msgid ""
 "View available language packs installed for the concrete5 Dashboard and "
 "editing interface."
 msgstr ""
+"Zeigt die Sprachpakete, die für die Benutzeroberfläche von concrete5 "
+"installiert sind, an."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:70
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:74
 msgid ""
 "Display information about your concrete5 site's users, on a public page."
 msgstr ""
+"Stellt Informationen über die Benutzer der Website auf einer öffentlichen "
+"Seite dar."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:71
 msgid ""
 "Upload an image that will appear in the address bar when visitors go to your "
 "site and in the bookmark list if they bookmark it."
 msgstr ""
+"Icons sind Bilder, die in der Adresszeile und in Lesezeichen des Browsers "
+"Ihrer Besucher dargestellt werden."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:72
 msgid ""
@@ -7761,6 +7924,8 @@ msgstr ""
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:73
 msgid "Enable Public Registration to let visitors create new user accounts."
 msgstr ""
+"Wird die offene Registrierung aktiviert, können Besucher neue Benutzerkonten "
+"anlegen."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:75
 msgid "Determine where users should be redirected to after they login."
@@ -7772,6 +7937,8 @@ msgid ""
 "location) where you'll have the option of putting files after uploading them "
 "to the File Manager. "
 msgstr ""
+"Erstellen Sie einen alternativen Speicherort für Dateien, in dem Dateien "
+"nach dem Hochladen über die Dateiverwaltung abgelegt werden sollen."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:77
 msgid ""
@@ -7779,6 +7946,10 @@ msgid ""
 "sites. For larger sites, we recommend using a database utility like "
 "phpMyAdmin or exporting a database dump via command-line MySql."
 msgstr ""
+"Erstellen Sie eine Sicherung Ihrer Website-Datenbank. Dies funktioniert für "
+"kleine Websites am besten. Bei umfangreicheren Websites empfehlen wir, ein "
+"Managementsoftware für die mySQL-Datenbank wie phpMyAdmin oder die "
+"Kommandozeile zu nutzen."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:78
 msgid "Download the latest version of concrete5 and upgrade your site."
@@ -7792,6 +7963,9 @@ msgid ""
 "the admin user. Maintenance Mode is useful for developing, testing or "
 "temporarily disabling a site."
 msgstr ""
+"Aktivieren Sie den Wartungsmodus, um nur Administratoren den Zugriff auf die "
+"Website zu erlauben. Dies kann während der Entwicklung, Tests oder zur "
+"übergangsweisen Abschaltung der Website nützlich sein."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:80
 msgid ""
@@ -7800,6 +7974,10 @@ msgid ""
 "Click the triangle icon next to the job to start it. A success message will "
 "be displayed once the job has been completed."
 msgstr ""
+"concrete5 kann mehrere Aufgaben automatisiert ausführen, um höchste "
+"Performance zu garantieren, E-Mails zu verarbeiten und den Suchindex zu "
+"aktualisieren. Klicken Sie auf das Dreieck neben jeder Aufgabe, um sie "
+"auszuführen. Eine Erfolgsmeldung zeigt an, wann die Aufgabe ausgeführt wurde."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:81
 msgid ""
@@ -7807,6 +7985,9 @@ msgid ""
 "good idea to clear the cache. If you're having to clear the cache a lot, you "
 "might want to just turn off caching in Cache & Speed Settings."
 msgstr ""
+"Zeigt die Website unbeabsichtigt veraltete Inhalte an, sollte der Cache "
+"gelöscht werden. Muss der Cache oft gelöscht werden, könnte es sinnvoller "
+"sein, ihn unter Cache & Geschwindigkeit ganz zu deaktivieren."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:82
 msgid ""
@@ -7841,6 +8022,9 @@ msgid ""
 "page of your site, and pick whether it will go in pages' header or footer. "
 "This is where you would input code from Google Analytics, for example."
 msgstr ""
+"Fügen Sie HTML oder Javascript-Code zur Nutzungsanalyse (z.B. mit Piwik oder "
+"Google Analytics) Ihrer Website ein, und wählen Sie, ob dieser im Seitenkopf "
+"oder -fuß eingebunden werden soll. "
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:85
 msgid ""
@@ -7850,6 +8034,11 @@ msgid ""
 "consider disabling statistics tracking and investigate the use of an "
 "alternate, third-party solution for tracking site stats."
 msgstr ""
+"Steuert die statistische Nachverfolgung von Seitenaufrufen, "
+"heruntergeladenen Dateien und Benutzerregistrierungen, die in der Verwaltung "
+"unter Berichte > Statistik angezeigt werden. Wenn Ihre Website unter hoher "
+"Last langsamer wird, könnte es sinnvoll sein, diese interne Auswertung zu "
+"deaktivieren und eine andere Lösung in Betracht zu ziehen."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:86
 msgid ""
@@ -7860,6 +8049,12 @@ msgid ""
 "pages individually from Page Properties, or enable Advanced Permissions for "
 "even more granular control."
 msgstr ""
+"Erlaubt es, Grundeinstellungen für die Website vorzunehmen. Die "
+"Zugriffsberechtigungen erlauben, die Website für alle, nur für registrierte "
+"Benutzer oder nur für Administratoren sichtbar zu machen. "
+"Bearbeitungsberechtigungen können Gruppen zugewiesen werden. Feinere "
+"Einstellungsmöglichkeiten bieten die Erweiterten Berechtigungen, die Sie "
+"aktivieren können."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:87
 msgid ""
@@ -7868,12 +8063,19 @@ msgid ""
 "defaults. After adding the block, click it and choose the option to make it "
 "available in composer."
 msgstr ""
+"Attribute oder Blockbereiche dieses Seitentyps, die mit dem Composer "
+"bearbeitet werden können, finden Sie hier. Fügen Sie Blöcke zu den Seitentyp-"
+"Standards hinzu. Nachdem Sie einen Block hinzugefügt haben, klicken Sie "
+"diesen an und wählen Sie aus, dass sie ihn für den Composer freigeben wollen."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:88
 msgid ""
 "Store data about your users-- like site preferences, birthdays, bios and "
 "more. Control which elements are available for users to update themselves."
 msgstr ""
+"Speichert Benutzerdaten, z.B. Websitevoreinstellungen, Geburtstage, "
+"Lebensläufe und legt fest, welche dieser Elemente von den Benutzern selbst "
+"geändert werden können."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/interface/help.php:89
 msgid "Manually create new user accounts for your concrete5 site."
@@ -7897,7 +8099,7 @@ msgstr "Wartung"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/upgrade/version_500a1.php:37
 msgid "Run common cleanup tasks."
-msgstr "Aufräumarbeiten durchführen."
+msgstr "Aufräumarbeiten durchführen"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/upgrade/version_510.php:34
 msgid "Reports"
@@ -7914,7 +8116,7 @@ msgstr "Formular-Ergebnisse"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/upgrade/version_510.php:79
 msgid "Get submission data."
-msgstr "Gesendete Daten ansehen."
+msgstr "Gesendete Daten ansehen"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/upgrade/version_510.php:80
 msgid "Users and Groups"
@@ -7963,7 +8165,7 @@ msgstr "Seitentypen"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/upgrade/version_510.php:89
 msgid "What goes in your site."
-msgstr "Was in Ihre Website einfließt."
+msgstr "Was in Ihre Website einfließt"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/upgrade/version_510.php:90
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/dashboard/pages/single.php:5
@@ -7986,7 +8188,7 @@ msgstr "Vorlagenkatalog"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/upgrade/version_520.php:104
 msgid "Share content across your site."
-msgstr "Vorlagen erstellen und überall nutzen."
+msgstr "Vorlagen erstellen und überall nutzen"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/upgrade/version_530.php:66
 msgid "Shared Scrapbook 1"
@@ -7994,11 +8196,11 @@ msgstr "Gemeinsamer Vorlagenkatalog 1"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/upgrade/version_530.php:81
 msgid "Header Extra Content"
-msgstr "Header Extra Inhalt"
+msgstr "Zusätzlicher Inhalt für den Seitenkopf"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/upgrade/version_530.php:85
 msgid "Exclude From Search Index"
-msgstr "Vom Such-Index ausschließen"
+msgstr "Vom Suchindex ausschließen"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/upgrade/version_532.php:118
 msgid "Exclude From sitemap.xml"
@@ -8120,7 +8322,7 @@ msgstr "Erweiterungen deinstallieren"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/upgrade/version_541.php:37
 msgid "Blog Entry"
-msgstr "Blog Eintrag"
+msgstr "Blog-Eintrag"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/upgrade/version_5411.php:29
 msgid "Install Packages and Connect to the Marketplace"
@@ -8137,7 +8339,7 @@ msgstr "Mehrsprachigkeit einrichten"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/upgrade/version_542.php:42
 msgid "Composer Beta"
-msgstr "Composer Beta"
+msgstr "Composer"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/helpers/concrete/upgrade/version_542.php:42
 msgid "Write for your site."
@@ -8653,7 +8855,7 @@ msgstr "Datei herunterladen"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/download_file.php:17
 msgid "Invalid File."
-msgstr "Ungültige Datei."
+msgstr "Ungültige Datei"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/download_file.php:21
 msgid "This file requires a password to download."
@@ -8681,7 +8883,7 @@ msgstr "concrete5 aktualisieren"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/install.php:79
 msgid "Continue to your site"
-msgstr "Weiter zur Website."
+msgstr "Weiter zur Website"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/install.php:86
 msgid "Beginning Installation"
@@ -8716,11 +8918,11 @@ msgstr "Server"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/install.php:185
 msgid "MySQL Username"
-msgstr "MySQL Benutzername"
+msgstr "MySQL-Benutzername"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/install.php:192
 msgid "MySQL Password"
-msgstr "MySQL Passwort"
+msgstr "MySQL-Passwort"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/install.php:199
 msgid "Database Name"
@@ -8792,7 +8994,7 @@ msgstr "XML Unterstützung"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/install.php:366
 msgid "concrete5 requires PHP XML Parser and SimpleXML extensions"
-msgstr "concrete5 benötigt PHP XML-Parser und SimpleXML-Erweiterungen."
+msgstr "concrete5 benötigt die PHP-Erweiterungen XML-Parser und SimpleXML."
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/install.php:370
 msgid "Writable Files and Configuration Directories"
@@ -9217,7 +9419,7 @@ msgstr "Interne Blocktypen"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/dashboard/composer/drafts.php:3
 msgid "Composer Drafts"
-msgstr "Composer Entwürfe"
+msgstr "Composer-Entwürfe"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/dashboard/composer/drafts.php:18
 msgid "(Untitled Page)"
@@ -9500,7 +9702,7 @@ msgstr "Weitere Details"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/dashboard/extend/update.php:78
 msgid "Unable to locate this add-on on concrete5.org"
-msgstr "Erweiterung auf concrete5.org nicht gefunden."
+msgstr "Erweiterung auf concrete5.org nicht gefunden"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/dashboard/extend/update.php:91
 msgid "Update Add-On"
@@ -10405,7 +10607,7 @@ msgstr "Version: %s"
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/dashboard/system/backup_restore/update.php:21
 #, php-format
 msgid "Release Date: %s"
-msgstr "Release Datum: %s"
+msgstr "Release-Datum: %s"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/dashboard/system/backup_restore/update.php:27
 msgid "Note: Downloading an update will NOT automatically install it."
@@ -10671,7 +10873,7 @@ msgstr "Verbindungsmethode"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/dashboard/system/mail/importers.php:86
 msgid "Mail Importers"
-msgstr "E-Mail Importer"
+msgstr "E-Mail-Importer"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/dashboard/system/mail/importers.php:89
 msgid ""
@@ -10877,7 +11079,7 @@ msgstr ""
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/dashboard/system/permissions/antispam.php:47
 msgid "Email Notification"
-msgstr "E-Mail Benachrichtigung"
+msgstr "E-Mail-Benachrichtigung"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/dashboard/system/permissions/antispam.php:50
 msgid "Any email address in this box will be notified when spam is detected."
@@ -11360,7 +11562,7 @@ msgstr "zu einem definierten Zeitpunkt"
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/dashboard/users/add_group.php:46
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/dashboard/users/groups.php:179
 msgid "once a certain amount of time has passed"
-msgstr "so bald eine gewisse Zeit verstrichen ist"
+msgstr "wenn eine gewisse Zeit verstrichen ist"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/dashboard/users/add_group.php:54
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/dashboard/users/groups.php:188
@@ -11396,7 +11598,7 @@ msgstr "Minuten"
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/dashboard/users/add_group.php:83
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/dashboard/users/groups.php:223
 msgid "Expiration Action"
-msgstr "Ablaufaktion"
+msgstr "Aktion bei Ablauf"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/dashboard/users/add_group.php:86
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/dashboard/users/groups.php:226
@@ -11617,7 +11819,7 @@ msgstr ""
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/profile/avatar.php:18
 msgid "Remove your user avatar &gt;"
-msgstr "Entfernen des Benutzer Avatars &gt;"
+msgstr "Entfernen des Benutzer-Avatars &gt;"
 
 #: /Volumes/HDD/GitHub/concrete5/web/concrete/single_pages/profile/avatar.php:26
 msgid "User Profile picture saved."
@@ -13464,24 +13666,3 @@ msgstr "Blöcke einer Seite hinzufügen"
 
 msgid "Add Stack to Page Area"
 msgstr "Stapel einer Seite hinzufügen"
-
-msgid "Sun"
-msgstr "So"
-
-msgid "Mon"
-msgstr "Mo"
-
-msgid "Tue"
-msgstr "Di"
-
-msgid "Wed"
-msgstr "Mi"
-
-msgid "Thu"
-msgstr "Do"
-
-msgid "Fri"
-msgstr "Fr"
-
-msgid "Sat"
-msgstr "Sa"
