@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: concrete5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-08-28 18:19-0800\n"
-"PO-Revision-Date: 2012-08-30 14:37+0100\n"
+"PO-Revision-Date: 2012-08-30 17:47+0100\n"
 "Last-Translator: Bernd Matzner <bernd@matznermatzner.de>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/"
 "concrete5/language/de_DE/)\n"
@@ -168,7 +168,7 @@ msgstr "Anzuzeigende Unterseiten"
 #: /Users/andrew/git/concrete5/web/concrete/tools/users/bulk_properties.php:56
 #: /Users/andrew/git/concrete5/web/concrete/tools/users/bulk_properties.php:81
 msgid "None"
-msgstr "Keine"
+msgstr "Nichts"
 
 #: /Users/andrew/git/concrete5/web/concrete/blocks/autonav/form_setup_html.php:60
 msgid "Relevant sub pages."
@@ -813,7 +813,7 @@ msgstr "Auswahl-Liste"
 #: /Users/andrew/git/concrete5/web/concrete/blocks/form/form_setup_html.php:140
 #: /Users/andrew/git/concrete5/web/concrete/blocks/form/form_setup_html.php:254
 msgid "Checkbox List"
-msgstr "Checkbox Liste"
+msgstr "Checkbox-Liste"
 
 #: /Users/andrew/git/concrete5/web/concrete/blocks/form/form_setup_html.php:141
 #: /Users/andrew/git/concrete5/web/concrete/blocks/form/form_setup_html.php:255
@@ -1084,7 +1084,7 @@ msgstr "Kommentare sind aktiviert"
 #: /Users/andrew/git/concrete5/web/concrete/blocks/guestbook/add.php:34
 #: /Users/andrew/git/concrete5/web/concrete/blocks/guestbook/edit.php:33
 msgid "Comments require approval."
-msgstr "Kommentare müssen von einem Moderator freigeschaltet werden"
+msgstr "Kommentare müssen von einem Moderator freigegeben werden"
 
 #: /Users/andrew/git/concrete5/web/concrete/blocks/guestbook/add.php:44
 #: /Users/andrew/git/concrete5/web/concrete/blocks/guestbook/edit.php:42
@@ -1134,7 +1134,7 @@ msgstr "Ablehnen"
 #: /Users/andrew/git/concrete5/web/concrete/core/models/workflow/progress/action.php:79
 #: /Users/andrew/git/concrete5/web/concrete/tools/versions.php:357
 msgid "Approve"
-msgstr "Freischalten"
+msgstr "Freigeben"
 
 #: /Users/andrew/git/concrete5/web/concrete/blocks/guestbook/view.php:29
 #: /Users/andrew/git/concrete5/web/concrete/page_types/blog_entry.php:7
@@ -2288,7 +2288,7 @@ msgstr "Wartet auf mich"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:69
 msgid "Stacks & Blocks"
-msgstr "Stapel & Blöcke"
+msgstr "Blöcke & Stapel"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:70
 msgid "Manage sitewide content and administer block types."
@@ -2308,7 +2308,7 @@ msgstr "Vorlagen erstellen und überall nutzen"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:73
 msgid "Block & Stack Permissions"
-msgstr "Berechtigungen für Blöcke & Stapel"
+msgstr "Block- & Stapel-Berechtigungen"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:74
 msgid "Control who can add blocks and stacks on your site."
@@ -2482,7 +2482,7 @@ msgstr "Sorgen Sie für reibungslosen Betrieb"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:111
 msgid "Cache & Speed Settings"
-msgstr "Cache & Geschwindigkeit"
+msgstr "Optimierung"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:112
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/optimization/clear_cache.php:3
@@ -2510,7 +2510,7 @@ msgstr "Zugriff auf die Website"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:117
 msgid "File Manager Permissions"
-msgstr "Dateiberechtigungen"
+msgstr "Datei-Berechtigungen"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:118
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/permissions/file_types.php:1
@@ -2520,7 +2520,7 @@ msgstr "Erlaubte Dateierweiterungen"
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:119
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/permissions/tasks.php:7
 msgid "Task Permissions"
-msgstr "Aufgabenberechtigungen"
+msgstr "Aufgaben-Berechtigungen"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:120
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/upgrade/version_560.php:119
@@ -2943,7 +2943,7 @@ msgstr "Änderungen bestätigen"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:209
 msgid "Can publish an unapproved version of the page."
-msgstr "Darf eine nicht freigeschaltete Version der Seite veröffentlichen"
+msgstr "Darf eine nicht freigegebene Version der Seite veröffentlichen"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:210
 msgid "Add Sub-Page"
@@ -3090,7 +3090,7 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:234
 msgid "Edit Area Permissions"
-msgstr "Bereichsberechtigungen bearbeiten"
+msgstr "Bereichs-Berechtigungen bearbeiten"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:235
 msgid ""
@@ -3134,7 +3134,7 @@ msgid ""
 "permissions."
 msgstr ""
 "Legt fest, ob Benutzer diesen Block bearbeiten können. Dies überschreibt "
-"alle Bereichs- oder Seitenberechtigungen."
+"alle Bereichs- oder Seiten-Berechtigungen."
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:244
 msgid "Change Custom Template"
@@ -3146,7 +3146,7 @@ msgid ""
 "overrides any area or page permissions."
 msgstr ""
 "Legt fest, ob Benutzer die Benutzervorlagen dieses Blockes ändern können. "
-"Dies überschreibt alle Bereichs- oder Seitenberechtigungen."
+"Dies überschreibt alle Bereichs- oder Seiten-Berechtigungen."
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:246
 msgid "Delete Block"
@@ -3158,7 +3158,7 @@ msgid ""
 "page permissions."
 msgstr ""
 "Legt fest, ob Benutzer diesen Block löschen können. Dies überschreibt alle "
-"Bereichs- oder Seitenberechtigungen."
+"Bereichs- oder Seiten-Berechtigungen."
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:248
 msgid "Edit Design"
@@ -3298,11 +3298,11 @@ msgstr "Darf die Datei löschen"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:285
 msgid "Approve or Deny"
-msgstr "Freischalten oder Ablehnen"
+msgstr "Freigeben oder Ablehnen"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:286
 msgid "Grant ability to approve workflow."
-msgstr "Die Erlaubnis, Arbeitsabläufe freizuschalten, erteilen"
+msgstr "Die Erlaubnis, Arbeitsabläufe freizugeben, erteilen"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:287
 msgid "Notify on Entry"
@@ -3316,12 +3316,12 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:289
 msgid "Notify on Approve"
-msgstr "Bei Freischaltung benachrichtigen"
+msgstr "Bei Freigabe benachrichtigen"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:290
 msgid "Notify approvers that a change has been approved."
 msgstr ""
-"Benutzer mit Freischaltrechten über eine Freischaltung einer Änderung "
+"Benutzer mit Freischaltrechten über eine Freigabe einer Änderung "
 "benachrichtigen"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:291
@@ -3379,7 +3379,7 @@ msgstr "Sicherungen durchführen"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:312
 msgid "Access Task Permissions"
-msgstr "Auf Aufgabenberechtigungen zugreifen"
+msgstr "Auf Aufgaben-Berechtigungen zugreifen"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:313
 msgid "Access Sitemap"
@@ -3782,8 +3782,7 @@ msgid ""
 "Thanks! Your comment has been received. It will require approval before it "
 "appears."
 msgstr ""
-"Danke! Ihr Kommentar wurde gespeichert. Er muss aber noch freigeschaltet "
-"werden."
+"Danke! Ihr Kommentar wurde gespeichert. Er muss aber noch freigegeben werden."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/blocks/guestbook.php:152
 msgid "Thanks! Your comment has been posted."
@@ -3799,7 +3798,7 @@ msgstr "Der Kommentar wurde entfernt."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/blocks/guestbook.php:243
 msgid "The comment has been approved."
-msgstr "Der Kommentar wurde freigeschaltet."
+msgstr "Der Kommentar wurde freigegeben."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/blocks/guestbook.php:262
 msgid "The comment has been unapproved."
@@ -4288,8 +4287,8 @@ msgid ""
 "You are registered but a site administrator must review your account, you "
 "will not be able to login until your account has been approved."
 msgstr ""
-"Sie sind registriert, aber ein Administrator muss Ihr Konto noch "
-"freischalten, damit Sie sich anmelden können."
+"Sie sind registriert, aber ein Administrator muss Ihr Konto noch freigeben, "
+"damit Sie sich anmelden können."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/upgrade.php:38
 msgid ""
@@ -5336,7 +5335,7 @@ msgstr "Sekunde"
 #: /Users/andrew/git/concrete5/web/concrete/core/helpers/file.php:293
 msgid "An error occured while attempting to determine file permissions."
 msgstr ""
-"Während des Versuchs, die Dateiberechtigungen einzulesen, ist ein Fehler "
+"Während des Versuchs, die Datei-Berechtigungen einzulesen, ist ein Fehler "
 "aufgetreten."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/helpers/mail.php:353
@@ -6270,25 +6269,25 @@ msgstr ""
 msgid ""
 "\"%s\" has pending changes and needs to be approved. View the page here: %s."
 msgstr ""
-"\"%s\" hat unbestätigte Änderungen und muss freigeschaltet werden. "
-"Betrachten Sie die Seite hier: %s."
+"\"%s\" hat unbestätigte Änderungen und muss freigegeben werden. Betrachten "
+"Sie die Seite hier: %s."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/models/workflow/request/requests/approve_page.php:33
 #, php-format
 msgid "Page <a href=\"%s\">%s</a> submitted for Approval."
-msgstr "Die Seite <a href=\"%s\">%s</a> wurde zur Freischaltung übermittelt."
+msgstr "Die Seite <a href=\"%s\">%s</a> wurde zur Freigabe übermittelt."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/models/workflow/request/requests/approve_page.php:34
 msgid "Page Submitted for Approval."
-msgstr "Diese Seite wartet darauf, freigeschaltet zu werden."
+msgstr "Diese Seite wartet darauf, freigegeben zu werden."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/models/workflow/request/requests/approve_page.php:35
 msgid "Pending Approval"
-msgstr "Erwartet Freischaltung"
+msgstr "Erwartet Freigabe"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/models/workflow/request/requests/approve_page.php:52
 msgid "Approve Page"
-msgstr "Seite freischalten"
+msgstr "Seite freigeben"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/models/workflow/request/requests/approve_page.php:60
 #: /Users/andrew/git/concrete5/web/concrete/core/models/workflow/request/requests/approve_page.php:61
@@ -6451,7 +6450,7 @@ msgstr "Verschieben bestätigen"
 #: /Users/andrew/git/concrete5/web/concrete/core/models/workflow/types/basic.php:11
 #, php-format
 msgid "Approved by %s"
-msgstr "Von %s freigeschaltet"
+msgstr "Von %s freigegeben"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/models/workflow/types/basic.php:14
 #, php-format
@@ -6500,7 +6499,7 @@ msgid ""
 "---\n"
 "\n"
 msgstr ""
-"Am %s hat der Benutzer %s die folgende Anfrage freigeschaltet: \n"
+"Am %s hat der Benutzer %s die folgende Anfrage freigegeben: \n"
 "\n"
 "---\n"
 "%s\n"
@@ -8335,7 +8334,7 @@ msgstr "Wer kann auf welche Inhalte nicht zugreifen?"
 #: /Users/andrew/git/concrete5/web/concrete/elements/permission/lists/area.php:13
 msgid "The following area permissions are inherited from an area set on "
 msgstr ""
-"Die folgenden Bereichsberechtigungen wurden von einem Bereich übernommen, "
+"Die folgenden Bereichs-Berechtigungen wurden von einem Bereich übernommen, "
 "der gesetzt wurde auf"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/permission/lists/area.php:17
@@ -8349,7 +8348,7 @@ msgstr "Berechtigungen überschreiben"
 msgid ""
 "The following area permissions are inherited from the page's permissions."
 msgstr ""
-"Die folgenden Bereichsberechtigungen wurden von den Seitenberechtigungen "
+"Die folgenden Bereichs-Berechtigungen wurden von den Seiten-Berechtigungen "
 "geerbt."
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/permission/lists/area.php:35
@@ -8360,7 +8359,7 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/permission/lists/area.php:37
 msgid "Revert to Page Permissions"
-msgstr "Zurücksetzen auf Seitenberechtigungen"
+msgstr "Zurücksetzen auf Seiten-Berechtigungen"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/permission/lists/block.php:12
 msgid ""
@@ -8381,7 +8380,7 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/permission/lists/block.php:25
 msgid "Revert to Area Permissions"
-msgstr "Zurücksetzen auf Seitenberechtigungen"
+msgstr "Zurücksetzen auf Seiten-Berechtigungen"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/permission/lists/collection.php:15
 #: /Users/andrew/git/concrete5/web/concrete/tools/pages/permissions.php:86
@@ -8411,7 +8410,7 @@ msgstr "Berechtigungen der Unterseiten"
 #: /Users/andrew/git/concrete5/web/concrete/elements/permission/lists/collection.php:29
 #: /Users/andrew/git/concrete5/web/concrete/tools/pages/permissions.php:102
 msgid "Inherit page type default permissions."
-msgstr "Die Standardberechtigungen des Seitentyps werden übernommen."
+msgstr "Die Standard-Berechtigungen des Seitentyps werden übernommen."
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/permission/lists/collection.php:30
 #: /Users/andrew/git/concrete5/web/concrete/tools/pages/permissions.php:103
@@ -8438,7 +8437,7 @@ msgid ""
 "file permissions."
 msgstr ""
 "Die Berechtigungen für diese Datei sind derzeit von den Berechtigungen der "
-"Dateisammlung und den globalen Dateiberechtigungen abhängig."
+"Dateisammlung und den globalen Datei-Berechtigungen abhängig."
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/permission/lists/file.php:23
 msgid ""
@@ -8577,7 +8576,7 @@ msgstr "Derzeit warten keine Aufträge."
 #: /Users/andrew/git/concrete5/web/concrete/elements/workflow/progress/categories/page/pending.php:87
 #: /Users/andrew/git/concrete5/web/concrete/elements/workflow/progress/categories/page/pending.php:96
 msgid "None."
-msgstr "Keine"
+msgstr "Nichts"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/workflow/types/basic/edit_type_form.php:3
 #: /Users/andrew/git/concrete5/web/concrete/elements/workflow/types/basic/type_form.php:3
@@ -9306,7 +9305,7 @@ msgid ""
 msgstr ""
 "Zeigt die Website unbeabsichtigt veraltete Inhalte an, sollte der Cache "
 "gelöscht werden. Muss der Cache oft gelöscht werden, könnte es sinnvoller "
-"sein, ihn unter Cache & Geschwindigkeit ganz zu deaktivieren."
+"sein, ihn unter Leistungsoptimierung ganz zu deaktivieren."
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/interface/help.php:82
 msgid ""
@@ -9368,12 +9367,11 @@ msgid ""
 "pages individually from Page Properties, or enable Advanced Permissions for "
 "even more granular control."
 msgstr ""
-"Erlaubt es, Grundeinstellungen für die Website vorzunehmen. Die "
-"Zugriffsberechtigungen erlauben, die Website für alle, nur für registrierte "
-"Benutzer oder nur für Administratoren sichtbar zu machen. "
-"Bearbeitungsberechtigungen können Gruppen zugewiesen werden. Feinere "
-"Einstellungsmöglichkeiten bieten die Erweiterten Berechtigungen, die Sie "
-"aktivieren können."
+"Erlaubt es, Grundeinstellungen für die Website vorzunehmen. Die Zugriffs-"
+"Berechtigungen erlauben, die Website für alle, nur für registrierte Benutzer "
+"oder nur für Administratoren sichtbar zu machen. Bearbeitungs-Berechtigungen "
+"können Gruppen zugewiesen werden. Feinere Einstellungsmöglichkeiten bieten "
+"die Erweiterten Berechtigungen, die Sie aktivieren können."
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/interface/help.php:87
 msgid ""
@@ -9499,7 +9497,7 @@ msgstr "Sichern, Aufräumen und Aktualisieren."
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/upgrade/version_540.php:169
 msgid "Change Task Permissions"
-msgstr "Aufgabenberechtigungen ändern"
+msgstr "Aufgaben-Berechtigungen ändern"
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/upgrade/version_540.php:170
 msgid "Access Sitemap and Page Search"
@@ -9541,7 +9539,7 @@ msgstr "Neuigkeiten"
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/upgrade/version_560.php:124
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/blocks/permissions.php:8
 msgid "Block &amp; Stack Permissions"
-msgstr "Berechtigungen für Blöcke &amp; Stapel"
+msgstr "Block- &amp; Stapel-Berechtigungen"
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/upgrade/version_560.php:153
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/upgrade/version_560.php:154
@@ -9782,7 +9780,7 @@ msgstr "Traffic, Statistiken, Google Analytics, Quantum, Page Views, Hits"
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/upgrade/version_560.php:204
 msgid "turn off statistics, tracking, statistics, pageviews, hits"
-msgstr "Statistiken ausschalten, Tracking, Statistiken, Page Views, Hits"
+msgstr "Statistiken deaktivieren, Tracking, Statistiken, Page Views, Hits"
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/upgrade/version_560.php:205
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/upgrade/version_560.php:232
@@ -9943,8 +9941,8 @@ msgstr ""
 "\n"
 "%s\n"
 "\n"
-"Sie können alle offenen Aufgaben auf der folgenden Seite prüfen, "
-"freischalten oder ablehnen:\n"
+"Sie können alle offenen Aufgaben auf der folgenden Seite prüfen, freigeben "
+"oder ablehnen:\n"
 "\n"
 "%s\n"
 
@@ -10148,7 +10146,7 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/mail/user_register_approval_required.php:5
 msgid "Registration - Approval Required"
-msgstr "Registrierung - Freischaltung erforderlich"
+msgstr "Registrierung - Freigabe erforderlich"
 
 #: /Users/andrew/git/concrete5/web/concrete/mail/user_register_approval_required.php:6
 #, php-format
@@ -10164,7 +10162,7 @@ msgstr ""
 "\n"
 "\n"
 "Ein neuer Benutzer hat sich auf Ihre Website registriert. Dieses Konto muss "
-"freigeschaltet werden, bevor es aktiviert werden kann.\n"
+"freigegeben werden, bevor es aktiviert werden kann.\n"
 "\n"
 "Benutzername: %s\n"
 "E-Mail-Adresse: %s\n"
@@ -10180,7 +10178,7 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Sie können dieses Konto freischalten oder entfernen:\n"
+"Sie können dieses Konto freigeben oder entfernen:\n"
 "\n"
 "%s"
 
@@ -11503,7 +11501,7 @@ msgstr "Attribute, die im Composer angezeigt werden sollen"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/pages/types/composer.php:140
 msgid "Composer Content Order"
-msgstr "Composer Inhalts-Reihenfolge"
+msgstr "Composer-Inhalts-Reihenfolge"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/pages/types/composer.php:187
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/pages/types/composer.php:246
@@ -11556,7 +11554,7 @@ msgstr "Sie haben nicht die Berechtigung, die Standard-Blöcke zu definieren."
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/pages/types/view.php:279
 msgid "Lets you set default permissions and blocks for a particular page type."
 msgstr ""
-"Standardberechtigungen und Standard-Blöcke für einen Seitentyp einrichten."
+"Standard-Berechtigungen und Standard-Blöcke für einen Seitentyp einrichten."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/pages/types/view.php:285
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/mail/importers.php:17
@@ -12306,16 +12304,16 @@ msgstr "SMTP-Einstellungen"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/optimization/cache.php:2
 msgid "Cache &amp; Speed Settings"
-msgstr "Cache &amp; Geschwindigkeit"
+msgstr "Optimierung"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/optimization/cache.php:8
 msgid "Basic Cache"
-msgstr "Standard-Cache"
+msgstr "Standardcache"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/optimization/cache.php:12
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/optimization/cache.php:24
 msgid "Off - Good for development."
-msgstr "Aus - Gut im Entwicklungsstadium"
+msgstr "Aus - Zu empfehlen beim Website-Aufbau"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/optimization/cache.php:16
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/optimization/cache.php:28
@@ -12329,20 +12327,19 @@ msgstr "Cache überschreiben"
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/optimization/cache.php:36
 msgid "Off - Turn it on by hand for specific pages."
 msgstr ""
-"Aus - Für spezielle Seiten dann einzeln über die Seiteneigenschaften "
-"aktivieren."
+"Aus - Kann für einzelne Seiten über die Seiteneigenschaften aktiviert werden."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/optimization/cache.php:40
 msgid "On - If blocks allow it."
-msgstr "An - Wenn die Blöcke es erlauben."
+msgstr "An - Wenn die Blöcke es erlauben"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/optimization/cache.php:44
 msgid "On - In all cases."
-msgstr "An - In allen Fällen."
+msgstr "An - In allen Fällen"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/optimization/cache.php:48
 msgid "Full Page Cache Rebuild"
-msgstr "Dauer des vollständigen Seitencaches"
+msgstr "Laufzeitdauer des Seitencache"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/optimization/cache.php:52
 msgid "Automatic."
@@ -12506,13 +12503,14 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/permissions/files.php:8
 msgid "File Permissions"
-msgstr "Dateiberechtigungen"
+msgstr "Datei-Berechtigungen"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/permissions/files.php:18
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/permissions/tasks.php:16
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/permissions/users.php:16
 msgid "You cannot access task permissions."
-msgstr "Sie haben nicht die Berechtigung, Aufgabenberechtigungen zu verändern."
+msgstr ""
+"Sie haben nicht die Berechtigung, Aufgaben-Berechtigungen zu verändern."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/permissions/ip_blacklist.php:6
 msgid "IP Address Blacklist"
@@ -12697,7 +12695,7 @@ msgstr " An - Mit Überprüfung der E-Mail-Adresse"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/registration/public_registration.php:29
 msgid "On - approve manually"
-msgstr "An - Mit manueller Freischaltung"
+msgstr "An - Mit manueller Freigabe"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/registration/public_registration.php:35
 msgid "On - signup and go"
@@ -12852,7 +12850,7 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/seo/urls.php:15
 msgid "Enable Pretty URLs"
-msgstr "Lesbare URLs einschalten"
+msgstr "Lesbare URLs aktivieren"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/seo/urls.php:25
 msgid "Code for your .htaccess file"
@@ -12867,7 +12865,7 @@ msgstr "Benutzer Information"
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/users/search.php:175
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/profile/avatar.php:6
 msgid "User Avatar"
-msgstr "Benutzer Avatar"
+msgstr "Benutzer-Avatar"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/users/add.php:86
 msgid "Registration Data"
@@ -13976,15 +13974,15 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/page_controls_menu_js.php:303
 msgid "This page is pending approval."
-msgstr "Diese Seite wartet auf Freischaltung."
+msgstr "Diese Seite wartet auf Freigabe."
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/page_controls_menu_js.php:310
 msgid "Submit for Approval"
-msgstr "Zur Freischaltung übermitteln"
+msgstr "Zur Freigabe übermitteln"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/page_controls_menu_js.php:314
 msgid "Approve Version"
-msgstr "Version freischalten"
+msgstr "Version freigeben"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/pile_manager.php:187
 msgid "Error: Area not found."
@@ -14147,7 +14145,7 @@ msgid ""
 "approval rights will have to activate the change.\n"
 msgstr ""
 "Sie haben beantragt, die Seite \"%s\" unter \"%s\" zu verschieben. Jemand "
-"mit Freischaltungsrechten muss dies noch bestätigen.\n"
+"mit Freigabesrechten muss dies noch bestätigen.\n"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/dashboard/sitemap_drag_request.php:163
 msgid "What do you wish to do?"
@@ -14767,7 +14765,7 @@ msgid ""
 "You may only set specific permissions for pages if they are set to override "
 "defaults or their parent pages."
 msgstr ""
-"Sie dürfen bestimmte Seitenberechtigungen nur einstellen, wenn sie zum "
+"Sie dürfen bestimmte Seiten-Berechtigungen nur einstellen, wenn sie zum "
 "Überschreiben der von den Standardwerten oder ihren Elternseiten "
 "vorgegebenen Werte vorgesehen sind."
 
