@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: concrete5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-08-28 18:19-0800\n"
-"PO-Revision-Date: 2012-08-30 13:55+0100\n"
+"PO-Revision-Date: 2012-08-30 14:37+0100\n"
 "Last-Translator: Bernd Matzner <bernd@matznermatzner.de>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/"
 "concrete5/language/de_DE/)\n"
@@ -3861,7 +3861,8 @@ msgstr "Bitte die Anzahl der zu zeigenden Einträge eingeben."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/blocks/rss_displayer.php:57
 msgid "Oops, it looks like you've entered an invalid feed address!"
-msgstr "Oops, es scheint als haben Sie eine ungültige Feed-Adresse eingegeben!"
+msgstr ""
+"Hoppla, es scheint als haben Sie eine ungültige Feed-Adresse eingegeben!"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/blocks/search.php:43
 msgid "Please enter your Search Title."
@@ -4110,7 +4111,7 @@ msgstr "OpenID überprüfung abgebrochen"
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/login.php:98
 #, php-format
 msgid "OpenID Authentication Failed: %s"
-msgstr "OpenID Authentifikation fehlgeschlagen: %s"
+msgstr "OpenID-Authentifikation fehlgeschlagen: %s"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/login.php:130
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/login.php:175
@@ -10450,7 +10451,7 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/install.php:317
 msgid "Testing Required Items"
-msgstr "Erforderliche Voraussetzungen"
+msgstr "Systemvoraussetzungen"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/install.php:328
 msgid "PHP 5.2"
@@ -10506,7 +10507,7 @@ msgstr "concrete5 benötigt die PHP-Erweiterungen XML-Parser und SimpleXML."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/install.php:370
 msgid "Writable Files and Configuration Directories"
-msgstr "Beschreibbar Datei- und Konfigurations-Verzeichnisse"
+msgstr "Schreibrechte für Datei- und Konfigurations-Verzeichnisse"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/install.php:372
 msgid ""
@@ -10526,7 +10527,7 @@ msgstr "Cookies müssen aktiviert sein, um concrete5 zu installieren."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/install.php:391
 msgid "Testing Optional Items"
-msgstr "Optionale Anforderungen"
+msgstr "Optionale Funktionalitäten"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/install.php:403
 msgid "Remote File Importing Available"
@@ -11366,7 +11367,7 @@ msgstr "Vorlage für die Systemseiten."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/pages/themes/inspect.php:67
 msgid "New template."
-msgstr "Neue Vorlage."
+msgstr "Neue Vorlage"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/pages/themes/inspect.php:70
 msgid "Template for existing page type."
