@@ -1,5 +1,6 @@
 #
 # Translators:
+# Bernd Matzner <bernd@matznermatzner.de>, 2012.
 #   <patrick@patrickheck.de>, 2012.
 #   <remo.laubacher@gmail.com>, 2012.
 # Remo Laubacher <remo.laubacher@gmail.com>, 2012.
@@ -10,7 +11,7 @@ msgstr ""
 "Project-Id-Version: concrete5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-08-28 18:19-0800\n"
-"PO-Revision-Date: 2012-08-30 12:51+0100\n"
+"PO-Revision-Date: 2012-08-30 13:55+0100\n"
 "Last-Translator: Bernd Matzner <bernd@matznermatzner.de>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/"
 "concrete5/language/de_DE/)\n"
@@ -329,7 +330,7 @@ msgstr "Erweiterungen aktualisieren"
 
 #: /Users/andrew/git/concrete5/web/concrete/blocks/dashboard_featured_addon/view.php:2
 msgid "Featured Add-On"
-msgstr "Empfohlene Erweiterung"
+msgstr "Vorgestellte Erweiterung"
 
 #: /Users/andrew/git/concrete5/web/concrete/blocks/dashboard_featured_addon/view.php:10
 #: /Users/andrew/git/concrete5/web/concrete/blocks/dashboard_featured_theme/view.php:10
@@ -425,7 +426,7 @@ msgstr "Alle"
 #: /Users/andrew/git/concrete5/web/concrete/blocks/date_nav/form_setup_html.php:39
 #: /Users/andrew/git/concrete5/web/concrete/blocks/page_list/page_list_form.php:36
 msgid "Featured pages only."
-msgstr "Nur Seiten mit dem Attribut Featured"
+msgstr "Nur Seiten mit dem Attribut Vorgestellt"
 
 #: /Users/andrew/git/concrete5/web/concrete/blocks/date_nav/form_setup_html.php:45
 #: /Users/andrew/git/concrete5/web/concrete/blocks/page_list/page_list_form.php:52
@@ -1683,7 +1684,7 @@ msgstr "Ergebnisse anzeigen"
 
 #: /Users/andrew/git/concrete5/web/concrete/blocks/survey/view.php:87
 msgid "Please Login to Vote"
-msgstr "Bitte anmelden um abzustimmen"
+msgstr "Bitte melden Sie sich an, um abzustimmen."
 
 #: /Users/andrew/git/concrete5/web/concrete/blocks/tags/tag_form.php:6
 #, php-format
@@ -2535,7 +2536,7 @@ msgstr "Erweiterte Berechtigungen"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:122
 msgid "IP Blacklist"
-msgstr "IP-Adressen-Blacklist"
+msgstr "Blacklist für IP-Adressen"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:123
 msgid "Captcha Setup"
@@ -2660,7 +2661,7 @@ msgstr "Sichern und Wiederherstellen der Website"
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:150
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/backup_restore/backup.php:91
 msgid "Backup Database"
-msgstr "Datenbank Backup"
+msgstr "Datenbank-Backup"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:151
 #: /Users/andrew/git/concrete5/web/concrete/elements/dashboard/notification_list.php:61
@@ -3547,7 +3548,7 @@ msgstr "Anwendungsstatus"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/blocks/dashboard_featured_addon.php:26
 msgid "Features an add-on from concrete5.org."
-msgstr "Empfehlungen für eine Erweiterung"
+msgstr "Stellt eine Erweiterung von concrete5.org vor"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/blocks/dashboard_featured_addon.php:30
 msgid "Dashboard Featured Add-On"
@@ -3668,7 +3669,7 @@ msgstr "AJAX-Fehler"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/blocks/form.php:44
 msgid "Please add at least one question to your form."
-msgstr "Bitte mindestens eine Frage hinzufügen."
+msgstr "Bitte fügen Sie mindestens eine Frage hinzu."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/blocks/form.php:245
 msgid ""
@@ -3709,7 +3710,7 @@ msgstr "Ungültige Datei"
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/blocks/form.php:333
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/blocks/guestbook.php:128
 msgid "Please correct the following errors:"
-msgstr "Bitte folgende Fehler korrigieren:"
+msgstr "Bitte korrigieren Sie folgende Angaben:"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/blocks/form.php:441
 #, php-format
@@ -3742,7 +3743,7 @@ msgstr "Google Map"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/blocks/google_map.php:47
 msgid "Please enter a zoom number from 0 to 21."
-msgstr "Bitte einen Zoom-Wert zwischen 0 und 21 eingeben."
+msgstr "Bitte geben Sie einen Zoom-Wert zwischen 0 und 21 ein."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/blocks/guestbook.php:27
 msgid "Adds blog-style comments (a guestbook) to your page."
@@ -3840,7 +3841,7 @@ msgstr "Seitenliste"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/blocks/page_list.php:36
 msgid "Please give your RSS Feed a name."
-msgstr "Bitte Namen für den RSS-Feed angeben."
+msgstr "Bitte geben Sie einen Namen für den RSS-Feed an."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/blocks/rss_displayer.php:34
 msgid "Fetch, parse and display the contents of an RSS or Atom feed."
@@ -3852,7 +3853,7 @@ msgstr "RSS-Darsteller"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/blocks/rss_displayer.php:43
 msgid "Please enter a valid feed address."
-msgstr "Bitte eine gültige Feed-Adresse eingeben."
+msgstr "Bitte geben Sie eine gültige Feed-Adresse an."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/blocks/rss_displayer.php:44
 msgid "Please enter the number of items to display."
@@ -3911,7 +3912,7 @@ msgstr "Datei/Bild wählen"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/blocks/slideshow.php:47
 msgid "Please choose at least two images."
-msgstr "Bitte mindestens 2 Bilder auswählen."
+msgstr "Bitte wählen Sie mindestens 2 Bilder aus."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/blocks/slideshow.php:48
 msgid "Please choose a file set."
@@ -3929,7 +3930,7 @@ msgstr "Umfrage"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/blocks/survey.php:217
 msgid "No data is available yet."
-msgstr "Noch keine Daten verfügbar."
+msgstr "Noch keine Daten verfügbar"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/blocks/tags.php:40
 #: /Users/andrew/git/concrete5/web/concrete/core/models/file_version.php:228
@@ -3950,7 +3951,7 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/blocks/video.php:43
 msgid "You must select a valid FLV file."
-msgstr "Bitte eine gültige FLV-Datei wählen."
+msgstr "Bitte wählen Sie eine gültige FLV-Datei aus."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/blocks/youtube.php:34
 msgid "Embeds a YouTube Video in your web page."
@@ -4363,11 +4364,11 @@ msgstr "Bitte geben Sie dem Stapel einen Namen."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/blocks/stacks.php:33
 msgid "Stack added successfully"
-msgstr "Stapel erfolgreich gespeichert."
+msgstr "Stapel erfolgreich gespeichert"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/blocks/stacks.php:37
 msgid "Stack deleted successfully"
-msgstr "Stapel erfolgreich gelöscht."
+msgstr "Stapel erfolgreich gelöscht"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/blocks/stacks.php:49
 msgid "You do not have access to delete this stack."
@@ -4380,7 +4381,7 @@ msgstr "Ungültiger Stapel"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/blocks/types.php:36
 msgid "Display Order Reset."
-msgstr "Zurückgesetzte Reihenfolge anzeigen."
+msgstr "Sortierung zurücksetzen"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/blocks/types.php:49
 msgid "Block Type Refreshed. Any database schema changes have been applied."
@@ -4390,7 +4391,7 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/blocks/types.php:67
 msgid "Block Type Installed."
-msgstr "Blocktyp installiert."
+msgstr "Blocktyp installiert"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/blocks/types.php:74
 msgid "You do not have permission to install custom block types or add-ons."
@@ -4401,7 +4402,7 @@ msgstr ""
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/blocks/types.php:89
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/blocks/types/view.php:47
 msgid "Only the super user may remove block types."
-msgstr "Nur der Super User können Blocktypen entfernen."
+msgstr "Nur ein Superadministrator kann Blocktypen entfernen."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/blocks/types.php:97
 msgid "This block type is internal. It cannot be uninstalled."
@@ -4462,7 +4463,7 @@ msgstr "Alle Elemente"
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/extend/addons.php:22
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/extend/themes.php:22
 msgid "Featured Items"
-msgstr "Besondere Elemente"
+msgstr "Vorgestellte Elemente"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/extend/addons.php:30
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/extend/themes.php:30
@@ -4558,7 +4559,7 @@ msgstr "Das Paket wurde erfolgreich aktualisiert."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/files/add_set.php:17
 msgid "Please Enter a Name"
-msgstr "Bitte Name eingeben"
+msgstr "Bitte geben Sie einen Namen an"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/files/attributes.php:22
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/pages/attributes.php:39
@@ -4570,7 +4571,7 @@ msgstr "Ungültige Attribut-ID"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/files/attributes.php:68
 msgid "File Attribute Deleted."
-msgstr "Dateiattribut gelöscht."
+msgstr "Dateiattribut gelöscht"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/files/attributes.php:72
 msgid "File Attribute Created."
@@ -4578,7 +4579,7 @@ msgstr "Dateiattribut erstellt"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/files/attributes.php:76
 msgid "File Attribute Updated."
-msgstr "Dateiattribut aktualisiert."
+msgstr "Dateiattribut aktualisiert"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/files/sets.php:26
 msgid "New file set added successfully."
@@ -4666,11 +4667,11 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/pages/types.php:34
 msgid "Page type added successfully."
-msgstr "Seitentyp erfolgreich hinzugefügt."
+msgstr "Seitentyp erfolgreich hinzugefügt"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/pages/types.php:39
 msgid "Page type updated successfully."
-msgstr "Seitentyp erfolgreich geändert."
+msgstr "Seitentyp erfolgreich geändert"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/pages/types.php:44
 msgid "This page type is no longer included in composer."
@@ -4725,7 +4726,7 @@ msgstr "Bitte geben Sie einen Namen an."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/pages/types/composer.php:42
 msgid "Composer settings updated."
-msgstr "Composer-Einstellungen aktualisiert."
+msgstr "Composer-Einstellungen aktualisiert"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/reports/forms.php:117
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/reports/forms.php:149
@@ -4757,7 +4758,7 @@ msgstr "Attributsammlung aktualisiert"
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/attributes/sets.php:54
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/attributes/sets.php:86
 msgid "Specify a handle for your attribute set."
-msgstr "Bezeichner für die Attributsammlung festlegen."
+msgstr "Bezeichner für die Attributsammlung festlegen"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/attributes/sets.php:58
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/attributes/sets.php:90
@@ -4952,11 +4953,11 @@ msgstr "Globale E-Mail-Einstellungen wurden gespeichert."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/optimization/cache.php:33
 msgid "Cache settings saved."
-msgstr "Cache-Einstellungen gespeichert."
+msgstr "Cache-Einstellungen gespeichert"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/optimization/clear_cache.php:25
 msgid "Cached files removed."
-msgstr "Cache wurde geleert."
+msgstr "Der Cache wurde erfolgreich geleert."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/optimization/jobs.php:15
 msgid "Job succesfully installed."
@@ -4993,7 +4994,7 @@ msgstr "** Nichts aktiviert"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/permissions/antispam.php:19
 msgid "Anti-spam settings saved."
-msgstr "Anti-Spam-Einstellungen gespeichert."
+msgstr "Anti-Spam-Einstellungen gespeichert"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/permissions/antispam.php:37
 msgid "Invalid anti-spam library."
@@ -5001,7 +5002,7 @@ msgstr "Ungültige Anti-Spam-Bibliothek"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/permissions/captcha.php:20
 msgid "Captcha settings saved."
-msgstr "CAPTCHA-Einstellungen gespeichert."
+msgstr "CAPTCHA-Einstellungen gespeichert"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/permissions/captcha.php:35
 msgid "Invalid captcha library."
@@ -5019,7 +5020,7 @@ msgstr "Nie"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/permissions/ip_blacklist.php:135
 msgid "IP Blacklist settings saved."
-msgstr "IP-Blacklist-Einstellungen gespeichert."
+msgstr "Einstellungen der Blacklist für IP-Adressen gespeichert"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/permissions/maintenance_mode.php:33
 msgid "Maintenance Mode turned on. Your site is now private."
@@ -5035,7 +5036,7 @@ msgstr "Berechtigungen gespeichert."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/registration/postlogin.php:38
 msgid "Login redirection saved."
-msgstr "Anmeldeumleitung gespeichert."
+msgstr "Umleitung nach der Anmeldung gespeichert"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/registration/profiles.php:27
 msgid "Public profiles have been enabled"
@@ -5062,7 +5063,7 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/seo/statistics.php:12
 msgid "Statistics tracking preference saved."
-msgstr "Bevorzugte Statistikenanalyse gespeichert."
+msgstr "Bevorzugte Statistikenanalyse gespeichert"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/seo/tracking_codes.php:24
 msgid "Tracking code settings updated successfully."
@@ -5132,15 +5133,15 @@ msgstr "Ungültiger Attributtyp"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/users/attributes.php:112
 msgid "User Attribute Deleted."
-msgstr "Benutzerattribut gelöscht."
+msgstr "Benutzerattribut gelöscht"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/users/attributes.php:116
 msgid "User Attribute Created."
-msgstr "Benutzerattribut erstellt."
+msgstr "Benutzerattribut erstellt"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/users/attributes.php:120
 msgid "User Attribute Updated."
-msgstr "Benutzerattribut geändert."
+msgstr "Benutzerattribut geändert"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/users/groups.php:42
 msgid "Group added successfully"
@@ -5192,7 +5193,7 @@ msgstr "Benutzer erfolgreich aktualisiert."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/users/search.php:177
 msgid "Password changed."
-msgstr "Passwort geändert."
+msgstr "Passwort geändert"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/users/search.php:311
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/users/search.php:370
@@ -5202,7 +5203,7 @@ msgstr "Ungültige Benutzer-ID"
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/users/search.php:337
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/users/search.php:82
 msgid "Only the super user may edit this account."
-msgstr "Nur der Superadministrator darf dieses Konto bearbeiten."
+msgstr "Nur ein Superadministrator darf dieses Konto bearbeiten."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/users/search.php:343
 msgid "You do not have permission to modify this attribute."
@@ -5265,7 +5266,7 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/workflow/list.php:100
 msgid "Workflow updated."
-msgstr "Arbeitsablauf aktualisiert."
+msgstr "Arbeitsablauf aktualisiert"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/workflow/me.php:23
 #, php-format
@@ -5557,7 +5558,7 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/core/jobs/remove_old_page_versions.php:44
 msgid "All pages have been processes, starting from beginning on next run."
-msgstr "Alle Seiten wurden bearbeitet."
+msgstr "Alle Seiten wurden bearbeitet"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/jobs/remove_old_page_versions.php:71
 msgid "Page"
@@ -5726,9 +5727,9 @@ msgid ""
 "File %s not found. All themes need default.php and view.php files in them. "
 "Consult concrete5 documentation on how to create these files."
 msgstr ""
-"Datei %s nicht gefunden. Alle Theme benötigen die Dateien default.php und "
-"view.php in ihrem Verzeichnis. Erkundigen Sie sich in der Dokumentation zu "
-"concrete5, wie diese Dateien erstellt werden."
+"Die Datei %s wurde nicht gefunden. Alle Themes müssen die Dateien default."
+"php und view.php in ihrem Verzeichnis enthalten. Erkundigen Sie sich in der "
+"Dokumentation zu concrete5, wie diese Dateien erstellt werden."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/libraries/attribute/controller.php:170
 msgid "Type required."
@@ -6196,7 +6197,7 @@ msgstr "bis"
 #: /Users/andrew/git/concrete5/web/concrete/core/models/permission/duration.php:158
 #, php-format
 msgid "Starts %s. "
-msgstr "Beginnt %s. "
+msgstr "Beginnt am %s"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/models/permission/duration.php:160
 msgid "Already Started. "
@@ -6205,7 +6206,7 @@ msgstr "Bereits gestartet."
 #: /Users/andrew/git/concrete5/web/concrete/core/models/permission/duration.php:163
 #, php-format
 msgid "Ends %s. "
-msgstr "Beginnt %s. "
+msgstr "Endet am %s"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/models/permission/duration.php:165
 msgid "No End Date. "
@@ -7051,12 +7052,12 @@ msgstr "Seite im Cache speichern wenn alle Blöcke dies unterstützen."
 #: /Users/andrew/git/concrete5/web/concrete/elements/collection_speed_settings.php:82
 #: /Users/andrew/git/concrete5/web/concrete/tools/pages/speed_settings.php:102
 msgid "enable full page cache."
-msgstr "Vollständigen Seitencache aktivieren."
+msgstr "Vollständigen Seitencache aktivieren"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/collection_speed_settings.php:86
 #: /Users/andrew/git/concrete5/web/concrete/tools/pages/speed_settings.php:106
 msgid "disable full page cache."
-msgstr "Vollständigen Seitencache deaktivieren."
+msgstr "Vollständigen Seitencache deaktivieren"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/collection_speed_settings.php:92
 #: /Users/andrew/git/concrete5/web/concrete/elements/collection_speed_settings.php:96
@@ -7095,7 +7096,7 @@ msgstr "Diese Seite nicht im Cache zwischenspeichern."
 #: /Users/andrew/git/concrete5/web/concrete/elements/collection_speed_settings.php:116
 #: /Users/andrew/git/concrete5/web/concrete/tools/pages/speed_settings.php:139
 msgid "Cache this page."
-msgstr "Cache für diese Seite aktivieren."
+msgstr "Cache für diese Seite aktivieren"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/collection_speed_settings.php:125
 #: /Users/andrew/git/concrete5/web/concrete/tools/pages/speed_settings.php:148
@@ -7106,7 +7107,7 @@ msgstr "Cache-Dauer?"
 #: /Users/andrew/git/concrete5/web/concrete/tools/pages/speed_settings.php:160
 #, php-format
 msgid "Default - %s minutes"
-msgstr "Voreinstellung - %s Minuten"
+msgstr "Standard - %s Minuten"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/collection_speed_settings.php:140
 #: /Users/andrew/git/concrete5/web/concrete/elements/permission/keys/access_user_search.php:33
@@ -7285,7 +7286,7 @@ msgstr "Schließen"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/scrapbook_lists.php:12
 msgid "You have no items in your Clipboard."
-msgstr "Keine Elemente in der Zwischenablage."
+msgstr "Keine Elemente in der Zwischenablage"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/scrapbook_lists.php:46
 msgid "Remove from Clipboard"
@@ -7380,7 +7381,7 @@ msgstr "Bearbeitungsmodus"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/attribute/categories/user.php:29
 msgid "Editable in Profile."
-msgstr "Bearbeitbar im Profil."
+msgstr "Kann im Profil bearbeitet werden"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/attribute/categories/user.php:30
 msgid "Editable and Required in Profile."
@@ -7396,7 +7397,7 @@ msgstr "Im Registrierungsformular anzeigen."
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/attribute/categories/user.php:41
 msgid "Require on Registration Form."
-msgstr "Zwingend im Registrierungsformular auszufüllen."
+msgstr "Pflichtfeld im Registrierungsformular"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/custom_style/background.php:7
 msgid "Background Color"
@@ -7515,7 +7516,7 @@ msgstr "CSS-Klassenname(n)"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/custom_style/css.php:21
 msgid "Additional CSS"
-msgstr "Zusätzliche CSS Anweisungen"
+msgstr "Zusätzliche CSS-Stile"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/custom_style/fonts.php:8
 msgid "Face"
@@ -7793,7 +7794,7 @@ msgstr "Zusätzliche Filter"
 #: /Users/andrew/git/concrete5/web/concrete/elements/pages/search_form_advanced.php:174
 #: /Users/andrew/git/concrete5/web/concrete/elements/users/search_form_advanced.php:122
 msgid "Select Search Field."
-msgstr "Suchfeld auswählen."
+msgstr "Suchfeld auswählen"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/files/search_form_advanced.php:265
 #: /Users/andrew/git/concrete5/web/concrete/elements/pages/search_form_advanced.php:272
@@ -8409,12 +8410,12 @@ msgstr "Berechtigungen der Unterseiten"
 #: /Users/andrew/git/concrete5/web/concrete/elements/permission/lists/collection.php:29
 #: /Users/andrew/git/concrete5/web/concrete/tools/pages/permissions.php:102
 msgid "Inherit page type default permissions."
-msgstr "Übernehme Standardberechtigungen des Seitentyps."
+msgstr "Die Standardberechtigungen des Seitentyps werden übernommen."
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/permission/lists/collection.php:30
 #: /Users/andrew/git/concrete5/web/concrete/tools/pages/permissions.php:103
 msgid "Inherit the permissions of this page."
-msgstr "Übernehme Berechtigungen dieser Seite."
+msgstr "Die Berechtigungen dieser Seite werden vererbt."
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/permission/lists/collection.php:42
 msgid "This page inherits its permissions from:"
@@ -8575,7 +8576,7 @@ msgstr "Derzeit warten keine Aufträge."
 #: /Users/andrew/git/concrete5/web/concrete/elements/workflow/progress/categories/page/pending.php:87
 #: /Users/andrew/git/concrete5/web/concrete/elements/workflow/progress/categories/page/pending.php:96
 msgid "None."
-msgstr "Keine."
+msgstr "Keine"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/workflow/types/basic/edit_type_form.php:3
 #: /Users/andrew/git/concrete5/web/concrete/elements/workflow/types/basic/type_form.php:3
@@ -9264,8 +9265,8 @@ msgid ""
 "phpMyAdmin or exporting a database dump via command-line MySql."
 msgstr ""
 "Erstellen Sie eine Sicherung Ihrer Website-Datenbank. Dies funktioniert für "
-"kleine Websites am besten. Bei umfangreicheren Websites empfehlen wir, ein "
-"Managementsoftware für die MySQL-Datenbank wie phpMyAdmin oder die "
+"kleine Websites am besten. Bei umfangreicheren Websites empfehlen wir, eine "
+"Verwaltungs-Software für die MySQL-Datenbank wie phpMyAdmin oder die "
 "Kommandozeile zu nutzen."
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/interface/help.php:78
@@ -10270,7 +10271,7 @@ msgstr "Standardwert"
 
 #: /Users/andrew/git/concrete5/web/concrete/models/attribute/types/boolean/type_form.php:8
 msgid "The checkbox will be checked by default."
-msgstr "Checkbox standardmäßig aktivieren."
+msgstr "Checkbox standardmäßig aktivieren"
 
 #: /Users/andrew/git/concrete5/web/concrete/models/attribute/types/date_time/type_form.php:2
 msgid "Date/Time Options"
@@ -10616,7 +10617,7 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/login.php:65
 msgid "Continue to Site"
-msgstr "Weiter zur Website."
+msgstr "Weiter zur Website"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/login.php:77
 msgid "To complete the signup process, you must provide a valid email address."
@@ -11248,7 +11249,7 @@ msgstr "Meine Dateisammlungen"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/files/sets.php:203
 msgid "No file sets found."
-msgstr "Keine Dateiensammlungen gefunden."
+msgstr "Keine Dateiensammlungen gefunden"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/files/sets.php:228
 msgid "Are you sure you want to delete this file set?"
@@ -11390,7 +11391,7 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/pages/themes/inspect.php:89
 msgid "Create page type."
-msgstr "Seitentyp erstellen."
+msgstr "Seitentyp erstellen"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/pages/themes/inspect.php:92
 #, php-format
@@ -11514,7 +11515,7 @@ msgstr "Kann nicht auf die Composer-Einstellungen zugreifen"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/pages/types/view.php:70
 msgid "Page Type updated."
-msgstr "Seitentyp aktualisiert."
+msgstr "Seitentyp aktualisiert"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/pages/types/view.php:81
 msgid "Edit Page Type"
@@ -11690,7 +11691,7 @@ msgstr "Option"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/reports/surveys.php:22
 msgid "IP Address"
-msgstr "IP Adresse"
+msgstr "IP-Adresse"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/reports/surveys.php:66
 msgid "You have not created any surveys."
@@ -11905,7 +11906,7 @@ msgstr "Wiederherstellen"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/backup_restore/backup.php:123
 msgid "You have no backups available."
-msgstr "Keine Sicherungen vorhanden."
+msgstr "Keine Sicherungen vorhanden"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/backup_restore/backup.php:129
 msgid "Create new Backup"
@@ -11952,7 +11953,7 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/backup_restore/database.php:11
 msgid "Return to Export Database XML"
-msgstr "Zurück zum Datenbank XML Export"
+msgstr "Zurück zum Datenbank-XML-Export"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/backup_restore/database.php:27
 msgid "Export Database Schema"
@@ -11972,7 +11973,7 @@ msgstr "Tabellen exportieren"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/backup_restore/database.php:43
 msgid "Database Refresh"
-msgstr "Datenbank Erneuern"
+msgstr "Datenbank neu laden"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/backup_restore/database.php:57
 msgid "Refresh core database tables and blocks."
@@ -11987,7 +11988,7 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/backup_restore/database.php:71
 msgid "Reload custom tables."
-msgstr "Neuladen bestimmter Tabellen."
+msgstr "Neuladen bestimmter Tabellen"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/backup_restore/database.php:76
 #, php-format
@@ -12129,11 +12130,11 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/basics/icons.php:74
 msgid "iPhone Thumbnail"
-msgstr "iPhone Thumbnail"
+msgstr "iPhone-Icon"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/basics/icons.php:108
 msgid "iPhone home screen icons should be 57x57 and be in the .png format."
-msgstr "iPhone Icons müssen 57x57 px große .png Dateien sein."
+msgstr "iPhone-Icons müssen 57x57 px große .png Dateien sein."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/basics/interface.php:2
 msgid "Interface Settings"
@@ -12165,7 +12166,7 @@ msgstr "Sprachauswahl anbieten bei Anmeldung."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/environment/debug.php:3
 msgid "Debug Level"
-msgstr "Debug Level"
+msgstr "Debugging-Stufe"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/environment/debug.php:14
 msgid "Hide errors from site visitors."
@@ -12451,7 +12452,7 @@ msgstr "Protokoll-Einstellungen"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/permissions/antispam.php:39
 msgid "Log entries marked as spam."
-msgstr "Als Spam markierte Einträge protokollieren."
+msgstr "Als Spam markierte Einträge protokollieren"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/permissions/antispam.php:40
 #, php-format
@@ -12514,7 +12515,7 @@ msgstr "Sie haben nicht die Berechtigung, Aufgabenberechtigungen zu verändern."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/permissions/ip_blacklist.php:6
 msgid "IP Address Blacklist"
-msgstr "IP Adressen Blacklist"
+msgstr "Blacklist für IP-Adressen"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/permissions/ip_blacklist.php:9
 msgid "Smart IP Banning"
@@ -12655,7 +12656,7 @@ msgstr "Profil-Optionen"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/registration/profiles.php:16
 msgid "Enable public profiles."
-msgstr "Öffentliche Profile aktivieren."
+msgstr "Öffentliche Profile aktivieren"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/registration/profiles.php:21
 msgid "Fall Back To Gravar"
@@ -13125,7 +13126,7 @@ msgstr "Arbeitsabläufe"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/profile/avatar.php:7
 msgid "Change the picture attached to my posts."
-msgstr "Bild ändern, welches bei meinen Beiträgen angezeigt wird."
+msgstr "Bild ändern, welches bei meinen Beiträgen angezeigt wird"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/profile/avatar.php:12
 msgid ""
@@ -13141,7 +13142,7 @@ msgstr "Entfernen des Benutzer-Avatars &gt;"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/profile/avatar.php:26
 msgid "User Profile picture saved."
-msgstr "Bild für Benutzerprofil gespeichert."
+msgstr "Bild für Benutzerprofil gespeichert"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/profile/edit.php:18
 msgid "Edit Profile"
@@ -13330,7 +13331,7 @@ msgstr "concrete5 - Open Source CMS"
 #: /Users/andrew/git/concrete5/web/concrete/themes/greensalad/home.php:52
 #: /Users/andrew/git/concrete5/web/concrete/themes/greensalad/view.php:51
 msgid "All rights reserved."
-msgstr "Alle Rechte vorbehalten."
+msgstr "Alle Rechte vorbehalten"
 
 #: /Users/andrew/git/concrete5/web/concrete/themes/dark_chocolate/elements/footer.php:17
 #: /Users/andrew/git/concrete5/web/concrete/themes/default/elements/footer.php:17
@@ -13341,7 +13342,7 @@ msgstr "Alle Rechte vorbehalten."
 #: /Users/andrew/git/concrete5/web/concrete/themes/greensalad/view.php:62
 #, php-format
 msgid "Currently logged in as <b>%s</b>."
-msgstr "Angemeldet als <b>%s</b>."
+msgstr "Angemeldet als <b>%s</b>"
 
 #: /Users/andrew/git/concrete5/web/concrete/themes/dark_chocolate/elements/footer.php:17
 #: /Users/andrew/git/concrete5/web/concrete/themes/dashboard/elements/header.php:136
@@ -13566,7 +13567,7 @@ msgstr "Verschieben"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/i18n_js.php:38
 msgid "Blocks arranged successfully."
-msgstr "Blöcke erfolgreich eingeordnet."
+msgstr "Blöcke erfolgreich eingeordnet"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/i18n_js.php:39
 msgid "Copy to Clipboard"
@@ -13671,7 +13672,7 @@ msgstr "Seiteneinstellungen gespeichert."
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/i18n_js.php:68
 msgid "Speed Settings saved."
-msgstr "Cache-Einstellungen gespeichert."
+msgstr "Cache-Einstellungen gespeichert"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/i18n_js.php:69
 msgid "User Settings saved."
@@ -14026,7 +14027,7 @@ msgstr "Sie haben keinen Zugriff auf die Gruppensteuerung."
 #: /Users/andrew/git/concrete5/web/concrete/tools/sitemap_search_selector.php:5
 msgid "Access Denied. You do not have access to sitemap permissions."
 msgstr ""
-"Zugriff verweigert. Sie haben keinen Zugriff auf die Sitemap-Berechtigungen."
+"Zugriff verweigert: Sie haben keinen Zugriff auf die Sitemap-Berechtigungen."
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/user_group_selector.php:36
 msgid "Users"
@@ -14194,7 +14195,7 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/dashboard/sitemap_empty_trash.php:27
 msgid "1 page deleted."
-msgstr "1 Seite gelöscht."
+msgstr "1 Seite gelöscht"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/dashboard/sitemap_empty_trash.php:29
 #, php-format
@@ -14220,12 +14221,12 @@ msgstr "Weiter"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/bulk_properties.php:274
 msgid "1 file uploaded successfully."
-msgstr "1 Datei erfolgreich hochgeladen."
+msgstr "1 Datei erfolgreich hochgeladen"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/bulk_properties.php:276
 #, php-format
 msgid "%s files uploaded successfully."
-msgstr "%s Dateien erfolgreich hochgeladen."
+msgstr "%s Dateien erfolgreich hochgeladen"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/bulk_properties.php:281
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/properties.php:209
@@ -14356,12 +14357,12 @@ msgstr "Per URL importieren"
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/import.php:68
 #, php-format
 msgid "Upload Max: %s."
-msgstr "Upload Max: %s"
+msgstr "Maximalgröße für Uploads: %s"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/import.php:69
 #, php-format
 msgid "Post Max: %s"
-msgstr "Post Max: %s"
+msgstr "Maximum von per POST übermittelten Daten: %s"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/import.php:73
 msgid "Upload Multiple Files"
@@ -14518,7 +14519,7 @@ msgstr "Die 20 letzten Downloads"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/properties.php:418
 msgid "Download Time"
-msgstr "Download Zeitpunkt"
+msgstr "Download-Zeitpunkt"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/properties.php:419
 msgid "File Version ID"
