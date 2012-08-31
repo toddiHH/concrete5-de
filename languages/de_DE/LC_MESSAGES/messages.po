@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: concrete5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-08-28 18:19-0800\n"
-"PO-Revision-Date: 2012-08-30 17:47+0100\n"
+"PO-Revision-Date: 2012-08-31 16:52+0100\n"
 "Last-Translator: Bernd Matzner <bernd@matznermatzner.de>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/"
 "concrete5/language/de_DE/)\n"
@@ -1401,7 +1401,7 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/blocks/page_list/page_list_form.php:42
 msgid "Display page aliases."
-msgstr "Spiegelkopien der Seite anzeigen"
+msgstr "Aliasse der Seite anzeigen"
 
 #: /Users/andrew/git/concrete5/web/concrete/blocks/page_list/page_list_form.php:47
 msgid "Pagination"
@@ -2266,7 +2266,7 @@ msgstr "Fügen Sie Seitentypen in Ihre Seite ein."
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/upgrade/version_510.php:90
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/pages/single.php:5
 msgid "Single Pages"
-msgstr "Alleinstehende Seiten"
+msgstr "Sonderseiten"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:66
 #: /Users/andrew/git/concrete5/web/concrete/elements/permission/detail.php:31
@@ -2459,7 +2459,7 @@ msgstr "Lesbare URLs"
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:105
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/upgrade/version_560.php:113
 msgid "Bulk SEO Updater"
-msgstr "Massen-SEO-Aktualisierung"
+msgstr "SEO-Sammelaktualisierung"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:106
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/seo/tracking_codes.php:9
@@ -2482,7 +2482,7 @@ msgstr "Sorgen Sie für reibungslosen Betrieb"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:111
 msgid "Cache & Speed Settings"
-msgstr "Optimierung"
+msgstr "Leistungsoptimierung"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:112
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/optimization/clear_cache.php:3
@@ -2854,7 +2854,7 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:196
 msgid "Edit Speed Settings"
-msgstr "Geschwindigkeits-Einstellungen bearbeiten"
+msgstr "Leistungseinstellungen bearbeiten"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:197
 msgid "Ability to change caching settings."
@@ -3311,7 +3311,7 @@ msgstr "Bei Eintritt benachrichtigen"
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:288
 msgid "Notify approvers that a change has entered the workflow."
 msgstr ""
-"Benutzer mit Freischaltrechten über eine Änderung im Arbeitsablauf "
+"Benutzer mit Freigaberechten über eine Änderung im Arbeitsablauf "
 "benachrichtigen"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:289
@@ -3321,7 +3321,7 @@ msgstr "Bei Freigabe benachrichtigen"
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:290
 msgid "Notify approvers that a change has been approved."
 msgstr ""
-"Benutzer mit Freischaltrechten über eine Freigabe einer Änderung "
+"Benutzer mit Freigaberechten über eine Freigabe einer Änderung "
 "benachrichtigen"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:291
@@ -3331,7 +3331,7 @@ msgstr "Bei Ablehnung benachrichtigen"
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:292
 msgid "Notify approvers that a change has been denied."
 msgstr ""
-"Benutzer mit Freischaltrechten über eine Ablehnung einer Änderung "
+"Benutzer mit Freigaberechten über eine Ablehnung einer Änderung "
 "benachrichtigen"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:293
@@ -5024,11 +5024,11 @@ msgstr "Einstellungen der Blacklist für IP-Adressen gespeichert"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/permissions/maintenance_mode.php:33
 msgid "Maintenance Mode turned on. Your site is now private."
-msgstr "Wartungsmodus ist eingeschaltet. Ihre Website ist jetzt privat."
+msgstr "Der Wartungsmodus ist eingeschaltet. Ihre Website ist jetzt privat."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/permissions/maintenance_mode.php:35
 msgid "Maintenance Mode turned off. Your site is public."
-msgstr "Wartungsmodus ist ausgeschaltet. Ihre Website ist öffentlich."
+msgstr "Der Wartungsmodus ist ausgeschaltet. Ihre Website ist öffentlich."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/permissions/site.php:132
 msgid "Permissions saved"
@@ -5072,14 +5072,14 @@ msgstr "Tracking-Code gespeichert."
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/seo/urls.php:58
 msgid "URL rewriting enabled. You need to update .htaccess by hand."
 msgstr ""
-"URL-Umschreibung eingeschaltet. .htaccess Datei muss manuell aktualisiert "
-"werden."
+"Die URL-Umschreibung eingeschaltet. Die .htaccess-Datei muss manuell "
+"aktualisiert werden."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/seo/urls.php:60
 msgid ""
 "URL rewriting enabled. We were able to automatically update .htaccess file."
 msgstr ""
-"URL-Umschreibung eingeschaltet. .htaccess Datei wurde automatisch "
+"Die URL-Umschreibung wurde aktiviert und die .htaccess-Datei automatisch "
 "aktualisiert."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/seo/urls.php:62
@@ -5381,13 +5381,14 @@ msgstr "Nachricht"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/helpers/mail.php:373
 msgid "EMAILS ARE ENABLED. THIS EMAIL WAS SENT TO mail()"
-msgstr "E-MAILS SIND ANGESCHALTET. DIESE E-MAIL WURDE VERSENDET AN mail()"
+msgstr ""
+"Der E-Mail-Versand ist aktiviert. Diese E-Mail wurde per mail() versendet."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/helpers/mail.php:375
 msgid "EMAILS ARE DISABLED. THIS EMAIL WAS LOGGED BUT NOT SENT"
 msgstr ""
-"E-MAILS SIND AUSGESCHALTET. DIESE E-MAIL WURDE GESPEICHERT ABER NICHT "
-"VERSENDET"
+"Der E-Mail-Versand ist deaktiviert. Diese E-Mail wurde protokolliert, aber "
+"nicht versendet."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/helpers/form/page_selector.php:50
 #: /Users/andrew/git/concrete5/web/concrete/tools/dashboard/sitemap_drag_request.php:205
@@ -6668,9 +6669,9 @@ msgid ""
 "This block is aliased by other blocks. If you edit this block, your changes "
 "will effect those other blocks. Are you sure you want to edit this block?"
 msgstr ""
-"Dieser Block wird von anderen Blöcken gespiegelt. Wenn Sie diesen Block "
-"bearbeiten, werden Ihre Änderungen auch in den anderen Blöcken erscheinen. "
-"Sind Sie sicher, dass Sie diesen Block bearbeiten wollen?"
+"Zu diesem Block existieren Aliasse. Wenn Sie diesen Block bearbeiten, werden "
+"Ihre Änderungen auch in den anderen Blöcken erscheinen. Sind Sie sicher, "
+"dass Sie diesen Block bearbeiten wollen?"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/block_controls.php:28
 msgid ""
@@ -6678,7 +6679,7 @@ msgid ""
 "it, you will delete all blocks aliased to it"
 msgstr ""
 "Wollen Sie diesen Block löschen? Dieser Eintrag ist ein Original. Falls Sie "
-"es löschen, werden alle Spiegelkopien dieses Blockes ebenfalls gelöscht."
+"es löschen, werden alle Aliasse dieses Blockes ebenfalls gelöscht."
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/block_custom_template.php:20
 msgid "There are no custom templates available."
@@ -6909,7 +6910,7 @@ msgstr "Dies kann nicht rückgängig gemacht werden."
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/collection_delete_external.php:48
 msgid "Remove this alias or external link?"
-msgstr "Spiegelkopie oder externen Link löschen?"
+msgstr "Alias oder externen Link löschen?"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/collection_metadata.php:25
 msgid ""
@@ -7176,8 +7177,8 @@ msgid ""
 "This page is a single page, which means it doesn't have a page type "
 "associated with it."
 msgstr ""
-"Diese Seite ist eine alleinstehende Seite. Dies bedeutet, dass kein "
-"Seitentyp zugeordnet wurde."
+"Diese Seite ist eine Sonderseite. Dies bedeutet, dass kein Seitentyp "
+"zugeordnet wurde."
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/collection_theme.php:129
 msgid "You do not have access to change this page's theme."
@@ -7942,7 +7943,7 @@ msgstr "Anzahl der Unterseiten"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/pages/search_form_advanced.php:13
 msgid "Approved Version"
-msgstr "Freigeschaltete Version"
+msgstr "Freigegebene Version"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/pages/search_form_advanced.php:17
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/seo/bulk_seo_tool.php:107
@@ -7957,7 +7958,7 @@ msgstr "Abgelehnt"
 #: /Users/andrew/git/concrete5/web/concrete/elements/pages/search_form_advanced.php:60
 #: /Users/andrew/git/concrete5/web/concrete/elements/pages/search_form_advanced.php:234
 msgid "Approved"
-msgstr "Freigeschaltet"
+msgstr "Freigegeben"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/pages/search_form_advanced.php:70
 #: /Users/andrew/git/concrete5/web/concrete/elements/pages/search_form_advanced.php:246
@@ -8009,7 +8010,7 @@ msgstr "Verschieben/Kopieren"
 #: /Users/andrew/git/concrete5/web/concrete/tools/i18n_js.php:98
 #: /Users/andrew/git/concrete5/web/concrete/tools/page_controls_menu_js.php:190
 msgid "Speed Settings"
-msgstr "Geschwindigkeits-Einstellungen"
+msgstr "Leistungseinstellungen"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/pages/search_results.php:42
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/scrapbook/view.php:98
@@ -9063,12 +9064,12 @@ msgid ""
 "location corresponds to a PHP file placed in your single_pages/ override "
 "directory. Below is a list of Single Pages currently installed."
 msgstr ""
-"Alleinstehende Seiten werden verwendet, um besonderen Code innerhalb von "
-"concrete5 auszuführen. Jede alleinstehende Seite ist an nur einem Ort "
-"innerhalb des Seitenbaumes vorhanden, der in der Verwaltung registriert "
-"werden muss. Dieser Ort entspricht einer PHP-Datei, die im Verzeichnis "
-"single_pages im Wurzelverzeichnis Ihrer Website liegt. Folgende "
-"alleinstehende Seiten sind bereits registriert."
+"Sonderseiten werden verwendet, um besonderen Code innerhalb von concrete5 "
+"auszuführen. Jede Sonderseite ist an nur einem Ort innerhalb des "
+"Seitenbaumes vorhanden, der in der Verwaltung registriert werden muss. "
+"Dieser Ort entspricht einer PHP-Datei, die im Verzeichnis single_pages im "
+"Wurzelverzeichnis Ihrer Website liegt. Folgende Sonderseiten sind bereits "
+"registriert."
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/interface/help.php:54
 msgid ""
@@ -9553,8 +9554,8 @@ msgstr "Blogentwürfe, Composer"
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/upgrade/version_560.php:156
 msgid "pages, add page, delete page, copy, move, alias, bulk"
 msgstr ""
-"Seiten, Seite hinzufügen, Seite löschen, Kopieren, Verschieben, Spiegeln, "
-"Massenbearbeitung"
+"Seiten, Seite hinzufügen, Seite löschen, Kopieren, Verschieben, Alias "
+"erstellen, Sammelbearbeitung"
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/upgrade/version_560.php:157
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/upgrade/version_560.php:159
@@ -9564,15 +9565,16 @@ msgstr "Seite finden, Seite suchen, Suchen, Finden, Seiten, Sitemap"
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/upgrade/version_560.php:158
 msgid "pages, add page, delete page, copy, move, alias"
 msgstr ""
-"Seiten, Seite hinzufügen, Seite löschen, Kopieren, Verschieben, Spiegeln"
+"Seiten, Seite hinzufügen, Seite löschen, Kopieren, Verschieben, Alias "
+"erstellen"
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/upgrade/version_560.php:160
 msgid ""
 "add file, delete file, copy, move, alias, resize, crop, rename, images, "
 "title, attribute"
 msgstr ""
-"Datei hinzufügen, Datei löschen, Kopieren, Verschieben, Spiegeln, Skalieren, "
-"Beschneiden, Umbenennen, Bilder, Titel, Attribut"
+"Datei hinzufügen, Datei löschen, Kopieren, Verschieben, Alias erstellen, "
+"Skalieren, Beschneiden, Umbenennen, Bilder, Titel, Attribut"
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/upgrade/version_560.php:161
 msgid "file, file attributes, title, attribute, description, rename"
@@ -9674,7 +9676,7 @@ msgstr "Seitenattribute, Benutzerdefiniert"
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/upgrade/version_560.php:183
 msgid "single, page, custom, application"
-msgstr "Alleinstehende, Seite, Benutzerdefiniert, Anwendung"
+msgstr "Sonder, Seite, Benutzerdefiniert, Anwendung"
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/upgrade/version_560.php:184
 msgid "add workflow, remove workflow"
@@ -9772,7 +9774,7 @@ msgstr "Vanity, Lesbare URL, SEO, Page View, Betrachten"
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/upgrade/version_560.php:202
 msgid "bulk, seo, change keywords, engine, optimization, search"
 msgstr ""
-"Massenbearbeitung, SEO, Stichwörter ändern, Maschine, Optimierung, Suche"
+"Sammelbearbeitung, SEO, Stichwörter ändern, Maschine, Optimierung, Suche"
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/upgrade/version_560.php:203
 msgid "traffic, statistics, google analytics, quant, pageviews, hits"
@@ -10505,7 +10507,7 @@ msgstr "concrete5 benötigt die PHP-Erweiterungen XML-Parser und SimpleXML."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/install.php:370
 msgid "Writable Files and Configuration Directories"
-msgstr "Schreibrechte für Datei- und Konfigurations-Verzeichnisse"
+msgstr "Datei- und Konfigurations-Verzeichnisse sind beschreibbar"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/install.php:372
 msgid ""
@@ -10734,7 +10736,7 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/upgrade.php:23
 msgid "To proceed with the upgrade, click below."
-msgstr "Klicken Sie unten um die Aktualisierung fortzusetzen."
+msgstr "Klicken Sie auf Aktualisieren, um die neue Version zu installieren."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/upgrade.php:28
 msgid "Upgrade"
@@ -10744,8 +10746,8 @@ msgstr "Aktualisieren"
 #, php-format
 msgid "<a href=\"%s\">Click here</a> if you would like to re-run this script."
 msgstr ""
-"<a href=\"%s\">Hier klicken </a> falls Sie dieses Script erneut ausführen "
-"wollen."
+"<a href=\"%s\">Bitte klicken Sie hier</a>, falls Sie dieses Skript erneut "
+"ausführen wollen."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/user_error.php:2
 msgid "Unexpected User Error"
@@ -11261,7 +11263,7 @@ msgstr "Seitenattribute"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/pages/single.php:7
 msgid "Add Single Page"
-msgstr "Alleinstehende Seite hinzufügen"
+msgstr "Sonderseite hinzufügen"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/pages/single.php:16
 msgid "The page you want to add is available at:"
@@ -11787,7 +11789,7 @@ msgstr "Seiten suchen"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/sitemap/search.php:7
 msgid "Search the pages of your site and perform bulk actions on them."
-msgstr "Seiten suchen und Stapel-Aktionen auf mehrere Seiten ausführen."
+msgstr "Seiten suchen und Sammelbearbeitungen von mehreren Seiten ausführen"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/sitemap/search.php:21
 msgid "You must have access to the dashboard sitemap to search pages."
@@ -12304,7 +12306,7 @@ msgstr "SMTP-Einstellungen"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/optimization/cache.php:2
 msgid "Cache &amp; Speed Settings"
-msgstr "Optimierung"
+msgstr "Leistungsoptimierung"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/optimization/cache.php:8
 msgid "Basic Cache"
@@ -12723,7 +12725,7 @@ msgstr "E-Mail-Adresse als Login-Name nutzen?"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/seo/bulk_seo_tool.php:2
 msgid "Bulk SEO Tool"
-msgstr "Massen-SEO-Werkzeug"
+msgstr "SEO-Sammelbearbeitung"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/seo/bulk_seo_tool.php:2
 msgid "Manage Search Engine Optimization (SEO) Related Page Properties."
@@ -12755,7 +12757,7 @@ msgstr " Keine Meta-Stichwörter vorhanden"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/seo/bulk_seo_tool.php:153
 msgid "Single Page"
-msgstr "Alleinstehende Seite"
+msgstr "Sonderseite"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/seo/bulk_seo_tool.php:158
 msgid "Modified"
@@ -13099,7 +13101,7 @@ msgstr "Unbekannt"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/users/search.php:584
 msgid "Search the users of your site and perform bulk actions on them."
-msgstr "Benutzer der Seite finden und Aktionen ausführen."
+msgstr "Benutzer der Seite finden und Sammelbearbeitungen ausführen."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/users/search.php:597
 msgid ""
@@ -13466,9 +13468,9 @@ msgid ""
 "This block is an alias of Page Defaults. Editing it here will \"disconnect\" "
 "it so changes to Page Defaults will no longer affect this block."
 msgstr ""
-"Dieser Block ist eine Spiegelkopie eines Seitenstandards. Wenn Sie ihn "
-"bearbeiten wird er \"entkoppelt\", so dass Änderungen an den Seitenstandards "
-"diesen Block nicht mehr betreffen."
+"Dieser Block ist ein Alias eines Seitenstandards. Wenn Sie ihn bearbeiten "
+"wird er \"entkoppelt\", so dass Änderungen an den Seitenstandards diesen "
+"Block nicht mehr betreffen."
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/edit_collection_popup.php:126
 #: /Users/andrew/git/concrete5/web/concrete/tools/versions.php:332
@@ -13671,7 +13673,7 @@ msgstr "Seiteneinstellungen gespeichert."
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/i18n_js.php:68
 msgid "Speed Settings saved."
-msgstr "Cache-Einstellungen gespeichert"
+msgstr "Leistungseinstellungen gespeichert"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/i18n_js.php:69
 msgid "User Settings saved."
@@ -13955,8 +13957,8 @@ msgstr "%s bearbeitet derzeit diese Seite."
 #: /Users/andrew/git/concrete5/web/concrete/tools/page_controls_menu_js.php:229
 msgid "This page is an alias of one that actually appears elsewhere."
 msgstr ""
-"Diese Seite ist eine Spiegelkopie einer anderen Seite, die an einer anderem "
-"Ort angezeigt wird."
+"Diese Seite ist ein Alias einer anderen Seite, die an einer anderem Ort "
+"angezeigt wird."
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/page_controls_menu_js.php:231
 msgid "View/Edit Original"
@@ -13964,7 +13966,7 @@ msgstr "Original ansehen/bearbeiten"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/page_controls_menu_js.php:236
 msgid "Remove Alias"
-msgstr "Spiegelkopie entfernen"
+msgstr "Alias entfernen"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/page_controls_menu_js.php:249
 #, php-format
@@ -14007,7 +14009,7 @@ msgstr "Kopie des Blocks im Vorlagenkatalog speichern"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/pile_manager.php:251
 msgid "Alias original to Scrapbook"
-msgstr "Spiegelkopie des Originals im Vorlagenkatalog"
+msgstr "Alias des Originals im Vorlagenkatalog erstellen"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/pile_manager.php:262
 msgid "Block added to scrapbook."
@@ -14070,7 +14072,7 @@ msgstr "Ersteller"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/versions.php:350
 msgid "Approver"
-msgstr "Freigeschaltet von"
+msgstr "Freigegeben von"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/versions.php:351
 msgid "Created"
@@ -14116,11 +14118,11 @@ msgstr ""
 msgid "You may not move/copy/alias the chosen page(s) to that location."
 msgstr ""
 "Sie können die gewählte Seite nicht an diese Stelle kopieren, verschieben "
-"oder spiegeln."
+"oder dort einen Alias erstellen."
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/dashboard/sitemap_drag_request.php:84
 msgid "was successfully aliased beneath"
-msgstr "wurde erfolgreich gespiegelt unter"
+msgstr "wurde erfolgreich als Alias erstellt unter"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/dashboard/sitemap_drag_request.php:93
 msgid "and all its children were successfully copied beneath"
@@ -14168,7 +14170,7 @@ msgstr "Alten Seitenpfad speichern"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/dashboard/sitemap_drag_request.php:186
 msgid "Alias"
-msgstr "Spiegelkopie"
+msgstr "Alias"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/dashboard/sitemap_drag_request.php:186
 msgid ""
@@ -14176,11 +14178,11 @@ msgid ""
 "their alias."
 msgstr ""
 "Diese Seite wird an beiden Orten erscheinen; alle Änderungen am Original "
-"werden ebenfalls in ihren Spiegelkopien verfügbar."
+"werden ebenfalls in jedem Alias der Seite verfügbar."
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/dashboard/sitemap_drag_request.php:194
 msgid "Copy page."
-msgstr "Seite kopieren."
+msgstr "Seite kopieren"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/dashboard/sitemap_drag_request.php:195
 msgid "Copy page + children."
@@ -14778,7 +14780,7 @@ msgid ""
 "You do not have permission to modify speed settings on any of the selected "
 "pages."
 msgstr ""
-"Sie haben nicht die Berechtigung, die Cache-Einstellungen der gewählten "
+"Sie haben nicht die Berechtigung, die Leistungseinstellungen der gewählten "
 "Seiten zu ändern."
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/pages/speed_settings.php:130
