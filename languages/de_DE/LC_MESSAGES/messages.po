@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: concrete5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-08-28 18:19-0800\n"
-"PO-Revision-Date: 2012-08-31 16:52+0100\n"
+"PO-Revision-Date: 2012-08-31 17:05+0100\n"
 "Last-Translator: Bernd Matzner <bernd@matznermatzner.de>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/"
 "concrete5/language/de_DE/)\n"
@@ -1405,13 +1405,13 @@ msgstr "Aliasse der Seite anzeigen"
 
 #: /Users/andrew/git/concrete5/web/concrete/blocks/page_list/page_list_form.php:47
 msgid "Pagination"
-msgstr "Paginierung"
+msgstr "Seitennavigation"
 
 #: /Users/andrew/git/concrete5/web/concrete/blocks/page_list/page_list_form.php:49
 msgid ""
 "Display pagination interface if more items are available than are displayed."
 msgstr ""
-"Eine Paginierung einblenden, wenn mehr Elemente verfügbar sind, als "
+"Eine Seitennavigation einblenden, wenn mehr Elemente verfügbar sind, als "
 "angezeigt werden."
 
 #: /Users/andrew/git/concrete5/web/concrete/blocks/page_list/page_list_form.php:81
@@ -2642,7 +2642,7 @@ msgstr "Protokoll-Einstellungen"
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:146
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/environment/file_storage_locations.php:1
 msgid "File Storage Locations"
-msgstr "Speicherorte für Dateien"
+msgstr "Orte für die Dateiablage"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:147
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/upgrade/version_560.php:149
@@ -6253,7 +6253,8 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/core/models/system/captcha/types/securimage/controller.php:37
 msgid "Please type the letters and numbers shown in the image."
-msgstr "Bitte geben Sie die Zeichen und Nummern ein."
+msgstr ""
+"Bitte geben Sie die Zeichen ein, die im Sicherheitscode dargestellt sind."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/models/workflow/progress/history.php:21
 #, php-format
@@ -9256,8 +9257,8 @@ msgid ""
 "location) where you'll have the option of putting files after uploading them "
 "to the File Manager. "
 msgstr ""
-"Erstellen Sie einen alternativen Speicherort für Dateien, in dem Dateien "
-"nach dem Hochladen über die Dateiverwaltung abgelegt werden sollen."
+"Erstellen Sie einen zusätzlichen Ort für die Dateiablage, wo Dateien nach "
+"dem Hochladen über die Dateiverwaltung abgelegt werden können."
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/interface/help.php:77
 msgid ""
@@ -9894,7 +9895,7 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/upgrade/version_560.php:227
 msgid "security, alternate storage, hide files"
-msgstr "Sicherheit, Alternativer Dateienspeicher, Dateien verstecken"
+msgstr "Sicherheit, Zusätzliche Dateiablage, Dateien verstecken"
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/upgrade/version_560.php:228
 msgid "network, proxy server"
@@ -14428,7 +14429,7 @@ msgstr "Mit Passwort schützen"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/permissions.php:42
 msgid "Storage Location"
-msgstr "Speicherort"
+msgstr "Dateiablage"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/permissions.php:59
 msgid "Requires Password to Access"
@@ -14456,7 +14457,7 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/permissions.php:82
 msgid "Choose File Storage Location"
-msgstr "Speicherort für Datei wählen"
+msgstr "Ort für die Dateiablage wählen"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/permissions.php:85
 msgid "All versions of a file will be moved to the selected location."
