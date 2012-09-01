@@ -17,6 +17,7 @@ Place the files into your web root folder (or where the concrete5 CMS is located
 The default concrete5 installation provides two empty folders in your web root:
 - js
 - languages
+
 The files in this repository belong there.
 Do not copy the files into the CMS's system folder "concrete".
 
