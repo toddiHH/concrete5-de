@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: concrete5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-08-28 18:19-0800\n"
-"PO-Revision-Date: 2012-09-01 12:49+0100\n"
+"PO-Revision-Date: 2012-09-01 13:27+0100\n"
 "Last-Translator: Bernd Matzner <bernd@matznermatzner.de>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/"
 "concrete5/language/de_DE/)\n"
@@ -2565,7 +2565,7 @@ msgstr "Das Anmeldeverhalten bearbeiten und öffentliche Profile einrichten"
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:128
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/registration/postlogin.php:2
 msgid "Login Destination"
-msgstr "Weiterleitung nach Login"
+msgstr "Weiterleitung nach der Anmeldung"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:129
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/registration/profiles.php:2
@@ -2575,7 +2575,7 @@ msgstr "Öffentliche Profile"
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:130
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/registration/public_registration.php:2
 msgid "Public Registration"
-msgstr "Seitenregistrierung"
+msgstr "Öffentliche Registrierung"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:132
 msgid "Control how your site send and processes mail."
@@ -3503,7 +3503,7 @@ msgstr "Beispielinhalte mit Blog"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/packages/standard/controller.php:12
 msgid "A great starting point for an attractive website with a blog."
-msgstr "Ein guter Ausgangspunkt für eine ansprechende Webseite mit einem Blog."
+msgstr "Ein guter Ausgangspunkt für eine ansprechende Webseite mit einem Blog"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/blocks/autonav.php:29
 msgid "Creates navigation trees and sitemaps."
@@ -4263,7 +4263,7 @@ msgstr "E-Mail-Adresse validieren"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/register.php:276
 msgid "Your account has been created, and you are now logged in."
-msgstr "Ihr Konto wurde erstellt und Sie sind jetzt eingeloggt."
+msgstr "Ihr Konto wurde erstellt, und Sie sind nun angemeldet."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/register.php:281
 msgid ""
@@ -4271,8 +4271,8 @@ msgid ""
 "functionality on this site will be limited until you do so."
 msgstr ""
 "Sie sind registriert, müssen aber noch Ihre E-Mail-Adresse bestätigen. "
-"Teile, vielleicht auch die komplette Funktionalität dieser Website sind "
-"eingeschränkt, bis Sie dies getan haben."
+"Einige oder auch alle Funktionen dieser Website bleiben eingeschränkt "
+"verfügbar, bis Sie dies getan haben."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/register.php:282
 msgid ""
@@ -5048,7 +5048,7 @@ msgstr "Öffentliche Profile wurden deaktiviert."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/registration/public_registration.php:70
 msgid "Registration settings have been saved."
-msgstr "Registrierungseinstellungen wurden gespeichert."
+msgstr "Die Registrierungseinstellungen wurden gespeichert."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/seo/search_index.php:13
 msgid "Search Index Preferences Updated"
@@ -6055,7 +6055,7 @@ msgstr "Verwaltung wird installiert"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/models/starting_point_package.php:32
 msgid "Installing login and registration pages."
-msgstr "Login- und Registrierungsseiten werden angelegt"
+msgstr "Anmelde- und Registrierungsseiten werden angelegt"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/models/starting_point_package.php:33
 msgid "Configuring site."
@@ -6088,13 +6088,11 @@ msgstr "Datenbank konnte nicht installiert werden: %s"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/models/starting_point_package.php:136
 msgid "The guest group represents unregistered visitors to your site."
-msgstr ""
-"Die Gast-Gruppe repräsentiert die normalen Seitenbesucher ohne Benutzerkonto."
+msgstr "Die Gast-Gruppe umfasst normalen Seitenbesucher ohne Benutzerkonto."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/models/starting_point_package.php:137
 msgid "The registered users group represents all user accounts."
-msgstr ""
-"Die Registrierte Benutzer Gruppe repräsentiert alle angelegten Benutzer."
+msgstr "Die Gruppe Registrierte Benutzer enthält alle angelegten Benutzer."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/models/user_banned_ip.php:54
 msgid "Failed Registration"
@@ -9249,7 +9247,7 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/interface/help.php:75
 msgid "Determine where users should be redirected to after they login."
-msgstr "Wohin sollen Benutzer nach dem Login weitergeleitet werden."
+msgstr "Wohin sollen Benutzer nach der Anmeldung weitergeleitet werden?"
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/interface/help.php:76
 msgid ""
@@ -9846,7 +9844,7 @@ msgstr "Website sperren, Wartung, Verstecken, Versteckt"
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/upgrade/version_560.php:217
 msgid "profile, login, redirect, specific, dashboard, administrators"
-msgstr "Profil, Login, Umleitung, Genau, Verwaltung, Administratoren"
+msgstr "Profil, Anmelden, Umleitung, Genau, Verwaltung, Administratoren"
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/upgrade/version_560.php:218
 msgid "member profile, member page,community, forums, social, avatar"
@@ -10113,7 +10111,7 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/mail/user_register.php:5
 msgid "Registration - A New User Has Registered"
-msgstr "Registrierung - Ein neuer Benutzer hat sich registriert"
+msgstr "Registrierung: Ein neuer Benutzer hat sich registriert"
 
 #: /Users/andrew/git/concrete5/web/concrete/mail/user_register.php:6
 #, php-format
@@ -10127,7 +10125,7 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Ein neuer Benutzer hat sich auf Ihre Website angemeldet.\n"
+"Ein neuer Benutzer hat sich auf Ihrer Website registriert.\n"
 "\n"
 "Benutzername: %s\n"
 "E-Mail-Adresse: %s\n"
@@ -10149,7 +10147,7 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/mail/user_register_approval_required.php:5
 msgid "Registration - Approval Required"
-msgstr "Registrierung - Freigabe erforderlich"
+msgstr "Registrierung: Freigabe erforderlich"
 
 #: /Users/andrew/git/concrete5/web/concrete/mail/user_register_approval_required.php:6
 #, php-format
@@ -10164,7 +10162,7 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Ein neuer Benutzer hat sich auf Ihre Website registriert. Dieses Konto muss "
+"Ein neuer Benutzer hat sich auf Ihrer Website registriert. Dieses Konto muss "
 "freigegeben werden, bevor es aktiviert werden kann.\n"
 "\n"
 "Benutzername: %s\n"
@@ -10187,7 +10185,7 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/mail/validate_user_email.php:5
 msgid "Registration - Validate Email Address"
-msgstr "Registrierung - E-Mail-Adresse validieren"
+msgstr "Registrierung: E-Mail-Adresse validieren"
 
 #: /Users/andrew/git/concrete5/web/concrete/mail/validate_user_email.php:6
 #, php-format
@@ -10632,13 +10630,13 @@ msgid ""
 "The OpenID account returned an email address already registered on this "
 "site. To join this OpenID to the existing user account, login below:"
 msgstr ""
-"Der OpenID-Zugang gab eine E-Mail-Adresse zurück, die bereits auf dieser "
-"Seite registriert ist. Um diese OpenID mit dem existierenden Account zu "
-"verbinden, loggen Sie sich weiter unten ein:"
+"Der OpenID-Zugang lieferte eine E-Mail-Adresse zurück, die bereits auf "
+"dieser Seite registriert ist. Um diese OpenID mit dem existierenden Konto zu "
+"verbinden, melden Sie sich unten an:"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/login.php:128
 msgid "You must provide the following information before you may login."
-msgstr "Sie müssen folgende Informationen eingeben bevor Sie sich einloggen."
+msgstr "Sie müssen folgende Informationen eingeben bevor Sie sich anmelden."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/login.php:169
 msgid "User Account"
@@ -10650,7 +10648,7 @@ msgstr "OpenID"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/login.php:200
 msgid "Login with OpenID"
-msgstr "Oder loggen Sie sich mit einer OpenID ein."
+msgstr "Oder melden Sie sich mit einer OpenID an."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/login.php:223
 msgid "Remain logged in to website."
@@ -10709,7 +10707,7 @@ msgstr "Unter dieser Adresse konnte keine Seite gefunden werden."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/register.php:5
 msgid "Site Registration"
-msgstr "Seitenregistrierung"
+msgstr "Websiteregistrierung"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/register.php:22
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/register.php:29
@@ -10759,8 +10757,8 @@ msgid ""
 "Something about your user account has changed. You have been logged out. "
 "Please refresh this page to continue."
 msgstr ""
-"An Ihrem Konto wurde etwas geändert. Sie wurden ausgeloggt. Bitte laden Sie "
-"diese Seite erneut um fortzufahren."
+"An Ihrem Konto wurde etwas geändert. Sie wurden abgemeldet. Bitte laden Sie "
+"diese Seite erneut, um fortzufahren."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/blocks/permissions.php:17
 msgid "You cannot access these permissions."
@@ -12528,7 +12526,7 @@ msgstr "IP sperren nach"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/permissions/ip_blacklist.php:14
 msgid "failed login attempts"
-msgstr "fehlgeschlagene Login versuche"
+msgstr "Fehlgeschlagene Anmeldeversuche"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/permissions/ip_blacklist.php:15
 msgid "in"
@@ -12721,7 +12719,7 @@ msgstr "OpenID aktivieren"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/registration/public_registration.php:66
 msgid "Use emails for login"
-msgstr "E-Mail-Adresse als Login-Name nutzen?"
+msgstr "E-Mail-Adresse als Anmeldename verwenden"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/seo/bulk_seo_tool.php:2
 msgid "Bulk SEO Tool"
@@ -12989,7 +12987,7 @@ msgstr "Möchten Sie diese Gruppe wirklich löschen?"
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/users/groups.php:137
 #, php-format
 msgid "You must be logged in as %s to remove groups."
-msgstr "Sie müssen als %s eingeloggt sein, um Gruppen zu entfernen."
+msgstr "Sie müssen als %s angemeldet sein, um Gruppen zu entfernen."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/users/search.php:90
 msgid "Invalid token.  Unable to activate user."
