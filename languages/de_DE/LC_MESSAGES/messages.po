@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: concrete5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-08-28 18:19-0800\n"
-"PO-Revision-Date: 2012-09-01 15:03+0100\n"
+"PO-Revision-Date: 2012-09-01 15:09+0100\n"
 "Last-Translator: Bernd Matzner <bernd@matznermatzner.de>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/"
 "concrete5/language/de_DE/)\n"
@@ -2854,7 +2854,7 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:196
 msgid "Edit Speed Settings"
-msgstr "Leistungseinstellungen bearbeiten"
+msgstr "Leistung konfigurieren"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:197
 msgid "Ability to change caching settings."
@@ -8009,7 +8009,7 @@ msgstr "Verschieben/Kopieren"
 #: /Users/andrew/git/concrete5/web/concrete/tools/i18n_js.php:98
 #: /Users/andrew/git/concrete5/web/concrete/tools/page_controls_menu_js.php:190
 msgid "Speed Settings"
-msgstr "Leistungseinstellungen"
+msgstr "Leistung"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/pages/search_results.php:42
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/scrapbook/view.php:98
