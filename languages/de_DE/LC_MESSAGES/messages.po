@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: concrete5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-08-28 18:19-0800\n"
-"PO-Revision-Date: 2012-09-02 14:59+0100\n"
+"PO-Revision-Date: 2012-09-02 15:52+0100\n"
 "Last-Translator: Bernd Matzner <bernd@matznermatzner.de>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/"
 "concrete5/language/de_DE/)\n"
@@ -5469,8 +5469,8 @@ msgstr "XML-Sitemap-Datei erstellen."
 msgid ""
 "Generate the sitemap.xml file that search engines use to crawl your site."
 msgstr ""
-"Die Datei sitemap.xml wird erstellt damit Suchmaschinen die Website "
-"durchsuchen können."
+"Die Datei sitemap.xml wird von Suchmaschinen wie Google zur besseren "
+"Indizierung Ihrer Website analysiert."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/jobs/generate_sitemap.php:53
 #, php-format
@@ -5495,7 +5495,7 @@ msgstr "Fußbereich von %s konnte nicht gespeichert werden"
 #: /Users/andrew/git/concrete5/web/concrete/core/jobs/generate_sitemap.php:78
 #, php-format
 msgid "%1$s file saved (%2$d pages)."
-msgstr "%1$s Datei gespeichert (%2$d Seiten)."
+msgstr "%2$d Seiten wurden in der Datei %1$s gespeichert."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/jobs/generate_sitemap.php:139
 #, php-format
@@ -5505,11 +5505,13 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/core/jobs/index_search.php:14
 msgid "Index Search Engine"
-msgstr "Suchmaschinenindex erstellen"
+msgstr "Suchindex aktualisieren"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/jobs/index_search.php:18
 msgid "Index the site to allow searching to work quickly and accurately."
-msgstr "Indizieren Sie Ihre Website um die Suchfunktion zu optimieren."
+msgstr ""
+"Indizieren Sie Ihre Website, um die aktuellsten Inhalte über die Suche "
+"finden zu können."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/jobs/index_search.php:42
 msgid "Indexing complete. Index is up to date"
@@ -5571,7 +5573,7 @@ msgstr "Seiten"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/jobs/remove_old_page_versions.php:72
 msgid "versions deleted from"
-msgstr "Versionen gelöscht von"
+msgstr "veraltete Versionen gelöscht von"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/libraries/archive.php:43
 #: /Users/andrew/git/concrete5/web/concrete/libraries/archive.php:43
@@ -12366,7 +12368,9 @@ msgstr "Bis der Cache manuell durchgeführt wird"
 msgid ""
 "If your site is displaying out-dated information, or behaving unexpectedly, "
 "it may help to clear your cache."
-msgstr "Wenn auf Ihrer Seite veraltete Daten angezeigt werden, Cache leeren."
+msgstr ""
+"Wenn auf Ihrer Seite veraltete Daten angezeigt werden, versuchen Sie, den "
+"Cache zu leeren."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/optimization/jobs.php:38
 msgid "Are you sure you want to uninstall this job?"
@@ -14945,3 +14949,6 @@ msgstr "Bitte wählen Sie ein Theme für mobile Endgeräte aus."
 
 msgid "List"
 msgstr "Liste"
+
+msgid "Generate Sitemap File"
+msgstr "Suchmaschinen-Sitemap erstellen"
