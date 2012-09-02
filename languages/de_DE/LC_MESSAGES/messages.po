@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: concrete5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-08-28 18:19-0800\n"
-"PO-Revision-Date: 2012-09-02 14:40+0100\n"
+"PO-Revision-Date: 2012-09-02 14:49+0100\n"
 "Last-Translator: Bernd Matzner <bernd@matznermatzner.de>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/"
 "concrete5/language/de_DE/)\n"
@@ -803,7 +803,7 @@ msgstr "Textbereich"
 #: /Users/andrew/git/concrete5/web/concrete/blocks/form/form_setup_html.php:138
 #: /Users/andrew/git/concrete5/web/concrete/blocks/form/form_setup_html.php:252
 msgid "Radio Buttons"
-msgstr "Radiobuttons"
+msgstr "Optionsfelder"
 
 #: /Users/andrew/git/concrete5/web/concrete/blocks/form/form_setup_html.php:139
 #: /Users/andrew/git/concrete5/web/concrete/blocks/form/form_setup_html.php:253
@@ -813,7 +813,7 @@ msgstr "Auswahlliste"
 #: /Users/andrew/git/concrete5/web/concrete/blocks/form/form_setup_html.php:140
 #: /Users/andrew/git/concrete5/web/concrete/blocks/form/form_setup_html.php:254
 msgid "Checkbox List"
-msgstr "Checkboxliste"
+msgstr "Kontrollkästchenliste"
 
 #: /Users/andrew/git/concrete5/web/concrete/blocks/form/form_setup_html.php:141
 #: /Users/andrew/git/concrete5/web/concrete/blocks/form/form_setup_html.php:255
@@ -1964,7 +1964,7 @@ msgstr "Administrator"
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:3
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/upgrade/version_532.php:200
 msgid "Checkbox"
-msgstr "Checkbox"
+msgstr "Kontrollkästchen"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:4
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/upgrade/version_532.php:201
@@ -3869,7 +3869,7 @@ msgstr "Bitte geben Sie einen Suchbegriff ein."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/blocks/search.php:46
 msgid "Please enter your Submit Button Text."
-msgstr "Beschriftung der Absenden-Schaltfläche"
+msgstr "Bitte geben Sie die Beschriftung der Absenden-Schaltfläche ein."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/blocks/search.php:95
 msgid "Add a search box to your site."
@@ -6782,10 +6782,10 @@ msgid ""
 "previously selected blocks may also be removed using the checkbox. Click the "
 "checkbox in the header to select/deselect all pages."
 msgstr ""
-"Wählen Sie auf welchen der unten aufgeführten Seiten dieser Block erscheinen "
-"soll. Alle bisher gewählten Blöcke können mit Hilfe der Checkbox entfernt "
-"werden. Klicken Sie auf die Checkbox im Kopfbereich um alle Seiten aus- bzw. "
-"abzuwählen."
+"Bitte wählen Sie, auf welchen der unten aufgeführten Seiten dieser Block "
+"erscheinen soll. Alle bisher gewählten Blöcke können mit Hilfe des "
+"Kontrollkästchens entfernt werden. Klicken Sie auf das Kontrollkästchen im "
+"Kopfbereich, um alle Seiten aus- bzw. abzuwählen."
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/block_master_collection_alias.php:28
 msgid "Date Created"
@@ -8374,8 +8374,8 @@ msgid ""
 "Permissions for this block currently override those of the area and page."
 msgstr ""
 "Berechtigungen für diesen Block überlagern derzeit die des übergeordneten "
-"Blocks. Um auf die vererbten Einstellungen des Blocks zurückzukehren, "
-"klicken Sie auf den Button unten."
+"Blocks. Um die vererbten Einstellungen des Blocks wiederherzustellen, "
+"klicken Sie auf die Schaltfläche unten."
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/permission/lists/block.php:25
 msgid "Revert to Area Permissions"
@@ -8443,8 +8443,8 @@ msgid ""
 "Permissions for this file currently override those of the area and page."
 msgstr ""
 "Berechtigungen für diese Datei überlagern derzeit die des übergeordneten "
-"Blocks. Um auf die vererbten Einstellungen des Blocks zurückzukehren, "
-"klicken Sie auf den Button unten."
+"Blocks. Um die vererbten Einstellungen des Blocks wiederherzustellen, "
+"klicken Sie auf die Schaltfläche unten."
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/permission/lists/file.php:25
 msgid "Revert to File Set and Global Permissions"
@@ -8732,7 +8732,7 @@ msgid ""
 "options for quality desired and minimum version of Flash required for a "
 "browser to display the movie."
 msgstr ""
-"Wählen Sie eine Flash-Datei in der Dateiverwaltung aus und legen Sie die "
+"Wählen Sie eine Flash-Datei in der Dateiverwaltung aus, und legen Sie die "
 "Optionen für die gewünschte Qualitätsstufe und Mindestversion von Flash, die "
 "zur Darstellung benötigt wird."
 
@@ -8783,8 +8783,8 @@ msgid ""
 "size than the actual image file."
 msgstr ""
 "Wählen Sie eine Datei in der Dateiverwaltung und legen Sie nach Bedarf ein "
-"Mouseover-Bild fest. Wählen Sie ggf. aus, worauf das Bild verweisen soll und "
-"geben Sie einen Alternativtext an. Sie haben die Möglichkeit, eine "
+"Mouse-Over-Bild fest. Wählen Sie ggf. aus, worauf das Bild verweisen soll "
+"und geben Sie einen Alternativtext an. Sie haben die Möglichkeit, eine "
 "Verzerrung des Bildes durch das Festlegen des Seitenverhältnisses zu "
 "unterbinden."
 
@@ -8832,7 +8832,7 @@ msgid ""
 "Search block on this page and the results will appear here."
 msgstr ""
 "Erlaubt die Einbindung einer Volltextsuche in Ihre Website, wobei der Titel, "
-"Suchknopf-Text und Umfang des Suchbereiches festgelegt werden können. "
+"Schaltflächentext und Umfang des Suchbereiches festgelegt werden können. "
 "Suchformular und Ergebnisseite können voneinander getrennt werden, indem als "
 "Ziel des Suchformulars eine andere Seite ausgewählt wird. Ein zweiter "
 "Suchblock auf der Zielseite bewirkt, dass die Ergebnisse dort dargestellt "
@@ -8971,8 +8971,8 @@ msgid ""
 "the drop-down menu."
 msgstr ""
 "Erlaubt die Suche nach Benutzern anhand von Name, E-Mail und "
-"Gruppenzugehörigkeit. Kicken Sie die Kontrollkästchen neben den Benutzern "
-"an, um mehrere Benutzer gleichzeitig zu bearbeiten und wählen Sie dann die "
+"Gruppenzugehörigkeit. Klicken Sie die Kontrollkästchen neben den Benutzern "
+"an, um mehrere Benutzer gleichzeitig zu bearbeiten, und wählen Sie dann die "
 "gewünschte Aktion in der Liste aus."
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/interface/help.php:44
@@ -10264,7 +10264,7 @@ msgstr "Standardland"
 
 #: /Users/andrew/git/concrete5/web/concrete/models/attribute/types/boolean/type_form.php:2
 msgid "Checkbox Options"
-msgstr "Checkboxoptionen"
+msgstr "Kontrollkästchenoptionen"
 
 #: /Users/andrew/git/concrete5/web/concrete/models/attribute/types/boolean/type_form.php:5
 msgid "Default Value"
@@ -10272,7 +10272,7 @@ msgstr "Standardwert"
 
 #: /Users/andrew/git/concrete5/web/concrete/models/attribute/types/boolean/type_form.php:8
 msgid "The checkbox will be checked by default."
-msgstr "Checkbox standardmäßig aktivieren"
+msgstr "Kontrollkästchen standardmäßig aktivieren"
 
 #: /Users/andrew/git/concrete5/web/concrete/models/attribute/types/date_time/type_form.php:2
 msgid "Date/Time Options"
@@ -10300,7 +10300,7 @@ msgstr "Option hinzufügen"
 
 #: /Users/andrew/git/concrete5/web/concrete/models/attribute/types/select/type_form.php:43
 msgid "Select Options"
-msgstr "Auswahloptionen"
+msgstr "Auswahllistenoptionen"
 
 #: /Users/andrew/git/concrete5/web/concrete/models/attribute/types/select/type_form.php:46
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/bulk_properties.php:154
@@ -10550,8 +10550,9 @@ msgid ""
 "There are problems with your installation environment. Please correct them "
 "and click the button below to re-run the pre-installation tests."
 msgstr ""
-"Es gibt Probleme mit der Installationsumgebung. Bitte korrigieren und dann "
-"die Tests erneut ausführen."
+"Es gibt Probleme mit der Installationsumgebung. Bitte beheben Sie diese. "
+"Klicken Sie danach auf die Schaltfläche unten, um den Test erneut "
+"auszuführen."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/install.php:426
 msgid "Run Tests"
@@ -14711,7 +14712,9 @@ msgstr "Zu <a href=\"%s\">Erweiterungen hinzufügen</a>in der Verwaltung."
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/marketplace/download.php:85
 msgid "Click the Install button next to the package name."
-msgstr "Klicken Sie auf Installation direkt neben dem Namen des Paketes."
+msgstr ""
+"Klicken Sie auf die Schaltfläche Installieren direkt neben dem Namen des "
+"Paketes."
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/marketplace/refresh_theme.php:30
 msgid "Unable to connect to the marketplace."
