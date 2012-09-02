@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: concrete5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-08-28 18:19-0800\n"
-"PO-Revision-Date: 2012-09-01 15:09+0100\n"
+"PO-Revision-Date: 2012-09-02 14:33+0100\n"
 "Last-Translator: Bernd Matzner <bernd@matznermatzner.de>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/"
 "concrete5/language/de_DE/)\n"
@@ -763,7 +763,7 @@ msgstr "Nach erfolgreicher Übermittlung auf eine andere Seite weiterleiten?"
 
 #: /Users/andrew/git/concrete5/web/concrete/blocks/form/form_setup_html.php:93
 msgid "Add uploaded files to a set?"
-msgstr "Hochgeladene Dateien zu einer Dateisammlung hinzufügen?"
+msgstr "Hochgeladene Dateien zu einem Dateialbum hinzufügen?"
 
 #: /Users/andrew/git/concrete5/web/concrete/blocks/form/form_setup_html.php:120
 msgid "Add a New Question"
@@ -1580,7 +1580,7 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/blocks/slideshow/fileset_row_include.php:4
 msgid "File Set:"
-msgstr "Dateisammlung:"
+msgstr "Dateialbum:"
 
 #: /Users/andrew/git/concrete5/web/concrete/blocks/slideshow/fileset_row_include.php:5
 #: /Users/andrew/git/concrete5/web/concrete/blocks/slideshow/image_row_include.php:12
@@ -1614,7 +1614,7 @@ msgstr "Individuelle Slideshow"
 
 #: /Users/andrew/git/concrete5/web/concrete/blocks/slideshow/form_setup_html.php:24
 msgid "Pictures from File Set"
-msgstr "Bilder aus der Dateisammlung"
+msgstr "Bilder aus dem Dateialbum"
 
 #: /Users/andrew/git/concrete5/web/concrete/blocks/slideshow/form_setup_html.php:28
 msgid "Playback"
@@ -1640,7 +1640,7 @@ msgstr "Bild hinzufügen"
 
 #: /Users/andrew/git/concrete5/web/concrete/blocks/slideshow/image_row_include.php:16
 msgid "Set Number"
-msgstr "Sammlungsnummer"
+msgstr "Albumnummer"
 
 #: /Users/andrew/git/concrete5/web/concrete/blocks/slideshow/image_row_include.php:18
 msgid "Link URL (optional)"
@@ -2123,7 +2123,7 @@ msgstr "Dateisammlungen"
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:36
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/files/sets.php:181
 msgid "Add File Set"
-msgstr "Dateisammlung erstellen."
+msgstr "Dateialbum erstellen"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:37
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:185
@@ -3221,7 +3221,7 @@ msgstr "Darf Dateiinhalte bearbeiten"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:261
 msgid "Can edit or replace files in set."
-msgstr "Darf Dateien in einer Sammlung bearbeiten oder ersetzen"
+msgstr "Darf Dateien in einem Dateialbum bearbeiten oder ersetzen"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:262
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:279
@@ -3231,7 +3231,7 @@ msgstr "Datei kopieren"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:263
 msgid "Can copy files in file set."
-msgstr "Darf Dateien in eine Sammlung aufnehmen"
+msgstr "Darf Dateien in ein Dateialbum aufnehmen"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:264
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:281
@@ -3246,7 +3246,7 @@ msgstr "Darf Berechtigungen für Dateisammlungen bearbeiten"
 #: /Users/andrew/git/concrete5/web/concrete/elements/files/search_form_advanced.php:119
 #: /Users/andrew/git/concrete5/web/concrete/elements/files/search_form_sets.php:37
 msgid "Delete File Set"
-msgstr "Dateisammlung löschen"
+msgstr "Dateialbum löschen"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:267
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:283
@@ -3255,7 +3255,7 @@ msgstr "Datei löschen"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:268
 msgid "Can delete files in set."
-msgstr "Darf Dateien in der Sammlung löschen"
+msgstr "Darf Dateien im Dateialbum löschen"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:269
 #: /Users/andrew/git/concrete5/web/concrete/elements/editor_controls.php:7
@@ -3266,7 +3266,7 @@ msgstr "Datei hinzufügen"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:270
 msgid "Can add files to set."
-msgstr "Darf Dateien zu einer Sammlung hinzufügen"
+msgstr "Darf Dateien zu einem Dateialbum hinzufügen"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:272
 msgid "Can view and download files."
@@ -3437,7 +3437,7 @@ msgstr "Benutzer"
 #: /Users/andrew/git/concrete5/web/concrete/core/models/permission/access/entity/types/group_set.php:13
 #: /Users/andrew/git/concrete5/web/concrete/elements/users/search_form_advanced.php:10
 msgid "Group Set"
-msgstr "Gruppensammlung"
+msgstr "Gruppenalbum"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:330
 #: /Users/andrew/git/concrete5/web/concrete/core/models/permission/access/entity/types/group_combination.php:13
@@ -3916,7 +3916,7 @@ msgstr "Bitte wählen Sie mindestens 2 Bilder aus."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/blocks/slideshow.php:48
 msgid "Please choose a file set."
-msgstr "Bitte wählen Sie eine Dateisammlung aus."
+msgstr "Bitte wählen Sie ein Dateialbum aus."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/blocks/survey.php:27
 msgid "Provide a simple survey, along with results in a pie chart format."
@@ -4583,19 +4583,19 @@ msgstr "Dateiattribut aktualisiert"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/files/sets.php:26
 msgid "New file set added successfully."
-msgstr "Neue Dateisammlung erfolgreich hinzugefügt."
+msgstr "Neues Dateialbum erfolgreich hinzugefügt"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/files/sets.php:31
 msgid "File set deleted successfully."
-msgstr "Dateisammlung erfolgreich entfernt."
+msgstr "Dateialbum erfolgreich entfernt"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/files/sets.php:52
 msgid "You do not have permission to delete this file set."
-msgstr "Sie haben nicht die Berechtigung, diese Dateisammlung zu löschen."
+msgstr "Sie haben nicht die Berechtigung, dieses Dateialbum zu löschen."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/files/sets.php:63
 msgid "File set updated successfully."
-msgstr "Dateisammlung erfolgreich aktualisiert."
+msgstr "Dateialbum erfolgreich aktualisiert"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/files/sets.php:79
 msgid "Invalid ID"
@@ -4745,20 +4745,20 @@ msgstr "Reihenfolge gespeichert."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/attributes/sets.php:39
 msgid "Attribute set added."
-msgstr "Attributsammlung hinzugefügt"
+msgstr "Attributalbum hinzugefügt"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/attributes/sets.php:42
 msgid "Attribute set deleted."
-msgstr "Attributsammlung gelöscht"
+msgstr "Attributalbum gelöscht"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/attributes/sets.php:45
 msgid "Attribute set updated."
-msgstr "Attributsammlung aktualisiert"
+msgstr "Attributalbum aktualisiert"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/attributes/sets.php:54
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/attributes/sets.php:86
 msgid "Specify a handle for your attribute set."
-msgstr "Bezeichner für die Attributsammlung festlegen"
+msgstr "Bezeichner für das Attributalbum festlegen"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/attributes/sets.php:58
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/attributes/sets.php:90
@@ -4768,21 +4768,21 @@ msgstr "Dieser Bezeichner wird bereits verwendet."
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/attributes/sets.php:62
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/attributes/sets.php:94
 msgid "Specify a name for your attribute set."
-msgstr "Name für die Attributsammlung festlegen."
+msgstr "Name für das Attributalbum festlegen."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/attributes/sets.php:83
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/attributes/sets.php:115
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/attributes/sets.php:143
 msgid "Invalid attribute set."
-msgstr "Ungültige Attributsammlung"
+msgstr "Ungültiges Attributalbum"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/attributes/sets.php:145
 msgid ""
 "This attribute set is locked. That means it was added by a package and "
 "cannot be manually removed."
 msgstr ""
-"Die Attributsammlung ist geschützt. Sie kann nicht manuell entfernt werden, "
-"weil sie von einem Paket stammt."
+"Das Attributalbum ist geschützt. Es kann nicht manuell entfernt werden, weil "
+"es durch ein Paket angelegt wurde."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/backup_restore/backup.php:58
 #, php-format
@@ -5226,25 +5226,25 @@ msgstr "Benutzer erfolgreich gelöscht."
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/users/group/sets.php:23
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/users/group/sets.php:63
 msgid "Specify a name for your group set."
-msgstr "Bitte geben Sie einen Namen für die Gruppensammlung an."
+msgstr "Bitte geben Sie einen Namen für das Gruppenalbum an."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/users/group/sets.php:44
 msgid "Group set added successfully."
-msgstr "Gruppensammlung erfolgreich hinzugefügt"
+msgstr "Gruppenalbum erfolgreich hinzugefügt"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/users/group/sets.php:48
 msgid "Group set deleted successfully."
-msgstr "Gruppensammlung erfolgreich gelöscht"
+msgstr "Gruppenalbum erfolgreich gelöscht"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/users/group/sets.php:52
 msgid "Group set updated successfully."
-msgstr "Gruppensammlung erfolgreich aktualisiert"
+msgstr "Gruppenalbum erfolgreich aktualisiert"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/users/group/sets.php:60
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/users/group/sets.php:81
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/users/group/sets.php:108
 msgid "Invalid group set."
-msgstr "Ungültige Gruppensammlung"
+msgstr "Ungültiges Gruppenalbum"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/workflow/list.php:13
 msgid "Invalid workflow ID."
@@ -6234,7 +6234,7 @@ msgstr " + "
 
 #: /Users/andrew/git/concrete5/web/concrete/core/models/permission/access/entity/types/group_set.php:13
 msgid "Add Group Set"
-msgstr "Gruppensammlung hinzufügen"
+msgstr "Gruppenalbum hinzufügen"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/models/stack/model.php:59
 msgid "No Name"
@@ -7316,7 +7316,7 @@ msgstr "Bezeichner"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/attribute/type_form_required.php:65
 msgid "Set"
-msgstr "Sammlung"
+msgstr "Album"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/attribute/type_form_required.php:68
 #: /Users/andrew/git/concrete5/web/concrete/models/attribute/types/select/form.php:108
@@ -7556,7 +7556,7 @@ msgstr "Padding"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/dashboard/attributes_table.php:23
 msgid "Grouped by set"
-msgstr "Gruppiert nach Sammlung"
+msgstr "Gruppiert nach Album"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/dashboard/attributes_table.php:24
 msgid "In one list"
@@ -7700,17 +7700,17 @@ msgid ""
 "If a file set does not appear above, you either have no access to add files "
 "to it, or it does not accept the file types %s."
 msgstr ""
-"Erscheint weiter oben keine Dateisammlung, verfügen Sie entweder nicht über "
-"die Berechtigung, dieser Sammlung Dateien hinzuzufügen, oder es werden "
-"folgende Dateien vom Typ %s nicht akzeptiert."
+"Erscheint weiter oben kein Dateialbum, verfügen Sie entweder nicht über die "
+"Berechtigung, dieser Sammlung Dateien hinzuzufügen, oder es werden folgende "
+"Dateien vom Typ %s nicht akzeptiert."
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/files/add_to_sets.php:185
 msgid "Add to New Set"
-msgstr "Zu einer neuen Sammlung hinzufügen"
+msgstr "Zu einem neuen Album hinzufügen"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/files/add_to_sets.php:187
 msgid "Make set public"
-msgstr "Gemeinsame Dateisammlung"
+msgstr "Gemeinsames Dateialbum"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/files/search_form_advanced.php:6
 #: /Users/andrew/git/concrete5/web/concrete/elements/pages/search_form_advanced.php:5
@@ -7764,7 +7764,7 @@ msgstr "Stichwörter"
 #: /Users/andrew/git/concrete5/web/concrete/elements/files/search_form_advanced.php:138
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/search_sets_reload.php:20
 msgid "In Set(s)"
-msgstr "In Sammlungen"
+msgstr "In Alben"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/files/search_form_advanced.php:146
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/search_sets_reload.php:27
@@ -8448,7 +8448,7 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/permission/lists/file.php:25
 msgid "Revert to File Set and Global Permissions"
-msgstr "Zurücksetzen auf die globalen und Dateisammlungsberechtigungen"
+msgstr "Zurücksetzen auf die globalen und die Dateialben-Berechtigungen"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/profile/sidebar.php:7
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/profile/friends.php:36
@@ -8845,7 +8845,7 @@ msgid ""
 "concrete5 will render the images as an animated slideshow."
 msgstr ""
 "Erlaubt die Auswahl einzelner Bilder über die Dateiverwaltung oder die "
-"Festlegung einer Dateisammlung als Quelle. Die Wiedergabe kann sortiert oder "
+"Festlegung ein Dateialbum als Quelle. Die Wiedergabe kann sortiert oder "
 "zufällig erfolgen."
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/interface/help.php:24
@@ -9586,7 +9586,7 @@ msgstr "Dateien, Kategorie, Kategorien"
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/upgrade/version_560.php:163
 msgid "new file set"
-msgstr "Neue Dateisammlung"
+msgstr "Neues Dateialbum"
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/upgrade/version_560.php:164
 msgid ""
@@ -9621,7 +9621,7 @@ msgstr "Neue Benutzergruppe, Neue Gruppe, Gruppe, Anlegen"
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/upgrade/version_560.php:170
 msgid "group set"
-msgstr "Gruppensammlung"
+msgstr "Gruppenalbum"
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/upgrade/version_560.php:171
 msgid "forms, log, error, email, mysql, exception, survey"
@@ -11181,7 +11181,7 @@ msgstr ""
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/users/group_sets.php:127
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/users/group_sets.php:151
 msgid "Add Set"
-msgstr "Sammlung hinzufügen"
+msgstr "Album hinzufügen"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/files/attributes.php:4
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/pages/attributes.php:3
@@ -11210,15 +11210,15 @@ msgstr "Sie haben nicht die Berechtigung, auf die Dateiverwaltung zuzugreifen"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/files/sets.php:6
 msgid "File Set"
-msgstr "Dateisammlung"
+msgstr "Dateialbum"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/files/sets.php:16
 msgid "Files in Set"
-msgstr "Dateien im Dateisammlung"
+msgstr "Dateien im Dateialbum"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/files/sets.php:25
 msgid "Are you sure you want to permanently remove this file set?"
-msgstr "Wollen Sie wirklich diese Dateisammlung unwiderruflich löschen?"
+msgstr "Wollen Sie dieses Dateialbum wirklich unwiderruflich löschen?"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/files/sets.php:53
 msgid "Custom Permissions"
@@ -11226,19 +11226,19 @@ msgstr "Individuelle Berechtigungen"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/files/sets.php:55
 msgid "Enable custom permissions for this file set."
-msgstr "Individuelle Berechtigungen für diese Dateisammlung aktivieren."
+msgstr "Individuelle Berechtigungen für dieses Dateialbum aktivieren"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/files/sets.php:88
 msgid ""
 "Click and drag to reorder the files in this set. New files added to this set "
 "will automatically be appended to the end."
 msgstr ""
-"Dateien per Drag & Drop in dieser Dateisammlung einordnen. Neue Dateien "
-"werden automatisch ganz am Ende eingeordnet. "
+"Dateien per Drag & Drop in diesem Dateialbum einordnen. Neue Dateien werden "
+"automatisch ganz am Ende eingeordnet. "
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/files/sets.php:109
 msgid "There are no files in this set."
-msgstr "In dieser Dateisammlung gibt es keine Dateien."
+msgstr "In diesem Dateialbum gibt es keine Dateien."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/files/sets.php:167
 msgid "Public Sets"
@@ -11254,7 +11254,7 @@ msgstr "Keine Dateiensammlungen gefunden"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/files/sets.php:228
 msgid "Are you sure you want to delete this file set?"
-msgstr "Möchten Sie diese Dateisammlung wirklich löschen?"
+msgstr "Möchten Sie dieses Dateialbum wirklich löschen?"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/pages/attributes.php:17
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/pages/attributes.php:31
@@ -11451,8 +11451,8 @@ msgid ""
 "(To add your own page type icons, create a file set named \"%s\" and add "
 "files to that set)"
 msgstr ""
-"(Um eigene Icons hinzuzufügen, erstellen Sie eine Dateisammlung mit dem Namen"
-"\"%s\" speichern Sie diese Icons dort.)"
+"(Um eigene Icons hinzuzufügen, erstellen Sie ein Dateialbum mit dem Namen\"%s"
+"\", und speichern Sie diese Icons dort.)"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/pages/types/add.php:57
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/pages/types/view.php:122
@@ -11460,8 +11460,8 @@ msgstr ""
 msgid ""
 "(Pulling icons from file set \"%s\". Icons will be displayed at %s x %s.)"
 msgstr ""
-"(Icons aus der Dateisammlung \"%s\" entnommen. Icons werden in %s x %s "
-"angezeigt.)"
+"(Icons aus dem Dateialbum \"%s\" entnommen. Icons werden in der Größe %s x "
+"%s angezeigt.)"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/pages/types/add.php:115
 msgid "Default Attributes to Display"
@@ -11798,30 +11798,30 @@ msgstr "Sie benötigen Zugriff auf die Verwaltungs-Sitemap um Seiten zu suchen."
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/attributes/sets.php:6
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/users/group_sets.php:7
 msgid "Edit Set"
-msgstr "Sammlung bearbeiten"
+msgstr "Album bearbeiten"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/attributes/sets.php:11
 msgid "Update Set Details"
-msgstr "Sammlungsdetails bearbeiten"
+msgstr "Albumdetails bearbeiten"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/attributes/sets.php:15
 msgid ""
 "This attribute set is locked. It cannot be deleted, and its handle cannot be "
 "changed."
 msgstr ""
-"Die Attributsammlung ist geschützt. Sie kann nicht gelöscht werden, und der "
+"Das Attributalbum ist geschützt. Es kann nicht gelöscht werden, und der "
 "Bezeichner kann nicht geändert werden."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/attributes/sets.php:43
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/users/group_sets.php:31
 msgid "Update Set"
-msgstr "Sammlung aktualisieren"
+msgstr "Album aktualisieren"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/attributes/sets.php:49
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/attributes/sets.php:56
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/users/group_sets.php:39
 msgid "Delete Set"
-msgstr "Sammlung löschen"
+msgstr "Album löschen"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/attributes/sets.php:50
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/users/group_sets.php:42
@@ -11834,7 +11834,7 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/attributes/sets.php:63
 msgid "Add Attributes to Set"
-msgstr "Attribut einer Sammlung hinzufügen"
+msgstr "Attribut einem Album hinzufügen"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/attributes/sets.php:98
 msgid "Update Attributes"
@@ -12945,7 +12945,7 @@ msgstr "Benutzer aus Gruppe entfernen und Konto deaktivieren"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/users/group_sets.php:49
 msgid "Delete Group Set"
-msgstr "Gruppensammlung löschen"
+msgstr "Gruppenalbum löschen"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/users/group_sets.php:85
 msgid "Update Groups"
@@ -13530,7 +13530,7 @@ msgstr "Wollen Sie diese Layoutvorgabe wirklich löschen?"
 #: /Users/andrew/git/concrete5/web/concrete/tools/i18n_js.php:46
 #: /Users/andrew/git/concrete5/web/concrete/tools/i18n_js.php:101
 msgid "Set Permissions"
-msgstr "Berechtigungen setzen"
+msgstr "Berechtigungen festlegen"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/i18n_js.php:27
 msgid "The block has been added successfully."
@@ -14315,20 +14315,19 @@ msgstr "Möchten Sie die folgenden Dateien wirklich löschen?"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/delete_set.php:13
 msgid "Invalid file set."
-msgstr "Ungültige Dateisammlung"
+msgstr "Ungültiges Dateialbum"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/delete_set.php:28
 msgid "You do not have permissions to remove this file set."
-msgstr "Sie haben nicht die Berechtigung, diese Dateisammlung zu entfernen."
+msgstr "Sie haben nicht die Berechtigung, dieses Dateialbum zu entfernen."
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/delete_set.php:35
 msgid "Are you sure you want to delete the following file set?"
-msgstr "Möchten Sie diese Dateisammlung wirklich löschen?"
+msgstr "Möchten Sie dieses Dateialbum wirklich löschen?"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/delete_set.php:37
 msgid "(Note: files within the set will not be removed.)"
-msgstr ""
-"(Hinweis: Die Dateien in der Dateisammlung werden dadurch nicht gelöscht.)"
+msgstr "(Hinweis: Die Dateien des Dateialbums werden dadurch nicht gelöscht.)"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/duplicate.php:23
 msgid "Unable to copy one or more files."
@@ -14553,7 +14552,7 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/save_search.php:39
 msgid "Enter a name for this saved search file set."
-msgstr "Geben Sie einen Namen für diese gespeicherte Suche an."
+msgstr "Bitte geben Sie einen Namen für diese gespeicherte Suche an."
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/save_search.php:51
 msgid "You must enter a valid name"
