@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: concrete5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-08-28 18:19-0800\n"
-"PO-Revision-Date: 2012-09-02 14:56+0100\n"
+"PO-Revision-Date: 2012-09-02 14:59+0100\n"
 "Last-Translator: Bernd Matzner <bernd@matznermatzner.de>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/"
 "concrete5/language/de_DE/)\n"
@@ -8854,9 +8854,9 @@ msgid ""
 "to submit responses. Enter each response as its own option under Add Option. "
 "Results can be viewed by visiting Dashboard > Reports > Surveys. "
 msgstr ""
-"Fügen Sie Fragen hinzu und legen Sie fest, ob unregistrierte Benutzer "
-"Antworten übermitteln können sollen. Die übermittelten Antworten können in "
-"der Verwaltung unter Berichte > Umfragen eingesehen werden."
+"Fügen Sie Fragen hinzu und legen Sie fest, ob unregistrierte Benutzer an der "
+"Umfrage teilnehmen dürfen. Die übermittelten Antworten können in der "
+"Verwaltung unter Berichte > Umfragen eingesehen werden."
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/interface/help.php:25
 msgid ""
@@ -8995,7 +8995,9 @@ msgstr ""
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/interface/help.php:46
 msgid ""
 "View responses to your site's forms. Submitted form data is collected here."
-msgstr "Zeigt die Daten von durch Besucher abgeschickte Formulare an."
+msgstr ""
+"Zeigt die Daten an, die Besucher über die Formulare dieser Website "
+"übermittelt haben."
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/interface/help.php:47
 msgid ""
@@ -11579,7 +11581,7 @@ msgstr "Einträge"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/reports/forms.php:81
 msgid "View Responses"
-msgstr "Antworten anzeigen"
+msgstr "Einträge anzeigen"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/reports/forms.php:82
 msgid "Open Page"
@@ -11592,7 +11594,7 @@ msgstr "Ihre Website enthält keine Formulare."
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/reports/forms.php:96
 #, php-format
 msgid "Responses to %s"
-msgstr "Antworten zu %s"
+msgstr "Einsendungen zu %s"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/reports/forms.php:99
 msgid "No one has yet submitted this form."
@@ -11709,7 +11711,7 @@ msgstr "Letzte Meldung"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/reports/surveys.php:75
 msgid "Number of Responses"
-msgstr "Anzahl Meldungen"
+msgstr "Anzahl der Meldungen"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/scrapbook/view.php:151
 msgid "Choose a Scrapbook"
