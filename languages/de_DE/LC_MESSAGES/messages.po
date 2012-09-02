@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: concrete5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-08-28 18:19-0800\n"
-"PO-Revision-Date: 2012-09-02 14:33+0100\n"
+"PO-Revision-Date: 2012-09-02 14:40+0100\n"
 "Last-Translator: Bernd Matzner <bernd@matznermatzner.de>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/"
 "concrete5/language/de_DE/)\n"
@@ -5945,7 +5945,7 @@ msgstr "Dieses Paket kann nur in concrete5 ab Version %s verwendet werden."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/models/package.php:506
 msgid "An error occurred while downloading the package."
-msgstr "Beim Download des Paketes ist ein Fehler aufgetreten."
+msgstr "Beim Herunterladen des Paketes ist ein Fehler aufgetreten."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/models/package.php:507
 msgid "Concrete was not able to save the package after download."
@@ -14067,7 +14067,7 @@ msgstr "Alte Versionen"
 #: /Users/andrew/git/concrete5/web/concrete/tools/versions.php:349
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/properties.php:348
 msgid "Creator"
-msgstr "Ersteller"
+msgstr "Erstellt von"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/versions.php:350
 msgid "Approver"
@@ -14422,7 +14422,7 @@ msgstr "URL für gültige Datei(en) eingeben"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/permissions.php:41
 msgid "Protect with Password"
-msgstr "Mit Passwort schützen"
+msgstr "Passwortschutz"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/permissions.php:42
 msgid "Storage Location"
@@ -14437,8 +14437,8 @@ msgid ""
 "Leave the following form field blank in order to allow everyone to download "
 "this file."
 msgstr ""
-"Lassen Sie das folgende Formularfeld leer um jedem einen Download dieser "
-"Datei zu gewähren."
+"Lassen Sie das folgende Formularfeld leer, um allen Besuchern zu erlauben, "
+"diese Datei herunterzuladen."
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/permissions.php:69
 msgid "Save Password"
@@ -14518,7 +14518,7 @@ msgstr "Die 20 letzten Downloads"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/properties.php:418
 msgid "Download Time"
-msgstr "Download-Zeitpunkt"
+msgstr "Heruntergeladen am"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/properties.php:419
 msgid "File Version ID"
