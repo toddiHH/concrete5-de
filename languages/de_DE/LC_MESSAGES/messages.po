@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: concrete5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-08-28 18:19-0800\n"
-"PO-Revision-Date: 2012-09-02 14:49+0100\n"
+"PO-Revision-Date: 2012-09-02 14:56+0100\n"
 "Last-Translator: Bernd Matzner <bernd@matznermatzner.de>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/"
 "concrete5/language/de_DE/)\n"
@@ -4686,7 +4686,7 @@ msgstr "Zurück zu den Themes"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/pages/themes/customize.php:25
 msgid "Theme styles updated."
-msgstr "Stile des Themes erfolgreich aktualisiert."
+msgstr "Stile des Themes erfolgreich aktualisiert"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/pages/themes/customize.php:27
 msgid "This theme has been reset."
@@ -5052,7 +5052,7 @@ msgstr "Die Registrierungseinstellungen wurden gespeichert."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/seo/search_index.php:13
 msgid "Search Index Preferences Updated"
-msgstr "Suchindexeinstellungen aktualisiert."
+msgstr "Suchindexeinstellungen aktualisiert"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/seo/search_index.php:38
 msgid ""
@@ -5189,7 +5189,7 @@ msgstr "Ein Benutzername muss mindestens %s Zeichen lang sein."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/users/search.php:175
 msgid "User updated successfully. "
-msgstr "Benutzer erfolgreich aktualisiert."
+msgstr "Benutzer erfolgreich aktualisiert"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/users/search.php:177
 msgid "Password changed."
@@ -5535,7 +5535,7 @@ msgstr "Seiten"
 #: /Users/andrew/git/concrete5/web/concrete/core/jobs/index_search.php:47
 #, php-format
 msgid "Index updated. %s %s required reindexing."
-msgstr "Index aktualisiert. %s %s wurden aktualisiert."
+msgstr "Index aktualisiert - %s %s mussten neu indiziert werden."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/jobs/process_email.php:12
 msgid "Process Email Posts"
@@ -7617,7 +7617,7 @@ msgstr ""
 #: /Users/andrew/git/concrete5/web/concrete/elements/dashboard/marketplace_connect_failed.php:40
 msgid "Automatically install add-ons and themes with a mouse click."
 msgstr ""
-"Automatisches Installieren von Erweiterungen und Themes mit einem Mausklick."
+"Automatisches Installieren von Erweiterungen und Themes mit einem Mausklick"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/dashboard/marketplace_connect_failed.php:41
 msgid "Ensure your software is up to date and stable."
@@ -11069,7 +11069,7 @@ msgstr "Zurück zu Erweiterungen"
 msgid ""
 "Install custom add-ons or those downloaded from the concrete5.org "
 "marketplace."
-msgstr "Erweiterungen installieren."
+msgstr "Erweiterungen installieren"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/extend/install.php:224
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/pages/themes/customize.php:110
@@ -13681,7 +13681,7 @@ msgstr "Benutzereinstellungen wurden gespeichert."
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/i18n_js.php:72
 msgid "Timed Access for Guest Users Updated Successfully."
-msgstr "Zeitgesteuerter Zugriff für Gastbesucher erfolgreich aktualisiert."
+msgstr "Zeitgesteuerter Zugriff für Gastbesucher erfolgreich aktualisiert"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/i18n_js.php:73
 msgid "Checking for updates."
@@ -13751,7 +13751,7 @@ msgstr "Seitenberechtigung erfolgreich geändert."
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/i18n_js.php:103
 msgid "Theme and page type updated successfully."
-msgstr "Theme und Seitentyp erfolgreich aktualisiert."
+msgstr "Theme und Seitentyp erfolgreich aktualisiert"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/i18n_js.php:105
 #: /Users/andrew/git/concrete5/web/concrete/tools/page_controls_menu_js.php:187
