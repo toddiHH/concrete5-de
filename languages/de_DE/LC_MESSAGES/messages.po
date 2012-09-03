@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: concrete5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-08-28 18:19-0800\n"
-"PO-Revision-Date: 2012-09-03 11:40+0100\n"
+"PO-Revision-Date: 2012-09-03 13:03+0100\n"
 "Last-Translator: Torsten Silbermann <toddihh@gmx.net>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/"
 "concrete5/language/de_DE/)\n"
@@ -1591,7 +1591,7 @@ msgstr "Anzeigedauer"
 #: /Users/andrew/git/concrete5/web/concrete/blocks/slideshow/fileset_row_include.php:7
 #: /Users/andrew/git/concrete5/web/concrete/blocks/slideshow/image_row_include.php:14
 msgid "Fade Duration"
-msgstr "Überblendungs-Dauer"
+msgstr "Überblendungsdauer"
 
 #: /Users/andrew/git/concrete5/web/concrete/blocks/slideshow/form_setup_html.php:21
 #: /Users/andrew/git/concrete5/web/concrete/core/models/file_list.php:394
@@ -1614,7 +1614,7 @@ msgstr "Individuelle Slideshow"
 
 #: /Users/andrew/git/concrete5/web/concrete/blocks/slideshow/form_setup_html.php:24
 msgid "Pictures from File Set"
-msgstr "Bilder aus dem Dateialbum"
+msgstr "Bilder aus Dateialbum"
 
 #: /Users/andrew/git/concrete5/web/concrete/blocks/slideshow/form_setup_html.php:28
 msgid "Playback"
@@ -8650,9 +8650,8 @@ msgid ""
 "<a href=\"%s\">Install</a>, <a href=\"%s\">update</a> or download more <a "
 "href=\"%s\">themes</a> and <a href=\"%s\">add-ons</a>."
 msgstr ""
-"<a href=\"%s\">Installieren</a>, <a href=\"%s\">Aktualisieren</a> oder "
-"Herunterladen von <a href=\"%s\"> Themes</a> und <a href=\"%s"
-"\">Erweiterungen</a>."
+"<a href=\"%s\">Themes</a> & <a href=\"%s\">Erweiterungen</a> <a href=\"%s"
+"\">installieren</a>, <a href=\"%s\">aktualisieren</a> oder herunterladen"
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/dashboard.php:485
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/view.php:84
@@ -9231,7 +9230,8 @@ msgid ""
 "site and in the bookmark list if they bookmark it."
 msgstr ""
 "Icons sind Bilder, die in der Adresszeile und in Lesezeichen des Browsers "
-"Ihrer Besucher dargestellt werden."
+"Ihrer Besucher dargestellt werden. iPhone-Icons werden auf dem Homescreen "
+"des iPhones dargestellt."
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/interface/help.php:72
 msgid ""
@@ -11122,7 +11122,8 @@ msgid ""
 "easily extend a site with themes and add-ons."
 msgstr ""
 "Ihre Seite ist momentan nicht mit der concrete5-Community verbunden. Eine "
-"Verbindung ermöglicht automatische Installation von Themes und Erweiterungen."
+"Verbindung ermöglicht die automatische Installation von Themes und "
+"Erweiterungen."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/extend/themes.php:12
 msgid "Browse Themes"
@@ -12126,8 +12127,8 @@ msgid ""
 "Your image should be 16x16 pixels, and should be an gif or a png with a .ico "
 "file extension."
 msgstr ""
-"Ihr Bild muss 16x16 Pixel gross sein und ein gif oder png Bild mit der "
-"Endung .ico sein."
+"Das Bild muss im GIF- oder PNG-Format vorliegen und die Dateiendung .ico "
+"haben. Die Auflösung muss 16x16 Pixel betragen."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/basics/icons.php:74
 msgid "iPhone Thumbnail"
@@ -12135,7 +12136,7 @@ msgstr "iPhone-Icon"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/basics/icons.php:108
 msgid "iPhone home screen icons should be 57x57 and be in the .png format."
-msgstr "iPhone-Icons müssen 57x57 px große .png Dateien sein."
+msgstr "iPhone-Icons müssen im PNG-Format vorliegen und 57x57 Pixel groß sein."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/basics/interface.php:2
 msgid "Interface Settings"
@@ -12163,7 +12164,7 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/basics/multilingual/view.php:18
 msgid "Offer choice of language on login."
-msgstr "Sprachauswahl anbieten bei Anmeldung."
+msgstr "Bei der Anmeldung eine Sprachauswahl anzeigen."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/environment/debug.php:3
 msgid "Debug Level"
