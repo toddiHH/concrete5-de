@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: concrete5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-08-28 18:19-0800\n"
-"PO-Revision-Date: 2012-09-03 13:17+0100\n"
-"Last-Translator: Torsten Silbermann <toddihh@gmx.net>\n"
+"PO-Revision-Date: 2012-09-03 17:13+0100\n"
+"Last-Translator: Bernd Matzner <bernd@matznermatzner.de>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/"
 "concrete5/language/de_DE/)\n"
 "MIME-Version: 1.0\n"
@@ -3564,11 +3564,11 @@ msgstr "Vorgestelltes Theme"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/blocks/dashboard_newsflow_latest.php:25
 msgid "Grabs the latest newsflow data from concrete5.org."
-msgstr "Holt aktuelle Neuigkeiten von concrete5.org"
+msgstr "Bezieht Neuigkeiten von concrete5.org"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/blocks/dashboard_newsflow_latest.php:29
 msgid "Dashboard Newsflow Latest"
-msgstr "Aktuelle News"
+msgstr "Aktuelle Informationen"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/blocks/dashboard_site_activity.php:19
 msgid "Displays a summary of website activity."
@@ -5708,7 +5708,7 @@ msgstr "Neue Version: %s"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/libraries/newsflow_item.php:28
 msgid "Unable to parse news response."
-msgstr "News konnten nicht geladen werden."
+msgstr "Neuigkeiten konnten nicht geladen werden"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/libraries/private_message_mail_importer.php:29
 msgid ""
@@ -8629,12 +8629,12 @@ msgstr "Startseite"
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/dashboard.php:469
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/view.php:63
 msgid "News"
-msgstr "News"
+msgstr "Neuigkeiten"
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/dashboard.php:469
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/view.php:63
 msgid "Learn about your site and concrete5."
-msgstr "Neuigkeiten von concrete5"
+msgstr "Aktuelles zu Ihrer Website und zu concrete5"
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/dashboard.php:473
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/view.php:69
@@ -8650,8 +8650,9 @@ msgid ""
 "<a href=\"%s\">Install</a>, <a href=\"%s\">update</a> or download more <a "
 "href=\"%s\">themes</a> and <a href=\"%s\">add-ons</a>."
 msgstr ""
-"<a href=\"%s\">Themes</a> & <a href=\"%s\">Erweiterungen</a> <a href=\"%s"
-"\">installieren</a>, <a href=\"%s\">aktualisieren</a> oder herunterladen"
+"<a href=\"%s\">Installieren</a>, <a href=\"%s\">Aktualisieren</a> oder "
+"Herunterladen von <a href=\"%s\">Themes</a> & <a href=\"%s\">Erweiterungen</"
+"a>"
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/dashboard.php:485
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/view.php:84
@@ -8659,7 +8660,7 @@ msgstr ""
 msgid "<a href=\"%s\">Install</a> or <a href=\"%s\">update</a> packages."
 msgstr ""
 "<a href=\"%s\">Installieren</a> oder <a href=\"%s\">Aktualisieren</a> von "
-"Paketen."
+"Paketen"
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/dashboard.php:500
 msgid "View Full Dashboard"
@@ -14583,7 +14584,7 @@ msgstr "Fehler beim Upload"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/importers/multiple.php:55
 msgid "Upload Complete."
-msgstr "Hochladen beendet."
+msgstr "Hochladen beendet"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/importers/remote.php:34
 msgid "Remote URL import requires the iconv extension enabled on your server."
