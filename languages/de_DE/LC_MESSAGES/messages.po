@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: concrete5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-08-28 18:19-0800\n"
-"PO-Revision-Date: 2012-09-03 13:03+0100\n"
+"PO-Revision-Date: 2012-09-03 13:17+0100\n"
 "Last-Translator: Torsten Silbermann <toddihh@gmx.net>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/"
 "concrete5/language/de_DE/)\n"
@@ -12164,7 +12164,7 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/basics/multilingual/view.php:18
 msgid "Offer choice of language on login."
-msgstr "Bei der Anmeldung eine Sprachauswahl anzeigen."
+msgstr "Bei der Anmeldung eine Sprachauswahl anzeigen"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/environment/debug.php:3
 msgid "Debug Level"
