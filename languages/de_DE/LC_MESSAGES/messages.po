@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: concrete5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-08-28 18:19-0800\n"
-"PO-Revision-Date: 2012-09-03 17:42+0100\n"
+"PO-Revision-Date: 2012-09-04 20:10+0100\n"
 "Last-Translator: Bernd Matzner <bernd@matznermatzner.de>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/"
 "concrete5/language/de_DE/)\n"
@@ -168,7 +168,7 @@ msgstr "Anzuzeigende Unterseiten"
 #: /Users/andrew/git/concrete5/web/concrete/tools/users/bulk_properties.php:56
 #: /Users/andrew/git/concrete5/web/concrete/tools/users/bulk_properties.php:81
 msgid "None"
-msgstr "Nichts"
+msgstr "Keine"
 
 #: /Users/andrew/git/concrete5/web/concrete/blocks/autonav/form_setup_html.php:60
 msgid "Relevant sub pages."
@@ -873,7 +873,7 @@ msgstr "Antwortoptionen"
 #: /Users/andrew/git/concrete5/web/concrete/blocks/form/form_setup_html.php:174
 #: /Users/andrew/git/concrete5/web/concrete/blocks/form/form_setup_html.php:288
 msgid "Put each answer options on a new line"
-msgstr "Schreiben Sie jede Antwortoption in eine neue Zeile."
+msgstr "Bitte schreiben Sie jede Antwortoption in eine eigene Zeile."
 
 #: /Users/andrew/git/concrete5/web/concrete/blocks/form/form_setup_html.php:181
 #: /Users/andrew/git/concrete5/web/concrete/blocks/form/form_setup_html.php:295
@@ -1502,7 +1502,7 @@ msgid ""
 "permission to access this RSS feed"
 msgstr ""
 "Diese Seitenliste benutzt nicht die benutzerdefinierte Blogvorlage oder Sie "
-"haben keine Berechtigung, auf diesen RSS Feed zuzugreifen."
+"haben keine Berechtigung, auf diesen RSS-Feed zuzugreifen."
 
 #: /Users/andrew/git/concrete5/web/concrete/blocks/rss_displayer/form_setup_html.php:11
 #: /Users/andrew/git/concrete5/web/concrete/blocks/rss_displayer/view.php:14
@@ -2441,7 +2441,7 @@ msgstr "Zeitzone"
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:101
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/upgrade/version_551.php:28
 msgid "Interface Preferences"
-msgstr "Bedienoberfläche"
+msgstr "Benutzeroberfläche"
 
 #: /Users/andrew/git/concrete5/web/concrete/config/install/i18n_install.php:102
 msgid "SEO & Statistics"
@@ -4787,7 +4787,7 @@ msgstr ""
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/backup_restore/backup.php:58
 #, php-format
 msgid "Unable to locate file %s"
-msgstr "Nicht möglich die Datei %s zu lokalisieren."
+msgstr "Die Datei %s wurde nicht gefunden."
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/backup_restore/backup.php:91
 msgid "Invalid backup file specified."
@@ -4873,7 +4873,7 @@ msgstr "Einstellungen erfolgreich gespeichert"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/basics/multilingual.php:31
 msgid "Interface settings saved"
-msgstr "Cacheeinstellungen gespeichert"
+msgstr "Einstellungen der Benutzeroberfläche gespeichert"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/dashboard/system/basics/site_name.php:11
 msgid "Your site's name has been saved."
@@ -5275,7 +5275,7 @@ msgstr "%s"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/profile/edit.php:26
 msgid "Profile Information Saved."
-msgstr "Profil Informationen gespeichert."
+msgstr "Profilinformationen gespeichert"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/controllers/single_pages/profile/messages.php:134
 #, php-format
@@ -5547,7 +5547,7 @@ msgstr "E-Mails verarbeiten"
 msgid ""
 "Polls an email account and grabs private messages/postings that are sent "
 "there.."
-msgstr "Prüft ein E-Mail Konto auf eingegangene, private Nachrichten..."
+msgstr "Prüft ein E-Mail-Konto auf eingegangene, private Nachrichten"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/jobs/remove_old_page_versions.php:12
 msgid "Remove Old Page Versions"
@@ -5650,8 +5650,9 @@ msgid ""
 "Max Upload File Size: %s\n"
 "Post Max Size: %s"
 msgstr ""
-"Ein unbekannter Fehler ist beim Upload aufgetreten. Bitte post_max_size und "
-"upload_max_filesize prüfen.\n"
+"Beim Hochladen ist ein unbekannter Fehler aufgetreten. Bitte prüfen Sie, ob "
+"das Hochladen von Dateien erlaubt und die Datei nicht größer als die "
+"Höchstwerte der Direktiven post_max_size und upload_max_filesize ist.\n"
 "\n"
 "File Uploads: %s\n"
 "Max Upload File Size: %s\n"
@@ -5665,7 +5666,7 @@ msgstr "d.m.Y H:i:s"
 #: /Users/andrew/git/concrete5/web/concrete/core/libraries/item_list.php:133
 #, php-format
 msgid "Viewing <b>%s</b> to <b>%s</b> (<b>%s</b> Total)"
-msgstr "Anzeige <b>%s</b> bis <b>%s</b> (<b>%s</b> Gesamt)"
+msgstr "%s bis %s ( von %s )"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/libraries/loader.php:252
 msgid "A database error occurred while processing this request."
@@ -6198,7 +6199,7 @@ msgstr "bis"
 #: /Users/andrew/git/concrete5/web/concrete/core/models/permission/duration.php:158
 #, php-format
 msgid "Starts %s. "
-msgstr "Beginnt am %s"
+msgstr "Beginnt am %s "
 
 #: /Users/andrew/git/concrete5/web/concrete/core/models/permission/duration.php:160
 msgid "Already Started. "
@@ -6207,7 +6208,7 @@ msgstr "Bereits gestartet."
 #: /Users/andrew/git/concrete5/web/concrete/core/models/permission/duration.php:163
 #, php-format
 msgid "Ends %s. "
-msgstr "Endet am %s"
+msgstr "Endet am %s "
 
 #: /Users/andrew/git/concrete5/web/concrete/core/models/permission/duration.php:165
 msgid "No End Date. "
@@ -7387,7 +7388,7 @@ msgstr "Kann im Profil bearbeitet werden"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/attribute/categories/user.php:30
 msgid "Editable and Required in Profile."
-msgstr "Pflichtfeld und bearbeitbar im Profil."
+msgstr "Pflichtfeld und bearbeitbar im Profil"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/attribute/categories/user.php:37
 msgid "Registration"
@@ -8078,7 +8079,7 @@ msgstr "Ganztags"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/permission/duration.php:96
 msgid "Repeat..."
-msgstr "Wiederholen..."
+msgstr "Wiederholen…"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/permission/duration.php:104
 msgid "Repeats"
@@ -8182,7 +8183,7 @@ msgstr "Alle Gruppen"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/permission/keys/access_user_search.php:49
 msgid "Who can't search what?"
-msgstr "Wer darf wonach suchen?"
+msgstr "Wer darf wonach nicht suchen?"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/permission/keys/access_user_search.php:59
 #: /Users/andrew/git/concrete5/web/concrete/elements/permission/keys/assign_user_groups.php:58
@@ -8577,7 +8578,7 @@ msgstr "Derzeit warten keine Aufträge."
 #: /Users/andrew/git/concrete5/web/concrete/elements/workflow/progress/categories/page/pending.php:87
 #: /Users/andrew/git/concrete5/web/concrete/elements/workflow/progress/categories/page/pending.php:96
 msgid "None."
-msgstr "Nichts"
+msgstr "Keine"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/workflow/types/basic/edit_type_form.php:3
 #: /Users/andrew/git/concrete5/web/concrete/elements/workflow/types/basic/type_form.php:3
@@ -10592,7 +10593,7 @@ msgstr "Passwort wurde geändert. Bitte anmelden um weiterzufahren."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/login.php:31
 msgid "Enter your new password below."
-msgstr "Neues Passwort eingeben."
+msgstr "Bitte geben Sie Ihr neues Passwort ein."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/login.php:38
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/profile/edit.php:52
@@ -11392,7 +11393,7 @@ msgstr "Keine. Diese Datei wird automatisch für Seiten ohne Vorlage verwendet."
 msgid ""
 "None. This file will automatically be used by the <strong>%s</strong> page."
 msgstr ""
-"Keine. Diese Datei wird automatisch von der <strong>%s</strong> Seite "
+"Keine. Diese Datei wird automatisch von der Seite <strong>%s</strong> "
 "verwendet."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/pages/themes/inspect.php:89
@@ -12084,7 +12085,7 @@ msgstr "Es ist keine Aktualisierung verfügbar."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/basics/editor.php:1
 msgid "Control the options available for TinyMCE."
-msgstr "TinyMCE-Optionen verwalten."
+msgstr "TinyMCE-Optionen verwalten"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/basics/editor.php:11
 msgid "Toolbar Set"
@@ -12257,7 +12258,7 @@ msgstr "Aktiviert"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/mail/importers.php:34
 msgid "POP Mail Server Authentication Settings"
-msgstr "POP-Mailserver-Einstellungen"
+msgstr "Mailserver-Einstellungen"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/mail/importers.php:36
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/mail/method.php:25
@@ -12431,8 +12432,7 @@ msgstr "Erweiterte Berechtigungen sind aktiviert."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/permissions/advanced.php:12
 msgid "Advanced permissions are turned off. Enable them below."
-msgstr ""
-"Die erweiterten Berechtigungen sind deaktiviert. Aktivieren Sie diese hier."
+msgstr "Die erweiterten Berechtigungen sind deaktiviert."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/permissions/advanced.php:14
 msgid ""
@@ -12444,7 +12444,7 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/permissions/advanced.php:21
 msgid "Enable Advanced Permissions"
-msgstr "Erweiterte Berechtigungen erlauben"
+msgstr "Erweiterte Berechtigungen aktivieren"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/permissions/antispam.php:12
 msgid "Active Library"
@@ -12563,7 +12563,7 @@ msgstr "Läuft ab in"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/permissions/ip_blacklist.php:34
 msgid "Make Ban Permanent"
-msgstr "Sperrung dauerhaft machen"
+msgstr "dauerhafte Sperrung"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/permissions/ip_blacklist.php:35
 msgid "Remove Ban"
@@ -12656,7 +12656,7 @@ msgstr "Optionen für öffentliche Benutzer-Profile verwalten."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/registration/profiles.php:12
 msgid "Profile Options"
-msgstr "Profil-Optionen"
+msgstr "Profiloptionen"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/registration/profiles.php:16
 msgid "Enable public profiles."
@@ -13746,7 +13746,7 @@ msgstr "Seiteneigenschaften"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/i18n_js.php:100
 msgid "Page Permissions"
-msgstr "Seiten Berechtigungen"
+msgstr "Seitenberechtigungen"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/i18n_js.php:102
 msgid "Page permissions updated successfully."
@@ -13790,7 +13790,7 @@ msgstr ""
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/i18n_js.php:114
 msgid "Choose a new parent page from the sitemap."
-msgstr "Neue übergeordnete Seite auswählen."
+msgstr "Neue übergeordnete Seite auswählen"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/i18n_js.php:115
 msgid "Edit in Composer"
@@ -14810,7 +14810,7 @@ msgstr "Zeiteinstellungen"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/permissions/access_entity.php:97
 msgid "How long will this permission be valid for?"
-msgstr "Wie lange wird diese Berechtigung gelten?"
+msgstr "Wie lange soll diese Berechtigung gelten?"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/permissions/dialogs/access/entity/types/group_combination.php:17
 msgid ""
