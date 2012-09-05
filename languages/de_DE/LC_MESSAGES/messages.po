@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: concrete5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-08-28 18:19-0800\n"
-"PO-Revision-Date: 2012-09-04 20:10+0100\n"
-"Last-Translator: Bernd Matzner <bernd@matznermatzner.de>\n"
+"PO-Revision-Date: 2012-09-05 15:08+0100\n"
+"Last-Translator: Torsten Silbermann <toddihh@gmx.net>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/"
 "concrete5/language/de_DE/)\n"
 "MIME-Version: 1.0\n"
@@ -5666,7 +5666,7 @@ msgstr "d.m.Y H:i:s"
 #: /Users/andrew/git/concrete5/web/concrete/core/libraries/item_list.php:133
 #, php-format
 msgid "Viewing <b>%s</b> to <b>%s</b> (<b>%s</b> Total)"
-msgstr "%s bis %s ( von %s )"
+msgstr "%s bis %s (von %s)"
 
 #: /Users/andrew/git/concrete5/web/concrete/core/libraries/loader.php:252
 msgid "A database error occurred while processing this request."
@@ -7762,7 +7762,7 @@ msgstr "Gespeicherte Suche"
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/reports/logs.php:34
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/users/groups.php:66
 msgid "Keywords"
-msgstr "Stichwörter"
+msgstr "Stichwort"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/files/search_form_advanced.php:138
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/search_sets_reload.php:20
@@ -7772,13 +7772,13 @@ msgstr "In Alben"
 #: /Users/andrew/git/concrete5/web/concrete/elements/files/search_form_advanced.php:146
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/search_sets_reload.php:27
 msgid "Files in no sets."
-msgstr "Dateien ohne Zugehörigkeit zu einem Album"
+msgstr "Dateien ohne Albenzugehörigkeit"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/files/search_form_advanced.php:155
 #: /Users/andrew/git/concrete5/web/concrete/elements/pages/search_form_advanced.php:147
 #: /Users/andrew/git/concrete5/web/concrete/elements/users/search_form_advanced.php:92
 msgid "# Per Page"
-msgstr "Ergebnisse pro Seite"
+msgstr "# pro Seite"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/files/search_form_advanced.php:173
 #: /Users/andrew/git/concrete5/web/concrete/elements/pages/search_form_advanced.php:161
@@ -7813,7 +7813,7 @@ msgstr "Suche speichern"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/files/search_form_sets.php:45
 msgid "Display files in no sets."
-msgstr "Dateien ohne Zugehörigkeit zu einem Album anzeigen"
+msgstr "Dateien ohne Albenzugehörigkeit anzeigen"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/files/search_results.php:27
 #: /Users/andrew/git/concrete5/web/concrete/elements/pages/search_results.php:35
@@ -8089,7 +8089,7 @@ msgstr "Wird wiederholt"
 #: /Users/andrew/git/concrete5/web/concrete/elements/permission/duration.php:134
 #: /Users/andrew/git/concrete5/web/concrete/elements/permission/duration.php:167
 msgid "Repeat every"
-msgstr "Wiederholt sich bei jedem"
+msgstr "Wiederholen alle"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/permission/duration.php:126
 msgid "Repeat By"
@@ -8387,7 +8387,7 @@ msgstr "Zurücksetzen auf die Seitenberechtigungen"
 #: /Users/andrew/git/concrete5/web/concrete/elements/permission/lists/collection.php:15
 #: /Users/andrew/git/concrete5/web/concrete/tools/pages/permissions.php:86
 msgid "Assign Permissions"
-msgstr "Berechtigungen einräumen"
+msgstr "Berechtigungen zuordnen"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/permission/lists/collection.php:18
 #: /Users/andrew/git/concrete5/web/concrete/tools/pages/permissions.php:90
@@ -8492,7 +8492,7 @@ msgstr "Aktive Benutzer"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/users/search_form_advanced.php:65
 msgid "Username or Email"
-msgstr "Benutzername / E-Mail-Adresse"
+msgstr "Benutzername / E-Mail"
 
 #: /Users/andrew/git/concrete5/web/concrete/elements/users/search_form_advanced.php:78
 msgid "Group(s)"
@@ -9191,8 +9191,8 @@ msgid ""
 "View and change which file types you permit users to upload to your File "
 "Manager."
 msgstr ""
-"Erlaubt es, die Dateitypen, die Benutzer über die Dateiverwaltung hochladen "
-"dürfen, festzulegen."
+"Erlaubt es, die Dateitypen festzulegen, die Benutzer über die "
+"Dateiverwaltung hochladen dürfen."
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/interface/help.php:67
 msgid ""
@@ -9306,9 +9306,10 @@ msgid ""
 "good idea to clear the cache. If you're having to clear the cache a lot, you "
 "might want to just turn off caching in Cache & Speed Settings."
 msgstr ""
-"Zeigt die Website unbeabsichtigt veraltete Inhalte an, sollte der Cache "
-"gelöscht werden. Muss der Cache oft gelöscht werden, könnte es sinnvoller "
-"sein, ihn unter Leistungsoptimierung ganz zu deaktivieren."
+"Verhält sich die Website eigenartig oder zeigt sie unbeabsichtigt veraltete "
+"Inhalte an, sollte der Cache geleert werden. Muss der Cache oft geleert "
+"werden, könnte es sinnvoller sein, ihn unter Leistungsoptimierung ganz zu "
+"deaktivieren."
 
 #: /Users/andrew/git/concrete5/web/concrete/helpers/concrete/interface/help.php:82
 msgid ""
@@ -12360,15 +12361,15 @@ msgstr " Minuten"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/optimization/cache.php:64
 msgid "Manually cleared."
-msgstr "Bis der Cache manuell durchgeführt wird"
+msgstr "Manuelle Löschung"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/optimization/clear_cache.php:7
 msgid ""
 "If your site is displaying out-dated information, or behaving unexpectedly, "
 "it may help to clear your cache."
 msgstr ""
-"Wenn auf Ihrer Seite veraltete Daten angezeigt werden, versuchen Sie, den "
-"Cache zu leeren."
+"Wenn auf der Website veraltete Daten angezeigt werden oder unerwartete "
+"Änderungen auftreten, ist es oft hilfreich, den Cache zu leeren."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/optimization/jobs.php:38
 msgid "Are you sure you want to uninstall this job?"
@@ -12736,7 +12737,7 @@ msgstr "Seiteneinstellungen für die Suchmaschinenoptimierung (SEO)"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/seo/bulk_seo_tool.php:95
 msgid " # Per Page"
-msgstr "Anzahl pro Seite"
+msgstr "# pro Seite"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/seo/bulk_seo_tool.php:111
 msgid "How Many Levels Below Parent?"
@@ -12769,7 +12770,7 @@ msgstr "Geändert"
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/seo/bulk_seo_tool.php:182
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/seo/bulk_seo_tool.php:197
 msgid "Default value. Click to edit."
-msgstr "Standardwert. Bitte klicken Sie, um diesen zu ändern."
+msgstr "<br/>Standardwert - Zum Ändern anklicken"
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/seo/bulk_seo_tool.php:210
 msgid "Slug"
@@ -12816,9 +12817,9 @@ msgid ""
 "Tracks page views in concrete5. Disabling this may increase site "
 "performance, but you will have to get statistics information from elsewhere."
 msgstr ""
-"Analysiert Seitenansichten unter concrete5. Die Deaktivierung könnte die "
-"Leistung Ihre Website erhöhen, Statistiken müssen Sie allerdings anderswo "
-"herbekommen."
+"Analysiert die Seitenbesuche unter concrete5. Die Deaktivierung könnte die "
+"Leistung Ihre Website erhöhen. Statistiken werden dann aber nicht mehr "
+"aufgezeichnet."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/seo/statistics.php:13
 msgid "Track page view statistics."
@@ -12829,8 +12830,8 @@ msgid ""
 "Any HTML you paste here will be inserted at either the bottom or top of "
 "every page in your website automatically."
 msgstr ""
-"Dieser HTML Code wird entweder am Ende oder am Anfang jeder Seite "
-"automatisch angefügt."
+"Der hier eingefügte HTML-Code wird automatisch am Anfang oder Ende jeder "
+"Seite der Website eingefügt."
 
 #: /Users/andrew/git/concrete5/web/concrete/single_pages/dashboard/system/seo/tracking_codes.php:21
 msgid "Position"
@@ -13863,7 +13864,7 @@ msgstr "Ausstehend"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/i18n_js.php:160
 msgid "Upload Complete"
-msgstr "Upload fertiggestellt"
+msgstr "Hochladen erfolgreich"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/jobs.php:50
 msgid "Error: Job not found"
@@ -14235,12 +14236,12 @@ msgstr "%s Dateien erfolgreich hochgeladen"
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/bulk_properties.php:281
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/properties.php:209
 msgid "Basic Properties"
-msgstr "Grundlegende Eigenschaften"
+msgstr "Standardeigenschaften"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/bulk_properties.php:283
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/properties.php:310
 msgid "Other Properties"
-msgstr "Andere Eigenschaften"
+msgstr "Weitere Eigenschaften"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/bulk_properties.php:296
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/properties.php:213
@@ -14471,7 +14472,7 @@ msgstr "Standard-Speicherort"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/permissions.php:99
 msgid "Save Location"
-msgstr "Speicherort"
+msgstr "Speicherort festlegen"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/properties.php:205
 msgid "File Details"
@@ -14509,7 +14510,7 @@ msgstr "Dateivorschau"
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/properties.php:376
 msgid "Updated "
-msgstr "Aktualisiert"
+msgstr "Aktualisiert "
 
 #: /Users/andrew/git/concrete5/web/concrete/tools/files/properties.php:413
 #, php-format
